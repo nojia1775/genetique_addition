@@ -12,7 +12,7 @@ void	trier(t_equa **gen, int n, int target)
 		j = 0;
 		while (j < n)
 		{
-			if (ft_abs(gen[0][i].elem1 * gen[0][i].elem2 - target) > ft_abs(gen[0][j].elem1 * gen[0][j].elem2 - target) && i < j)
+			if (ft_abs(gen[0][i].elem1 + gen[0][i].elem2 - target) > ft_abs(gen[0][j].elem1 + gen[0][j].elem2 - target) && i < j)
 			{
 				tmp = gen[0][i].elem1;
 				gen[0][i].elem1 = gen[0][j].elem1;
@@ -21,7 +21,7 @@ void	trier(t_equa **gen, int n, int target)
 				gen[0][i].elem2 = gen[0][j].elem2;
 				gen[0][j].elem2 = tmp;
 			}
-			else if (ft_abs(gen[0][i].elem1 * gen[0][i].elem2 - target) < ft_abs(gen[0][j].elem1 * gen[0][j].elem2 - target) && i > j)
+			else if (ft_abs(gen[0][i].elem1 + gen[0][i].elem2 - target) < ft_abs(gen[0][j].elem1 + gen[0][j].elem2 - target) && i > j)
 			{
 				tmp = gen[0][i].elem1;
 				gen[0][i].elem1 = gen[0][j].elem1;

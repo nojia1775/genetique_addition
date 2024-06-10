@@ -6,27 +6,29 @@
 # include <stdlib.h>
 # include <unistd.h>
 # include <time.h>
+# include "../include/libft.h"
 
 typedef struct  s_lapin
 {
         int     vitesse;
         int     taille;
         int     vue;
-        int     sexe;
         int     mort;
         int     parent;
         int     position;
         int     carrotes_manges;
 }               Lapin;
 
-typedef struct  s_list
+typedef struct  list
 {
         int     taille;
         int     carottes;
         Lapin   *list;
-}               t_list;
+}               LIST;
 
-void	aff(t_list *list);
-void	chasse(t_list *list);
+void	aff(LIST *list);
+void	chasse(LIST *list, Lapin *lapins);
+LIST	*next_gen(LIST *list, int carottes);
+size_t	size_of(Lapin **list);
 
 #endif
