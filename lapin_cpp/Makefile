@@ -1,32 +1,36 @@
 CC = cc
 
-CFLAGS = -Wall -Wextra -Werror
+CXX = g++  # Utiliser le compilateur C++ pour compiler les fichiers C++
+CXXFLAGS = -Wall -Wextra -Werror
 
 OBJS_DIR = obj
 
-SRCS =  
+SRCS =  src/Lapin.cpp \
+        src/main.cpp \
+        src/chasse.cpp
 
 OBJS = $(SRCS:%.cpp=$(OBJS_DIR)/%.o)
 
 NAME = lapin
 
 $(NAME): $(OBJS)
-        @make -C LIBFT
-        $(CC) $(CFLAGS) $^ -o $@ LIBFT/libft.a
-$(OBJS_DIR)/%.o: %.c
-        @mkdir -p $(dir $@)
-        $(CC) $(CFLAGS) -c $< -o $@
+	$(CXX) $(CXXFLAGS) $^ -o $@
+
+$(OBJS_DIR)/%.o: %.cpp
+	@mkdir -p $(dir $@)
+	$(CXX) $(CXXFLAGS) -c $< -o $@
 
 all: $(NAME)
 
 clean:
-        @make clean -C LIBFT
-        rm -f $(OBJS)
+	rm -f $(OBJS)
 
 fclean: clean
-        @make fclean -C LIBFT
-        rm -f $(NAME)
+	rm -f $(NAME)
 
 re: fclean all
+
+.PHONY: all clean fclean re
+
 
 .PHONY: all clean fclean re

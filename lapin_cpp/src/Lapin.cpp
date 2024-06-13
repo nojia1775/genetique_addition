@@ -1,17 +1,31 @@
 #include "../include/Lapin.hpp"
 
+static int n = 0;
+
 Lapin::Lapin(void)
 {
-	static int	index;
-
-	index = 0;
-	std::srand(time(0));
-	this->index = index++;
+	this->index = n++;
 	this->mort = 0;
 	this->parent = 0;
 	this->vitesse = std::rand() % 10;
 	this->vue = std::rand() % 10;
 	this->taille = std::rand() % 10;
+	if (this->taille > 7)
+	{
+		this->vitesse -= this->taille - 5;
+		if (this->vitesse < 0)
+			this->vitesse = 0;
+	}
+}
+
+Lapin::Lapin(int vitesse, int vue, int taille)
+{
+	this->index = n++;
+	this->mort = 0;
+	this->parent = 0;
+	this->vitesse = vitesse;
+	this->vue = vue;
+	this->taille = taille;
 	if (this->taille > 7)
 	{
 		this->vitesse -= this->taille - 5;
@@ -40,7 +54,32 @@ int	Lapin::get_vue(void)
 	return (this->vue);
 }
 
+int	Lapin::get_index(void)
+{
+	return (this->index);
+}
+
 void	Lapin::aff(void)
 {
-	printf("Lapin %d : Vitesse = %d\tVue = %d\tTaille = %d\n", this->index, this->vitesse, this->vue, this->taille);
+	printf("Lapin %d : Vitesse = %d  Vue = %d  Taille = %d\n", this->index, this->vitesse, this->vue, this->taille);
+}
+
+void	Lapin::set_vitesse(int vitesse)
+{
+	this->vitesse = vitesse;
+}
+
+void	Lapin::set_vue(int vue)
+{
+	this->vue = vue;
+}
+
+void	Lapin::set_taille(int taille)
+{
+	this->taille = taille;
+}
+
+void	Lapin::set_index(int index)
+{
+	this->index = index;
 }
