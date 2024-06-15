@@ -7,7 +7,8 @@ OBJS_DIR = obj
 
 SRCS =  src/Lapin.cpp \
         src/main.cpp \
-        src/chasse.cpp
+        src/chasse.cpp \
+	src/utils.cpp
 
 OBJS = $(SRCS:%.cpp=$(OBJS_DIR)/%.o)
 

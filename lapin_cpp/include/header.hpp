@@ -7,8 +7,13 @@
 # include <cstdio>
 # include <cstdlib>
 # include <ctime>
+# include <cstring>
 # include "Lapin.hpp"
 
-void	chasse(std::list<Lapin>& lapins);
+class Lapin;
+
+void	chasse(std::list<Lapin>& lapins, int ressources);
+void	aff_lapins(std::list<Lapin> lapins);
+void	help(void);
 
 #endif

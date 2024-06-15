@@ -15,6 +15,7 @@ class	Lapin
 	public:
 		int	mort;
 		int	parent;
+		int	carottes_manges;
 
 		Lapin(void);
 		Lapin(int vitesse, int vue, int taille);

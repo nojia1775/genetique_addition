@@ -10,6 +10,7 @@ Lapin::Lapin(void)
 	this->vitesse = std::rand() % 10;
 	this->vue = std::rand() % 10;
 	this->taille = std::rand() % 10;
+	this->carottes_manges = 0;
 	if (this->taille > 7)
 	{
 		this->vitesse -= this->taille - 5;
@@ -26,6 +27,7 @@ Lapin::Lapin(int vitesse, int vue, int taille)
 	this->vitesse = vitesse;
 	this->vue = vue;
 	this->taille = taille;
+	this->carottes_manges = 0;
 	if (this->taille > 7)
 	{
 		this->vitesse -= this->taille - 5;
@@ -61,7 +63,7 @@ int	Lapin::get_index(void)
 
 void	Lapin::aff(void)
 {
-	printf("Lapin %d : Vitesse = %d  Vue = %d  Taille = %d\n", this->index, this->vitesse, this->vue, this->taille);
+	printf("Lapin %d : Vitesse = %d  Vue = %d  Taille = %d  Carottes = %d\n", this->index, this->vitesse, this->vue, this->taille, this->carottes_manges);
 }
 
 void	Lapin::set_vitesse(int vitesse)
