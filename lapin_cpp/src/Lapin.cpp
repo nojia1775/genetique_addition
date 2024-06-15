@@ -63,7 +63,7 @@ int	Lapin::get_index(void)
 
 void	Lapin::aff(void)
 {
-	printf("Lapin %d : Vitesse = %d  Vue = %d  Taille = %d  Carottes = %d\n", this->index, this->vitesse, this->vue, this->taille, this->carottes_manges);
+	printf("Lapin %d : Vi = %d  Vue = %d  T = %d  C = %d  M = %d  P = %d\n", this->index, this->vitesse, this->vue, this->taille, this->carottes_manges, this->mort, this->parent);
 }
 
 void	Lapin::set_vitesse(int vitesse)
