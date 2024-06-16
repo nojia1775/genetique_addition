@@ -1,5 +1,4 @@
-#include "../include/Lapin.hpp"
-
+#include "../include/header.hpp"
 
 Lapin::Lapin(void)
 {
@@ -10,7 +9,7 @@ Lapin::Lapin(void)
 	this->vitesse = std::rand() % 10;
 	this->vue = std::rand() % 10;
 	this->taille = std::rand() % 10;
-	this->carottes_manges = 0;
+	this->set_reserve(0);
 	if (this->taille > 7)
 	{
 		this->vitesse -= this->taille - 5;
@@ -44,9 +43,17 @@ int	Lapin::get_index(void)
 	return (this->index);
 }
 
+int	Lapin::get_reserve(void)
+{
+	return (this->reserve);
+}
+
 void	Lapin::aff(void)
 {
-	printf("Lapin %d :\tVitesse = %d\tVision = %d\tTaille = %d\tCarottes = %d\n", this->index, this->vitesse, this->vue, this->taille, this->carottes_manges);
+	if (COLOR)
+		printf("Lapin %d :\t%sVitesse%s = %d\t%sVision%s = %d\t%sTaille%s = %d\t%sReserve%s = %d\n", this->index, BLUE, RESET, this->vitesse, UWHITE, RESET, this->vue, RED, RESET, this->taille, YELLOW, RESET, this->get_reserve());
+	else
+		printf("Lapin %d :\tVitesse = %d\tVision = %d\tTaille = %d\tReserve = %d\n", this->index, this->vitesse, this->vue, this->taille, this->get_reserve());
 }
 
 void	Lapin::set_vitesse(int vitesse)
@@ -67,4 +74,9 @@ void	Lapin::set_taille(int taille)
 void	Lapin::set_index(int index)
 {
 	this->index = index;
+}
+
+void	Lapin::set_reserve(int reserve)
+{
+	this->reserve = reserve;
 }

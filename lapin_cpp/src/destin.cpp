@@ -7,7 +7,10 @@ static void	mort(std::list<Lapin>& lapins)
 	{
 		if (it->mort)
 		{
-			printf("Lapin %d est mort de faim\n", it->get_index());
+			if (COLOR)
+				printf("%sLapin %d est mort de faim%s\n", HRED, it->get_index(), RESET);
+			else
+				printf("Lapin %d est mort de faim\n", it->get_index());
 			it = lapins.erase(it);
 		}
 		else
@@ -49,13 +52,16 @@ static void	enfant(std::list<Lapin>& lapins)
 		while ((!b->parent || a == b) && b != lapins.end())
 			b++;
 		if (a == lapins.end() || b == lapins.end())
-			return ;
+			return ((void)printf("\n\n"));
 		a->parent = 0;
 		b->parent = 0;
 		lapins.push_back(Lapin());
 		enfant = lapins.end();
 		enfant--;
-		printf("Lapin %d est né de Lapin %d et Lapin %d\n", enfant->get_index(), a->get_index(), b->get_index());
+		if (COLOR)
+			printf("%sLapin %d est né de Lapin %d et Lapin %d%s\n", HGREEN, enfant->get_index(), a->get_index(), b->get_index(), RESET);
+		else
+			printf("Lapin %d est né de Lapin %d et Lapin %d\n", enfant->get_index(), a->get_index(), b->get_index());
 		parent1 = std::rand() % 3;
 		parent2 = std::rand() % 3;
 		while (parent2 == parent1)
@@ -76,14 +82,15 @@ void	destin(std::list<Lapin>& lapins, int survivre, int reproduction)
 	std::list<Lapin>::iterator it = lapins.begin();
 	while (it != lapins.end())
 	{
-		if (it->carottes_manges < survivre)
+		if (it->get_reserve() < survivre)
 			it->mort = 1;
-		else if (it->carottes_manges >= reproduction)
+		else if (it->get_reserve() > reproduction)
 			it->parent = 1;
 		it++;
 	}
 	printf("\n");
 	mort(lapins);
+	famine(lapins, survivre, reproduction);
 	enfant(lapins);
 	sterelisation(lapins);
 }

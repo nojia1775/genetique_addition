@@ -1,24 +1,23 @@
 #include "../include/header.hpp"
 
-void	aff_lapins(std::list<Lapin> lapins, int ressources, int flag)
+void	aff_lapins(std::list<Lapin> lapins, int ressources, int flag, int ajout)
 {
 	static int gen = 0;
-	int pop;
 	std::list<Lapin>::iterator it = lapins.begin();
-	while (it != lapins.end())
-	{
-		if (!it->mort)
-			pop++;
-		it++;
-	}
 	it = lapins.begin();
 	if (flag)
+	{
 		printf("GENERATION : %d\n", gen / 2);
+		if (gen == 0)
+			(void)ajout;
+		else
+			printf("AJOUT : %d\n", ajout);
+	}
 	else
 		printf("APRES MANGE : \n");
 	printf("CAROTTES : %d\n", ressources);
 	gen++;
-	printf("POPULATION : %d\n", pop);
+	printf("POPULATION : %ld\n", lapins.size());
 	while (it != lapins.end())
 	{
 		it->aff();
@@ -43,12 +42,15 @@ void	sterelisation(std::list<Lapin>& lapins)
 	}
 }
 
-void	famine(std::list<Lapin>& lapins)
+void	famine(std::list<Lapin>& lapins, int survivre, int reproduction)
 {
 	std::list<Lapin>::iterator it = lapins.begin();
 	while (it != lapins.end())
 	{
-		it->carottes_manges = 0;
+		if (it->parent)
+			it->set_reserve(it->get_reserve() - reproduction);
+		else
+			it->set_reserve(it->get_reserve() - survivre);
 		it++;
 	}
 }
