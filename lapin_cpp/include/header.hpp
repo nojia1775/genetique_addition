@@ -1,7 +1,7 @@
 #ifndef HEADER_HPP
 
 # define HEADER_HPP
-# define COLOR 1
+# define COLOR 0
 
 # include <iostream>
 # include <list>

@@ -30,7 +30,10 @@ int	main(int argc, char **argv)
 				return (printf("\t\tLapin %d est mort de solitude\n\n", l->get_index()));
 		}
 		vie(lapins, ressources, std::atoi(argv[3]), std::atoi(argv[4]));
-		ajout = std::rand() % (std::atoi(argv[5]));
+		if (std::atoi(argv[5]) == 0)
+			ajout = 0;
+		else
+			ajout = std::rand() % (std::atoi(argv[5]));
 		ressources += ajout;
 	}
 	if (lapins.empty())
@@ -39,6 +42,8 @@ int	main(int argc, char **argv)
 			printf("\t%sLES LAPINS ONT PERI%s\n\n", BHRED, RESET);
 		else
 			printf("\tLES LAPINS ONT PERI\n\n");
+		return (0);
 	}
+	aff_lapins(lapins, ressources, 1, 0);
 	return (0);
 }

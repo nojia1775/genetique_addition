@@ -1,0 +1,3626 @@
+GENERATION : 0
+CAROTTES : 1000
+POPULATION : 10
+Lapin 0 :	Vitesse = 0	Vision = 0	Taille = 7	Reserve = 0
+Lapin 1 :	Vitesse = 9	Vision = 4	Taille = 1	Reserve = 0
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 0
+Lapin 3 :	Vitesse = 9	Vision = 1	Taille = 1	Reserve = 0
+Lapin 4 :	Vitesse = 0	Vision = 3	Taille = 8	Reserve = 0
+Lapin 5 :	Vitesse = 3	Vision = 3	Taille = 1	Reserve = 0
+Lapin 6 :	Vitesse = 3	Vision = 4	Taille = 8	Reserve = 0
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 0
+Lapin 8 :	Vitesse = 3	Vision = 0	Taille = 4	Reserve = 0
+Lapin 9 :	Vitesse = 7	Vision = 1	Taille = 2	Reserve = 0
+
+Lapin 1 a pris 2 carottes
+Lapin 3 a pris 1 carottes
+Lapin 9 a pris 2 carottes
+Lapin 7 a pris 4 carottes
+Lapin 2 a pris 5 carottes
+Lapin 5 a pris 2 carottes
+Lapin 6 a pris 4 carottes
+Lapin 8 a pris 2 carottes
+Lapin 0 a pris 1 carottes
+Lapin 4 a pris 2 carottes
+
+
+APRES MANGE : 
+CAROTTES : 975
+POPULATION : 10
+Lapin 1 :	Vitesse = 9	Vision = 4	Taille = 1	Reserve = 2
+Lapin 3 :	Vitesse = 9	Vision = 1	Taille = 1	Reserve = 1
+Lapin 9 :	Vitesse = 7	Vision = 1	Taille = 2	Reserve = 2
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 4
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 5
+Lapin 5 :	Vitesse = 3	Vision = 3	Taille = 1	Reserve = 2
+Lapin 6 :	Vitesse = 3	Vision = 4	Taille = 8	Reserve = 4
+Lapin 8 :	Vitesse = 3	Vision = 0	Taille = 4	Reserve = 2
+Lapin 0 :	Vitesse = 0	Vision = 0	Taille = 7	Reserve = 1
+Lapin 4 :	Vitesse = 0	Vision = 3	Taille = 8	Reserve = 2
+
+
+Lapin 1 est mort de faim
+Lapin 3 est mort de faim
+Lapin 9 est mort de faim
+Lapin 5 est mort de faim
+Lapin 8 est mort de faim
+Lapin 0 est mort de faim
+Lapin 4 est mort de faim
+
+Lapin 11 est né de Lapin 2 et Lapin 7
+
+
+GENERATION : 1
+AJOUT : 30
+CAROTTES : 1005
+POPULATION : 4
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 1
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 2
+Lapin 6 :	Vitesse = 3	Vision = 4	Taille = 8	Reserve = 1
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 0
+
+Lapin 7 a pris 5 carottes
+Lapin 11 a pris 5 carottes
+Lapin 2 a pris 4 carottes
+Lapin 6 a pris 5 carottes
+
+
+APRES MANGE : 
+CAROTTES : 986
+POPULATION : 4
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 6
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 7
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 5
+Lapin 6 :	Vitesse = 3	Vision = 4	Taille = 8	Reserve = 5
+
+
+
+Lapin 13 est né de Lapin 11 et Lapin 7
+Lapin 14 est né de Lapin 2 et Lapin 6
+
+
+GENERATION : 2
+AJOUT : 52
+CAROTTES : 1038
+POPULATION : 6
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 3
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 4
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 2
+Lapin 6 :	Vitesse = 3	Vision = 4	Taille = 8	Reserve = 2
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 0
+Lapin 14 :	Vitesse = 3	Vision = 6	Taille = 8	Reserve = 0
+
+Lapin 7 a pris 4 carottes
+Lapin 11 a pris 4 carottes
+Lapin 13 a pris 7 carottes
+Lapin 2 a pris 6 carottes
+Lapin 6 a pris 4 carottes
+Lapin 14 a pris 4 carottes
+
+
+APRES MANGE : 
+CAROTTES : 1009
+POPULATION : 6
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 7
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 8
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 9
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 8
+Lapin 6 :	Vitesse = 3	Vision = 4	Taille = 8	Reserve = 4
+Lapin 14 :	Vitesse = 3	Vision = 6	Taille = 8	Reserve = 4
+
+
+
+Lapin 16 est né de Lapin 11 et Lapin 7
+Lapin 17 est né de Lapin 13 et Lapin 2
+Lapin 18 est né de Lapin 6 et Lapin 14
+
+
+GENERATION : 3
+AJOUT : 12
+CAROTTES : 1021
+POPULATION : 9
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 4
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 5
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 6
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 5
+Lapin 6 :	Vitesse = 3	Vision = 4	Taille = 8	Reserve = 1
+Lapin 14 :	Vitesse = 3	Vision = 6	Taille = 8	Reserve = 1
+Lapin 16 :	Vitesse = 4	Vision = 6	Taille = 5	Reserve = 0
+Lapin 17 :	Vitesse = 4	Vision = 2	Taille = 0	Reserve = 0
+Lapin 18 :	Vitesse = 3	Vision = 6	Taille = 8	Reserve = 0
+
+Lapin 7 a pris 5 carottes
+Lapin 11 a pris 3 carottes
+Lapin 13 a pris 4 carottes
+Lapin 16 a pris 3 carottes
+Lapin 17 a pris 2 carottes
+Lapin 2 a pris 3 carottes
+Lapin 6 a pris 2 carottes
+Lapin 14 a pris 5 carottes
+Lapin 18 a pris 2 carottes
+
+
+APRES MANGE : 
+CAROTTES : 992
+POPULATION : 9
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 9
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 8
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 10
+Lapin 16 :	Vitesse = 4	Vision = 6	Taille = 5	Reserve = 8
+Lapin 17 :	Vitesse = 4	Vision = 2	Taille = 0	Reserve = 3
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 4
+Lapin 6 :	Vitesse = 3	Vision = 4	Taille = 8	Reserve = 2
+Lapin 14 :	Vitesse = 3	Vision = 6	Taille = 8	Reserve = 5
+Lapin 18 :	Vitesse = 3	Vision = 6	Taille = 8	Reserve = 2
+
+
+Lapin 6 est mort de faim
+Lapin 18 est mort de faim
+
+Lapin 20 est né de Lapin 11 et Lapin 7
+Lapin 21 est né de Lapin 13 et Lapin 16
+Lapin 22 est né de Lapin 17 et Lapin 2
+
+
+GENERATION : 4
+AJOUT : 69
+CAROTTES : 1061
+POPULATION : 10
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 6
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 5
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 7
+Lapin 16 :	Vitesse = 4	Vision = 6	Taille = 5	Reserve = 5
+Lapin 17 :	Vitesse = 4	Vision = 2	Taille = 0	Reserve = 0
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 1
+Lapin 14 :	Vitesse = 3	Vision = 6	Taille = 8	Reserve = 2
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 0
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 0
+Lapin 22 :	Vitesse = 2	Vision = 6	Taille = 0	Reserve = 0
+
+Lapin 20 a pris 2 carottes
+Lapin 7 a pris 5 carottes
+Lapin 11 a pris 4 carottes
+Lapin 13 a pris 4 carottes
+Lapin 16 a pris 2 carottes
+Lapin 17 a pris 2 carottes
+Lapin 21 a pris 3 carottes
+Lapin 2 a pris 4 carottes
+Lapin 14 a pris 1 carottes
+Lapin 22 a pris 2 carottes
+
+
+APRES MANGE : 
+CAROTTES : 1032
+POPULATION : 10
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 8
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 10
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 11
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 9
+Lapin 16 :	Vitesse = 4	Vision = 6	Taille = 5	Reserve = 2
+Lapin 17 :	Vitesse = 4	Vision = 2	Taille = 0	Reserve = 3
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 5
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 4
+Lapin 14 :	Vitesse = 3	Vision = 6	Taille = 8	Reserve = 1
+Lapin 22 :	Vitesse = 2	Vision = 6	Taille = 0	Reserve = 2
+
+
+Lapin 16 est mort de faim
+Lapin 14 est mort de faim
+Lapin 22 est mort de faim
+
+Lapin 24 est né de Lapin 7 et Lapin 20
+Lapin 25 est né de Lapin 11 et Lapin 13
+Lapin 26 est né de Lapin 17 et Lapin 21
+
+
+GENERATION : 5
+AJOUT : 31
+CAROTTES : 1063
+POPULATION : 10
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 5
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 7
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 8
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 6
+Lapin 17 :	Vitesse = 4	Vision = 2	Taille = 0	Reserve = 0
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 2
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 1
+Lapin 24 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 0
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 0
+Lapin 26 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 0
+
+Lapin 20 a pris 4 carottes
+Lapin 7 a pris 7 carottes
+Lapin 11 a pris 4 carottes
+Lapin 13 a pris 3 carottes
+Lapin 17 a pris 2 carottes
+Lapin 21 a pris 3 carottes
+Lapin 26 a pris 3 carottes
+Lapin 2 a pris 4 carottes
+Lapin 25 a pris 3 carottes
+Lapin 24 a pris 4 carottes
+
+
+APRES MANGE : 
+CAROTTES : 1026
+POPULATION : 10
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 9
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 14
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 12
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 9
+Lapin 17 :	Vitesse = 4	Vision = 2	Taille = 0	Reserve = 2
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 5
+Lapin 26 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 4
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 4
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 3
+Lapin 24 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 4
+
+
+Lapin 17 est mort de faim
+
+Lapin 28 est né de Lapin 7 et Lapin 20
+Lapin 29 est né de Lapin 11 et Lapin 13
+Lapin 30 est né de Lapin 21 et Lapin 26
+Lapin 31 est né de Lapin 2 et Lapin 25
+
+
+GENERATION : 6
+AJOUT : 12
+CAROTTES : 1038
+POPULATION : 13
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 6
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 11
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 9
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 6
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 2
+Lapin 26 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 1
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 1
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 0
+Lapin 24 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 1
+Lapin 28 :	Vitesse = 4	Vision = 2	Taille = 0	Reserve = 0
+Lapin 29 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 0
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 0
+Lapin 31 :	Vitesse = 3	Vision = 4	Taille = 0	Reserve = 0
+
+Lapin 20 a pris 3 carottes
+Lapin 7 a pris 5 carottes
+Lapin 11 a pris 5 carottes
+Lapin 13 a pris 7 carottes
+Lapin 21 a pris 5 carottes
+Lapin 26 a pris 3 carottes
+Lapin 28 a pris 3 carottes
+Lapin 30 a pris 5 carottes
+Lapin 2 a pris 4 carottes
+Lapin 25 a pris 4 carottes
+Lapin 31 a pris 4 carottes
+Lapin 24 a pris 5 carottes
+Lapin 29 a pris 4 carottes
+
+
+APRES MANGE : 
+CAROTTES : 981
+POPULATION : 13
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 9
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 16
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 14
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 13
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 7
+Lapin 26 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 4
+Lapin 28 :	Vitesse = 4	Vision = 2	Taille = 0	Reserve = 4
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 5
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 5
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 4
+Lapin 31 :	Vitesse = 3	Vision = 4	Taille = 0	Reserve = 4
+Lapin 24 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 5
+Lapin 29 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 4
+
+
+
+Lapin 33 est né de Lapin 7 et Lapin 20
+Lapin 34 est né de Lapin 11 et Lapin 13
+Lapin 35 est né de Lapin 21 et Lapin 26
+Lapin 36 est né de Lapin 28 et Lapin 30
+Lapin 37 est né de Lapin 2 et Lapin 25
+Lapin 38 est né de Lapin 31 et Lapin 24
+
+
+GENERATION : 7
+AJOUT : 75
+CAROTTES : 1056
+POPULATION : 19
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 6
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 13
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 11
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 10
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 4
+Lapin 26 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 1
+Lapin 28 :	Vitesse = 4	Vision = 2	Taille = 0	Reserve = 1
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 2
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 2
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 1
+Lapin 31 :	Vitesse = 3	Vision = 4	Taille = 0	Reserve = 1
+Lapin 24 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 2
+Lapin 29 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 1
+Lapin 33 :	Vitesse = 9	Vision = 8	Taille = 4	Reserve = 0
+Lapin 34 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 0
+Lapin 35 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 0
+Lapin 36 :	Vitesse = 4	Vision = 2	Taille = 3	Reserve = 0
+Lapin 37 :	Vitesse = 3	Vision = 8	Taille = 0	Reserve = 0
+Lapin 38 :	Vitesse = 2	Vision = 4	Taille = 7	Reserve = 0
+
+Lapin 20 a pris 3 carottes
+Lapin 33 a pris 4 carottes
+Lapin 7 a pris 5 carottes
+Lapin 11 a pris 4 carottes
+Lapin 13 a pris 5 carottes
+Lapin 21 a pris 2 carottes
+Lapin 26 a pris 1 carottes
+Lapin 28 a pris 1 carottes
+Lapin 30 a pris 3 carottes
+Lapin 34 a pris 4 carottes
+Lapin 35 a pris 3 carottes
+Lapin 36 a pris 2 carottes
+Lapin 2 a pris 2 carottes
+Lapin 25 a pris 6 carottes
+Lapin 31 a pris 3 carottes
+Lapin 37 a pris 5 carottes
+Lapin 24 a pris 6 carottes
+Lapin 29 a pris 4 carottes
+Lapin 38 a pris 3 carottes
+
+
+APRES MANGE : 
+CAROTTES : 990
+POPULATION : 19
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 9
+Lapin 33 :	Vitesse = 9	Vision = 8	Taille = 4	Reserve = 17
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 16
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 14
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 9
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 3
+Lapin 26 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 2
+Lapin 28 :	Vitesse = 4	Vision = 2	Taille = 0	Reserve = 3
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 5
+Lapin 34 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 5
+Lapin 35 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 4
+Lapin 36 :	Vitesse = 4	Vision = 2	Taille = 3	Reserve = 4
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 3
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 6
+Lapin 31 :	Vitesse = 3	Vision = 4	Taille = 0	Reserve = 3
+Lapin 37 :	Vitesse = 3	Vision = 8	Taille = 0	Reserve = 5
+Lapin 24 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 6
+Lapin 29 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 4
+Lapin 38 :	Vitesse = 2	Vision = 4	Taille = 7	Reserve = 3
+
+
+Lapin 26 est mort de faim
+
+Lapin 40 est né de Lapin 33 et Lapin 20
+Lapin 41 est né de Lapin 7 et Lapin 11
+Lapin 42 est né de Lapin 13 et Lapin 21
+Lapin 43 est né de Lapin 28 et Lapin 30
+Lapin 44 est né de Lapin 34 et Lapin 35
+Lapin 45 est né de Lapin 36 et Lapin 2
+Lapin 46 est né de Lapin 25 et Lapin 31
+Lapin 47 est né de Lapin 37 et Lapin 24
+Lapin 48 est né de Lapin 29 et Lapin 38
+
+
+GENERATION : 8
+AJOUT : 89
+CAROTTES : 1079
+POPULATION : 27
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 6
+Lapin 33 :	Vitesse = 9	Vision = 8	Taille = 4	Reserve = 14
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 13
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 11
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 6
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 0
+Lapin 28 :	Vitesse = 4	Vision = 2	Taille = 0	Reserve = 0
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 2
+Lapin 34 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 2
+Lapin 35 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 1
+Lapin 36 :	Vitesse = 4	Vision = 2	Taille = 3	Reserve = 1
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 0
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 3
+Lapin 31 :	Vitesse = 3	Vision = 4	Taille = 0	Reserve = 0
+Lapin 37 :	Vitesse = 3	Vision = 8	Taille = 0	Reserve = 2
+Lapin 24 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 3
+Lapin 29 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 1
+Lapin 38 :	Vitesse = 2	Vision = 4	Taille = 7	Reserve = 0
+Lapin 40 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 0
+Lapin 41 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 0
+Lapin 42 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 0
+Lapin 43 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 0
+Lapin 44 :	Vitesse = 4	Vision = 5	Taille = 1	Reserve = 0
+Lapin 45 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 0
+Lapin 46 :	Vitesse = 0	Vision = 8	Taille = 0	Reserve = 0
+Lapin 47 :	Vitesse = 2	Vision = 2	Taille = 0	Reserve = 0
+Lapin 48 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 0
+
+Lapin 20 a pris 6 carottes
+Lapin 33 a pris 8 carottes
+Lapin 7 a pris 8 carottes
+Lapin 11 a pris 4 carottes
+Lapin 13 a pris 7 carottes
+Lapin 21 a pris 3 carottes
+Lapin 28 a pris 3 carottes
+Lapin 30 a pris 6 carottes
+Lapin 34 a pris 5 carottes
+Lapin 35 a pris 4 carottes
+Lapin 36 a pris 3 carottes
+Lapin 41 a pris 3 carottes
+Lapin 42 a pris 3 carottes
+Lapin 43 a pris 5 carottes
+Lapin 44 a pris 4 carottes
+Lapin 45 a pris 5 carottes
+Lapin 2 a pris 5 carottes
+Lapin 25 a pris 7 carottes
+Lapin 31 a pris 4 carottes
+Lapin 37 a pris 6 carottes
+Lapin 24 a pris 5 carottes
+Lapin 29 a pris 4 carottes
+Lapin 38 a pris 3 carottes
+Lapin 40 a pris 5 carottes
+Lapin 47 a pris 3 carottes
+Lapin 48 a pris 3 carottes
+Lapin 46 a pris 6 carottes
+
+
+APRES MANGE : 
+CAROTTES : 951
+POPULATION : 27
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 12
+Lapin 33 :	Vitesse = 9	Vision = 8	Taille = 4	Reserve = 22
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 21
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 15
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 13
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 3
+Lapin 28 :	Vitesse = 4	Vision = 2	Taille = 0	Reserve = 3
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 8
+Lapin 34 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 7
+Lapin 35 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 5
+Lapin 36 :	Vitesse = 4	Vision = 2	Taille = 3	Reserve = 4
+Lapin 41 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 3
+Lapin 42 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 6
+Lapin 43 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 5
+Lapin 44 :	Vitesse = 4	Vision = 5	Taille = 1	Reserve = 6
+Lapin 45 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 8
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 6
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 7
+Lapin 31 :	Vitesse = 3	Vision = 4	Taille = 0	Reserve = 4
+Lapin 37 :	Vitesse = 3	Vision = 8	Taille = 0	Reserve = 6
+Lapin 24 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 5
+Lapin 29 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 4
+Lapin 38 :	Vitesse = 2	Vision = 4	Taille = 7	Reserve = 3
+Lapin 40 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 5
+Lapin 47 :	Vitesse = 2	Vision = 2	Taille = 0	Reserve = 3
+Lapin 48 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 3
+Lapin 46 :	Vitesse = 0	Vision = 8	Taille = 0	Reserve = 6
+
+
+
+Lapin 50 est né de Lapin 33 et Lapin 20
+Lapin 51 est né de Lapin 7 et Lapin 11
+Lapin 52 est né de Lapin 13 et Lapin 21
+Lapin 53 est né de Lapin 28 et Lapin 30
+Lapin 54 est né de Lapin 34 et Lapin 35
+Lapin 55 est né de Lapin 36 et Lapin 41
+Lapin 56 est né de Lapin 42 et Lapin 43
+Lapin 57 est né de Lapin 44 et Lapin 45
+Lapin 58 est né de Lapin 2 et Lapin 25
+Lapin 59 est né de Lapin 31 et Lapin 37
+Lapin 60 est né de Lapin 24 et Lapin 29
+Lapin 61 est né de Lapin 38 et Lapin 40
+Lapin 62 est né de Lapin 47 et Lapin 48
+
+
+GENERATION : 9
+AJOUT : 90
+CAROTTES : 1041
+POPULATION : 40
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 9
+Lapin 33 :	Vitesse = 9	Vision = 8	Taille = 4	Reserve = 19
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 18
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 12
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 10
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 0
+Lapin 28 :	Vitesse = 4	Vision = 2	Taille = 0	Reserve = 0
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 5
+Lapin 34 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 4
+Lapin 35 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 2
+Lapin 36 :	Vitesse = 4	Vision = 2	Taille = 3	Reserve = 1
+Lapin 41 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 0
+Lapin 42 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 3
+Lapin 43 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 2
+Lapin 44 :	Vitesse = 4	Vision = 5	Taille = 1	Reserve = 3
+Lapin 45 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 5
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 3
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 4
+Lapin 31 :	Vitesse = 3	Vision = 4	Taille = 0	Reserve = 1
+Lapin 37 :	Vitesse = 3	Vision = 8	Taille = 0	Reserve = 3
+Lapin 24 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 2
+Lapin 29 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 1
+Lapin 38 :	Vitesse = 2	Vision = 4	Taille = 7	Reserve = 0
+Lapin 40 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 2
+Lapin 47 :	Vitesse = 2	Vision = 2	Taille = 0	Reserve = 0
+Lapin 48 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 0
+Lapin 46 :	Vitesse = 0	Vision = 8	Taille = 0	Reserve = 3
+Lapin 50 :	Vitesse = 4	Vision = 8	Taille = 0	Reserve = 0
+Lapin 51 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 0
+Lapin 52 :	Vitesse = 4	Vision = 8	Taille = 5	Reserve = 0
+Lapin 53 :	Vitesse = 8	Vision = 9	Taille = 0	Reserve = 0
+Lapin 54 :	Vitesse = 2	Vision = 5	Taille = 7	Reserve = 0
+Lapin 55 :	Vitesse = 4	Vision = 5	Taille = 3	Reserve = 0
+Lapin 56 :	Vitesse = 9	Vision = 9	Taille = 0	Reserve = 0
+Lapin 57 :	Vitesse = 6	Vision = 5	Taille = 0	Reserve = 0
+Lapin 58 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 0
+Lapin 59 :	Vitesse = 3	Vision = 2	Taille = 0	Reserve = 0
+Lapin 60 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 0
+Lapin 61 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 0
+Lapin 62 :	Vitesse = 8	Vision = 6	Taille = 0	Reserve = 0
+
+Lapin 20 a pris 5 carottes
+Lapin 33 a pris 6 carottes
+Lapin 56 a pris 6 carottes
+Lapin 53 a pris 6 carottes
+Lapin 62 a pris 2 carottes
+Lapin 57 a pris 3 carottes
+Lapin 7 a pris 5 carottes
+Lapin 11 a pris 3 carottes
+Lapin 13 a pris 4 carottes
+Lapin 21 a pris 2 carottes
+Lapin 28 a pris 1 carottes
+Lapin 30 a pris 5 carottes
+Lapin 34 a pris 5 carottes
+Lapin 35 a pris 3 carottes
+Lapin 36 a pris 3 carottes
+Lapin 41 a pris 3 carottes
+Lapin 42 a pris 2 carottes
+Lapin 43 a pris 5 carottes
+Lapin 44 a pris 3 carottes
+Lapin 45 a pris 6 carottes
+Lapin 50 a pris 5 carottes
+Lapin 51 a pris 3 carottes
+Lapin 52 a pris 5 carottes
+Lapin 55 a pris 3 carottes
+Lapin 2 a pris 3 carottes
+Lapin 25 a pris 4 carottes
+Lapin 31 a pris 3 carottes
+Lapin 37 a pris 6 carottes
+Lapin 59 a pris 3 carottes
+Lapin 24 a pris 6 carottes
+Lapin 29 a pris 5 carottes
+Lapin 38 a pris 2 carottes
+Lapin 40 a pris 6 carottes
+Lapin 47 a pris 3 carottes
+Lapin 48 a pris 3 carottes
+Lapin 54 a pris 4 carottes
+Lapin 58 a pris 8 carottes
+Lapin 60 a pris 7 carottes
+Lapin 61 a pris 7 carottes
+Lapin 46 a pris 7 carottes
+
+
+APRES MANGE : 
+CAROTTES : 870
+POPULATION : 40
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 14
+Lapin 33 :	Vitesse = 9	Vision = 8	Taille = 4	Reserve = 25
+Lapin 56 :	Vitesse = 9	Vision = 9	Taille = 0	Reserve = 24
+Lapin 53 :	Vitesse = 8	Vision = 9	Taille = 0	Reserve = 18
+Lapin 62 :	Vitesse = 8	Vision = 6	Taille = 0	Reserve = 12
+Lapin 57 :	Vitesse = 6	Vision = 5	Taille = 0	Reserve = 3
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 5
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 8
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 8
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 4
+Lapin 28 :	Vitesse = 4	Vision = 2	Taille = 0	Reserve = 2
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 5
+Lapin 34 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 8
+Lapin 35 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 5
+Lapin 36 :	Vitesse = 4	Vision = 2	Taille = 3	Reserve = 6
+Lapin 41 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 8
+Lapin 42 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 5
+Lapin 43 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 9
+Lapin 44 :	Vitesse = 4	Vision = 5	Taille = 1	Reserve = 4
+Lapin 45 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 9
+Lapin 50 :	Vitesse = 4	Vision = 8	Taille = 0	Reserve = 7
+Lapin 51 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 4
+Lapin 52 :	Vitesse = 4	Vision = 8	Taille = 5	Reserve = 5
+Lapin 55 :	Vitesse = 4	Vision = 5	Taille = 3	Reserve = 5
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 3
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 4
+Lapin 31 :	Vitesse = 3	Vision = 4	Taille = 0	Reserve = 6
+Lapin 37 :	Vitesse = 3	Vision = 8	Taille = 0	Reserve = 6
+Lapin 59 :	Vitesse = 3	Vision = 2	Taille = 0	Reserve = 3
+Lapin 24 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 6
+Lapin 29 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 5
+Lapin 38 :	Vitesse = 2	Vision = 4	Taille = 7	Reserve = 2
+Lapin 40 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 6
+Lapin 47 :	Vitesse = 2	Vision = 2	Taille = 0	Reserve = 3
+Lapin 48 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 3
+Lapin 54 :	Vitesse = 2	Vision = 5	Taille = 7	Reserve = 4
+Lapin 58 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 8
+Lapin 60 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 7
+Lapin 61 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 7
+Lapin 46 :	Vitesse = 0	Vision = 8	Taille = 0	Reserve = 7
+
+
+Lapin 28 est mort de faim
+Lapin 38 est mort de faim
+
+Lapin 64 est né de Lapin 33 et Lapin 20
+Lapin 65 est né de Lapin 56 et Lapin 53
+Lapin 66 est né de Lapin 62 et Lapin 57
+Lapin 67 est né de Lapin 7 et Lapin 11
+Lapin 68 est né de Lapin 13 et Lapin 21
+Lapin 69 est né de Lapin 30 et Lapin 34
+Lapin 70 est né de Lapin 35 et Lapin 36
+Lapin 71 est né de Lapin 41 et Lapin 42
+Lapin 72 est né de Lapin 43 et Lapin 44
+Lapin 73 est né de Lapin 45 et Lapin 50
+Lapin 74 est né de Lapin 51 et Lapin 52
+Lapin 75 est né de Lapin 55 et Lapin 2
+Lapin 76 est né de Lapin 25 et Lapin 31
+Lapin 77 est né de Lapin 37 et Lapin 59
+Lapin 78 est né de Lapin 24 et Lapin 29
+Lapin 79 est né de Lapin 40 et Lapin 47
+Lapin 80 est né de Lapin 48 et Lapin 54
+Lapin 81 est né de Lapin 58 et Lapin 60
+Lapin 82 est né de Lapin 61 et Lapin 46
+
+
+GENERATION : 10
+AJOUT : 72
+CAROTTES : 942
+POPULATION : 57
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 11
+Lapin 33 :	Vitesse = 9	Vision = 8	Taille = 4	Reserve = 22
+Lapin 56 :	Vitesse = 9	Vision = 9	Taille = 0	Reserve = 21
+Lapin 53 :	Vitesse = 8	Vision = 9	Taille = 0	Reserve = 15
+Lapin 62 :	Vitesse = 8	Vision = 6	Taille = 0	Reserve = 9
+Lapin 57 :	Vitesse = 6	Vision = 5	Taille = 0	Reserve = 0
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 2
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 5
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 5
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 1
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 2
+Lapin 34 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 5
+Lapin 35 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 2
+Lapin 36 :	Vitesse = 4	Vision = 2	Taille = 3	Reserve = 3
+Lapin 41 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 5
+Lapin 42 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 2
+Lapin 43 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 6
+Lapin 44 :	Vitesse = 4	Vision = 5	Taille = 1	Reserve = 1
+Lapin 45 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 6
+Lapin 50 :	Vitesse = 4	Vision = 8	Taille = 0	Reserve = 4
+Lapin 51 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 1
+Lapin 52 :	Vitesse = 4	Vision = 8	Taille = 5	Reserve = 2
+Lapin 55 :	Vitesse = 4	Vision = 5	Taille = 3	Reserve = 2
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 0
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 1
+Lapin 31 :	Vitesse = 3	Vision = 4	Taille = 0	Reserve = 3
+Lapin 37 :	Vitesse = 3	Vision = 8	Taille = 0	Reserve = 3
+Lapin 59 :	Vitesse = 3	Vision = 2	Taille = 0	Reserve = 0
+Lapin 24 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 3
+Lapin 29 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 2
+Lapin 40 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 3
+Lapin 47 :	Vitesse = 2	Vision = 2	Taille = 0	Reserve = 0
+Lapin 48 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 0
+Lapin 54 :	Vitesse = 2	Vision = 5	Taille = 7	Reserve = 1
+Lapin 58 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 5
+Lapin 60 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 4
+Lapin 61 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 4
+Lapin 46 :	Vitesse = 0	Vision = 8	Taille = 0	Reserve = 4
+Lapin 64 :	Vitesse = 9	Vision = 1	Taille = 4	Reserve = 0
+Lapin 65 :	Vitesse = 9	Vision = 0	Taille = 0	Reserve = 0
+Lapin 66 :	Vitesse = 6	Vision = 1	Taille = 0	Reserve = 0
+Lapin 67 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 0
+Lapin 68 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 0
+Lapin 69 :	Vitesse = 5	Vision = 9	Taille = 1	Reserve = 0
+Lapin 70 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 0
+Lapin 71 :	Vitesse = 4	Vision = 1	Taille = 1	Reserve = 0
+Lapin 72 :	Vitesse = 4	Vision = 9	Taille = 2	Reserve = 0
+Lapin 73 :	Vitesse = 3	Vision = 9	Taille = 8	Reserve = 0
+Lapin 74 :	Vitesse = 2	Vision = 4	Taille = 5	Reserve = 0
+Lapin 75 :	Vitesse = 0	Vision = 5	Taille = 0	Reserve = 0
+Lapin 76 :	Vitesse = 2	Vision = 4	Taille = 7	Reserve = 0
+Lapin 77 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 0
+Lapin 78 :	Vitesse = 1	Vision = 6	Taille = 6	Reserve = 0
+Lapin 79 :	Vitesse = 6	Vision = 2	Taille = 0	Reserve = 0
+Lapin 80 :	Vitesse = 2	Vision = 7	Taille = 7	Reserve = 0
+Lapin 81 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 0
+Lapin 82 :	Vitesse = 2	Vision = 2	Taille = 0	Reserve = 0
+
+Lapin 20 a pris 3 carottes
+Lapin 33 a pris 5 carottes
+Lapin 56 a pris 6 carottes
+Lapin 64 a pris 3 carottes
+Lapin 65 a pris 3 carottes
+Lapin 53 a pris 5 carottes
+Lapin 62 a pris 4 carottes
+Lapin 57 a pris 4 carottes
+Lapin 66 a pris 2 carottes
+Lapin 79 a pris 1 carottes
+Lapin 69 a pris 4 carottes
+Lapin 7 a pris 7 carottes
+Lapin 11 a pris 5 carottes
+Lapin 13 a pris 6 carottes
+Lapin 21 a pris 4 carottes
+Lapin 30 a pris 6 carottes
+Lapin 34 a pris 6 carottes
+Lapin 35 a pris 5 carottes
+Lapin 36 a pris 3 carottes
+Lapin 41 a pris 2 carottes
+Lapin 42 a pris 2 carottes
+Lapin 43 a pris 5 carottes
+Lapin 44 a pris 3 carottes
+Lapin 45 a pris 2 carottes
+Lapin 50 a pris 3 carottes
+Lapin 51 a pris 2 carottes
+Lapin 52 a pris 6 carottes
+Lapin 55 a pris 4 carottes
+Lapin 67 a pris 3 carottes
+Lapin 68 a pris 3 carottes
+Lapin 70 a pris 3 carottes
+Lapin 71 a pris 2 carottes
+Lapin 72 a pris 5 carottes
+Lapin 77 a pris 3 carottes
+Lapin 2 a pris 2 carottes
+Lapin 25 a pris 3 carottes
+Lapin 31 a pris 2 carottes
+Lapin 37 a pris 3 carottes
+Lapin 59 a pris 3 carottes
+Lapin 73 a pris 4 carottes
+Lapin 24 a pris 6 carottes
+Lapin 29 a pris 5 carottes
+Lapin 40 a pris 5 carottes
+Lapin 47 a pris 2 carottes
+Lapin 48 a pris 2 carottes
+Lapin 54 a pris 2 carottes
+Lapin 58 a pris 5 carottes
+Lapin 60 a pris 5 carottes
+Lapin 61 a pris 6 carottes
+Lapin 74 a pris 3 carottes
+Lapin 76 a pris 2 carottes
+Lapin 80 a pris 3 carottes
+Lapin 81 a pris 6 carottes
+Lapin 82 a pris 4 carottes
+Lapin 78 a pris 2 carottes
+Lapin 46 a pris 6 carottes
+Lapin 75 a pris 5 carottes
+
+
+APRES MANGE : 
+CAROTTES : 726
+POPULATION : 57
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 14
+Lapin 33 :	Vitesse = 9	Vision = 8	Taille = 4	Reserve = 27
+Lapin 56 :	Vitesse = 9	Vision = 9	Taille = 0	Reserve = 27
+Lapin 64 :	Vitesse = 9	Vision = 1	Taille = 4	Reserve = 18
+Lapin 65 :	Vitesse = 9	Vision = 0	Taille = 0	Reserve = 12
+Lapin 53 :	Vitesse = 8	Vision = 9	Taille = 0	Reserve = 5
+Lapin 62 :	Vitesse = 8	Vision = 6	Taille = 0	Reserve = 6
+Lapin 57 :	Vitesse = 6	Vision = 5	Taille = 0	Reserve = 9
+Lapin 66 :	Vitesse = 6	Vision = 1	Taille = 0	Reserve = 7
+Lapin 79 :	Vitesse = 6	Vision = 2	Taille = 0	Reserve = 2
+Lapin 69 :	Vitesse = 5	Vision = 9	Taille = 1	Reserve = 6
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 12
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 7
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 9
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 9
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 8
+Lapin 34 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 12
+Lapin 35 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 6
+Lapin 36 :	Vitesse = 4	Vision = 2	Taille = 3	Reserve = 9
+Lapin 41 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 6
+Lapin 42 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 3
+Lapin 43 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 7
+Lapin 44 :	Vitesse = 4	Vision = 5	Taille = 1	Reserve = 5
+Lapin 45 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 2
+Lapin 50 :	Vitesse = 4	Vision = 8	Taille = 0	Reserve = 4
+Lapin 51 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 5
+Lapin 52 :	Vitesse = 4	Vision = 8	Taille = 5	Reserve = 9
+Lapin 55 :	Vitesse = 4	Vision = 5	Taille = 3	Reserve = 4
+Lapin 67 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 6
+Lapin 68 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 5
+Lapin 70 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 6
+Lapin 71 :	Vitesse = 4	Vision = 1	Taille = 1	Reserve = 2
+Lapin 72 :	Vitesse = 4	Vision = 9	Taille = 2	Reserve = 5
+Lapin 77 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 4
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 7
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 7
+Lapin 31 :	Vitesse = 3	Vision = 4	Taille = 0	Reserve = 6
+Lapin 37 :	Vitesse = 3	Vision = 8	Taille = 0	Reserve = 7
+Lapin 59 :	Vitesse = 3	Vision = 2	Taille = 0	Reserve = 3
+Lapin 73 :	Vitesse = 3	Vision = 9	Taille = 8	Reserve = 4
+Lapin 24 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 6
+Lapin 29 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 5
+Lapin 40 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 5
+Lapin 47 :	Vitesse = 2	Vision = 2	Taille = 0	Reserve = 2
+Lapin 48 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 2
+Lapin 54 :	Vitesse = 2	Vision = 5	Taille = 7	Reserve = 2
+Lapin 58 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 5
+Lapin 60 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 5
+Lapin 61 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 6
+Lapin 74 :	Vitesse = 2	Vision = 4	Taille = 5	Reserve = 3
+Lapin 76 :	Vitesse = 2	Vision = 4	Taille = 7	Reserve = 2
+Lapin 80 :	Vitesse = 2	Vision = 7	Taille = 7	Reserve = 3
+Lapin 81 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 6
+Lapin 82 :	Vitesse = 2	Vision = 2	Taille = 0	Reserve = 4
+Lapin 78 :	Vitesse = 1	Vision = 6	Taille = 6	Reserve = 2
+Lapin 46 :	Vitesse = 0	Vision = 8	Taille = 0	Reserve = 6
+Lapin 75 :	Vitesse = 0	Vision = 5	Taille = 0	Reserve = 5
+
+
+Lapin 79 est mort de faim
+Lapin 45 est mort de faim
+Lapin 71 est mort de faim
+Lapin 47 est mort de faim
+Lapin 48 est mort de faim
+Lapin 54 est mort de faim
+Lapin 76 est mort de faim
+Lapin 78 est mort de faim
+
+Lapin 84 est né de Lapin 33 et Lapin 20
+Lapin 85 est né de Lapin 56 et Lapin 64
+Lapin 86 est né de Lapin 65 et Lapin 53
+Lapin 87 est né de Lapin 62 et Lapin 57
+Lapin 88 est né de Lapin 66 et Lapin 69
+Lapin 89 est né de Lapin 7 et Lapin 11
+Lapin 90 est né de Lapin 13 et Lapin 21
+Lapin 91 est né de Lapin 30 et Lapin 34
+Lapin 92 est né de Lapin 35 et Lapin 36
+Lapin 93 est né de Lapin 41 et Lapin 42
+Lapin 94 est né de Lapin 43 et Lapin 44
+Lapin 95 est né de Lapin 50 et Lapin 51
+Lapin 96 est né de Lapin 52 et Lapin 55
+Lapin 97 est né de Lapin 67 et Lapin 68
+Lapin 98 est né de Lapin 70 et Lapin 72
+Lapin 99 est né de Lapin 77 et Lapin 2
+Lapin 100 est né de Lapin 25 et Lapin 31
+Lapin 101 est né de Lapin 37 et Lapin 59
+Lapin 102 est né de Lapin 73 et Lapin 24
+Lapin 103 est né de Lapin 29 et Lapin 40
+Lapin 104 est né de Lapin 58 et Lapin 60
+Lapin 105 est né de Lapin 61 et Lapin 74
+Lapin 106 est né de Lapin 80 et Lapin 81
+Lapin 107 est né de Lapin 82 et Lapin 46
+
+
+GENERATION : 11
+AJOUT : 92
+CAROTTES : 818
+POPULATION : 73
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 11
+Lapin 33 :	Vitesse = 9	Vision = 8	Taille = 4	Reserve = 24
+Lapin 56 :	Vitesse = 9	Vision = 9	Taille = 0	Reserve = 24
+Lapin 64 :	Vitesse = 9	Vision = 1	Taille = 4	Reserve = 15
+Lapin 65 :	Vitesse = 9	Vision = 0	Taille = 0	Reserve = 9
+Lapin 53 :	Vitesse = 8	Vision = 9	Taille = 0	Reserve = 2
+Lapin 62 :	Vitesse = 8	Vision = 6	Taille = 0	Reserve = 3
+Lapin 57 :	Vitesse = 6	Vision = 5	Taille = 0	Reserve = 6
+Lapin 66 :	Vitesse = 6	Vision = 1	Taille = 0	Reserve = 4
+Lapin 69 :	Vitesse = 5	Vision = 9	Taille = 1	Reserve = 3
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 9
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 4
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 6
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 6
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 5
+Lapin 34 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 9
+Lapin 35 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 3
+Lapin 36 :	Vitesse = 4	Vision = 2	Taille = 3	Reserve = 6
+Lapin 41 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 3
+Lapin 42 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 0
+Lapin 43 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 4
+Lapin 44 :	Vitesse = 4	Vision = 5	Taille = 1	Reserve = 2
+Lapin 50 :	Vitesse = 4	Vision = 8	Taille = 0	Reserve = 1
+Lapin 51 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 2
+Lapin 52 :	Vitesse = 4	Vision = 8	Taille = 5	Reserve = 6
+Lapin 55 :	Vitesse = 4	Vision = 5	Taille = 3	Reserve = 1
+Lapin 67 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 3
+Lapin 68 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 2
+Lapin 70 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 3
+Lapin 72 :	Vitesse = 4	Vision = 9	Taille = 2	Reserve = 2
+Lapin 77 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 1
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 4
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 4
+Lapin 31 :	Vitesse = 3	Vision = 4	Taille = 0	Reserve = 3
+Lapin 37 :	Vitesse = 3	Vision = 8	Taille = 0	Reserve = 4
+Lapin 59 :	Vitesse = 3	Vision = 2	Taille = 0	Reserve = 0
+Lapin 73 :	Vitesse = 3	Vision = 9	Taille = 8	Reserve = 1
+Lapin 24 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 3
+Lapin 29 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 2
+Lapin 40 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 2
+Lapin 58 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 2
+Lapin 60 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 2
+Lapin 61 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 3
+Lapin 74 :	Vitesse = 2	Vision = 4	Taille = 5	Reserve = 0
+Lapin 80 :	Vitesse = 2	Vision = 7	Taille = 7	Reserve = 0
+Lapin 81 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 3
+Lapin 82 :	Vitesse = 2	Vision = 2	Taille = 0	Reserve = 1
+Lapin 46 :	Vitesse = 0	Vision = 8	Taille = 0	Reserve = 3
+Lapin 75 :	Vitesse = 0	Vision = 5	Taille = 0	Reserve = 2
+Lapin 84 :	Vitesse = 9	Vision = 8	Taille = 1	Reserve = 0
+Lapin 85 :	Vitesse = 9	Vision = 9	Taille = 4	Reserve = 0
+Lapin 86 :	Vitesse = 3	Vision = 0	Taille = 0	Reserve = 0
+Lapin 87 :	Vitesse = 3	Vision = 5	Taille = 0	Reserve = 0
+Lapin 88 :	Vitesse = 1	Vision = 9	Taille = 6	Reserve = 0
+Lapin 89 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 0
+Lapin 90 :	Vitesse = 8	Vision = 8	Taille = 0	Reserve = 0
+Lapin 91 :	Vitesse = 4	Vision = 9	Taille = 1	Reserve = 0
+Lapin 92 :	Vitesse = 2	Vision = 5	Taille = 3	Reserve = 0
+Lapin 93 :	Vitesse = 4	Vision = 4	Taille = 2	Reserve = 0
+Lapin 94 :	Vitesse = 4	Vision = 9	Taille = 4	Reserve = 0
+Lapin 95 :	Vitesse = 9	Vision = 4	Taille = 0	Reserve = 0
+Lapin 96 :	Vitesse = 4	Vision = 7	Taille = 3	Reserve = 0
+Lapin 97 :	Vitesse = 0	Vision = 6	Taille = 1	Reserve = 0
+Lapin 98 :	Vitesse = 0	Vision = 9	Taille = 0	Reserve = 0
+Lapin 99 :	Vitesse = 0	Vision = 2	Taille = 0	Reserve = 0
+Lapin 100 :	Vitesse = 5	Vision = 8	Taille = 0	Reserve = 0
+Lapin 101 :	Vitesse = 3	Vision = 8	Taille = 4	Reserve = 0
+Lapin 102 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 0
+Lapin 103 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 0
+Lapin 104 :	Vitesse = 1	Vision = 8	Taille = 0	Reserve = 0
+Lapin 105 :	Vitesse = 2	Vision = 4	Taille = 5	Reserve = 0
+Lapin 106 :	Vitesse = 2	Vision = 9	Taille = 3	Reserve = 0
+Lapin 107 :	Vitesse = 3	Vision = 2	Taille = 8	Reserve = 0
+
+Lapin 20 a pris 5 carottes
+Lapin 33 a pris 6 carottes
+Lapin 56 a pris 6 carottes
+Lapin 64 a pris 3 carottes
+Lapin 65 a pris 2 carottes
+Lapin 84 a pris 6 carottes
+Lapin 85 a pris 6 carottes
+Lapin 95 a pris 3 carottes
+Lapin 53 a pris 5 carottes
+Lapin 62 a pris 3 carottes
+Lapin 90 a pris 4 carottes
+Lapin 57 a pris 3 carottes
+Lapin 66 a pris 2 carottes
+Lapin 69 a pris 6 carottes
+Lapin 100 a pris 6 carottes
+Lapin 7 a pris 7 carottes
+Lapin 11 a pris 5 carottes
+Lapin 13 a pris 8 carottes
+Lapin 21 a pris 4 carottes
+Lapin 30 a pris 6 carottes
+Lapin 34 a pris 7 carottes
+Lapin 35 a pris 5 carottes
+Lapin 36 a pris 3 carottes
+Lapin 41 a pris 4 carottes
+Lapin 42 a pris 2 carottes
+Lapin 43 a pris 5 carottes
+Lapin 44 a pris 3 carottes
+Lapin 50 a pris 6 carottes
+Lapin 51 a pris 4 carottes
+Lapin 52 a pris 6 carottes
+Lapin 55 a pris 3 carottes
+Lapin 67 a pris 3 carottes
+Lapin 68 a pris 3 carottes
+Lapin 70 a pris 4 carottes
+Lapin 72 a pris 5 carottes
+Lapin 77 a pris 3 carottes
+Lapin 89 a pris 2 carottes
+Lapin 91 a pris 5 carottes
+Lapin 93 a pris 3 carottes
+Lapin 94 a pris 5 carottes
+Lapin 96 a pris 3 carottes
+Lapin 103 a pris 4 carottes
+Lapin 2 a pris 4 carottes
+Lapin 25 a pris 4 carottes
+Lapin 31 a pris 2 carottes
+Lapin 37 a pris 4 carottes
+Lapin 59 a pris 3 carottes
+Lapin 73 a pris 6 carottes
+Lapin 86 a pris 3 carottes
+Lapin 87 a pris 4 carottes
+Lapin 101 a pris 6 carottes
+Lapin 102 a pris 5 carottes
+Lapin 107 a pris 2 carottes
+Lapin 24 a pris 3 carottes
+Lapin 29 a pris 4 carottes
+Lapin 40 a pris 8 carottes
+Lapin 58 a pris 8 carottes
+Lapin 60 a pris 7 carottes
+Lapin 61 a pris 6 carottes
+Lapin 74 a pris 4 carottes
+Lapin 80 a pris 4 carottes
+Lapin 81 a pris 6 carottes
+Lapin 82 a pris 2 carottes
+Lapin 92 a pris 4 carottes
+Lapin 105 a pris 2 carottes
+Lapin 106 a pris 5 carottes
+Lapin 88 a pris 7 carottes
+Lapin 104 a pris 7 carottes
+Lapin 46 a pris 7 carottes
+Lapin 75 a pris 6 carottes
+Lapin 97 a pris 4 carottes
+Lapin 98 a pris 5 carottes
+Lapin 99 a pris 2 carottes
+
+
+APRES MANGE : 
+CAROTTES : 490
+POPULATION : 73
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 16
+Lapin 33 :	Vitesse = 9	Vision = 8	Taille = 4	Reserve = 30
+Lapin 56 :	Vitesse = 9	Vision = 9	Taille = 0	Reserve = 30
+Lapin 64 :	Vitesse = 9	Vision = 1	Taille = 4	Reserve = 18
+Lapin 65 :	Vitesse = 9	Vision = 0	Taille = 0	Reserve = 11
+Lapin 84 :	Vitesse = 9	Vision = 8	Taille = 1	Reserve = 8
+Lapin 85 :	Vitesse = 9	Vision = 9	Taille = 4	Reserve = 9
+Lapin 95 :	Vitesse = 9	Vision = 4	Taille = 0	Reserve = 9
+Lapin 53 :	Vitesse = 8	Vision = 9	Taille = 0	Reserve = 9
+Lapin 62 :	Vitesse = 8	Vision = 6	Taille = 0	Reserve = 6
+Lapin 90 :	Vitesse = 8	Vision = 8	Taille = 0	Reserve = 13
+Lapin 57 :	Vitesse = 6	Vision = 5	Taille = 0	Reserve = 7
+Lapin 66 :	Vitesse = 6	Vision = 1	Taille = 0	Reserve = 8
+Lapin 69 :	Vitesse = 5	Vision = 9	Taille = 1	Reserve = 12
+Lapin 100 :	Vitesse = 5	Vision = 8	Taille = 0	Reserve = 11
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 16
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 8
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 14
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 7
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 6
+Lapin 34 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 11
+Lapin 35 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 7
+Lapin 36 :	Vitesse = 4	Vision = 2	Taille = 3	Reserve = 4
+Lapin 41 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 6
+Lapin 42 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 8
+Lapin 43 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 6
+Lapin 44 :	Vitesse = 4	Vision = 5	Taille = 1	Reserve = 6
+Lapin 50 :	Vitesse = 4	Vision = 8	Taille = 0	Reserve = 8
+Lapin 51 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 7
+Lapin 52 :	Vitesse = 4	Vision = 8	Taille = 5	Reserve = 8
+Lapin 55 :	Vitesse = 4	Vision = 5	Taille = 3	Reserve = 4
+Lapin 67 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 7
+Lapin 68 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 7
+Lapin 70 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 7
+Lapin 72 :	Vitesse = 4	Vision = 9	Taille = 2	Reserve = 9
+Lapin 77 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 3
+Lapin 89 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 3
+Lapin 91 :	Vitesse = 4	Vision = 9	Taille = 1	Reserve = 8
+Lapin 93 :	Vitesse = 4	Vision = 4	Taille = 2	Reserve = 5
+Lapin 94 :	Vitesse = 4	Vision = 9	Taille = 4	Reserve = 7
+Lapin 96 :	Vitesse = 4	Vision = 7	Taille = 3	Reserve = 5
+Lapin 103 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 6
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 7
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 4
+Lapin 31 :	Vitesse = 3	Vision = 4	Taille = 0	Reserve = 2
+Lapin 37 :	Vitesse = 3	Vision = 8	Taille = 0	Reserve = 7
+Lapin 59 :	Vitesse = 3	Vision = 2	Taille = 0	Reserve = 4
+Lapin 73 :	Vitesse = 3	Vision = 9	Taille = 8	Reserve = 9
+Lapin 86 :	Vitesse = 3	Vision = 0	Taille = 0	Reserve = 5
+Lapin 87 :	Vitesse = 3	Vision = 5	Taille = 0	Reserve = 4
+Lapin 101 :	Vitesse = 3	Vision = 8	Taille = 4	Reserve = 6
+Lapin 102 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 5
+Lapin 107 :	Vitesse = 3	Vision = 2	Taille = 8	Reserve = 2
+Lapin 24 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 3
+Lapin 29 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 4
+Lapin 40 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 8
+Lapin 58 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 8
+Lapin 60 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 7
+Lapin 61 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 6
+Lapin 74 :	Vitesse = 2	Vision = 4	Taille = 5	Reserve = 4
+Lapin 80 :	Vitesse = 2	Vision = 7	Taille = 7	Reserve = 4
+Lapin 81 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 6
+Lapin 82 :	Vitesse = 2	Vision = 2	Taille = 0	Reserve = 2
+Lapin 92 :	Vitesse = 2	Vision = 5	Taille = 3	Reserve = 4
+Lapin 105 :	Vitesse = 2	Vision = 4	Taille = 5	Reserve = 2
+Lapin 106 :	Vitesse = 2	Vision = 9	Taille = 3	Reserve = 5
+Lapin 88 :	Vitesse = 1	Vision = 9	Taille = 6	Reserve = 7
+Lapin 104 :	Vitesse = 1	Vision = 8	Taille = 0	Reserve = 7
+Lapin 46 :	Vitesse = 0	Vision = 8	Taille = 0	Reserve = 7
+Lapin 75 :	Vitesse = 0	Vision = 5	Taille = 0	Reserve = 6
+Lapin 97 :	Vitesse = 0	Vision = 6	Taille = 1	Reserve = 4
+Lapin 98 :	Vitesse = 0	Vision = 9	Taille = 0	Reserve = 5
+Lapin 99 :	Vitesse = 0	Vision = 2	Taille = 0	Reserve = 2
+
+
+Lapin 31 est mort de faim
+Lapin 107 est mort de faim
+Lapin 82 est mort de faim
+Lapin 105 est mort de faim
+Lapin 99 est mort de faim
+
+Lapin 109 est né de Lapin 33 et Lapin 20
+Lapin 110 est né de Lapin 56 et Lapin 64
+Lapin 111 est né de Lapin 65 et Lapin 84
+Lapin 112 est né de Lapin 85 et Lapin 95
+Lapin 113 est né de Lapin 53 et Lapin 62
+Lapin 114 est né de Lapin 90 et Lapin 57
+Lapin 115 est né de Lapin 66 et Lapin 69
+Lapin 116 est né de Lapin 100 et Lapin 7
+Lapin 117 est né de Lapin 11 et Lapin 13
+Lapin 118 est né de Lapin 21 et Lapin 30
+Lapin 119 est né de Lapin 34 et Lapin 35
+Lapin 120 est né de Lapin 36 et Lapin 41
+Lapin 121 est né de Lapin 42 et Lapin 43
+Lapin 122 est né de Lapin 44 et Lapin 50
+Lapin 123 est né de Lapin 51 et Lapin 52
+Lapin 124 est né de Lapin 55 et Lapin 67
+Lapin 125 est né de Lapin 68 et Lapin 70
+Lapin 126 est né de Lapin 72 et Lapin 77
+Lapin 127 est né de Lapin 89 et Lapin 91
+Lapin 128 est né de Lapin 93 et Lapin 94
+Lapin 129 est né de Lapin 96 et Lapin 103
+Lapin 130 est né de Lapin 2 et Lapin 25
+Lapin 131 est né de Lapin 37 et Lapin 59
+Lapin 132 est né de Lapin 73 et Lapin 86
+Lapin 133 est né de Lapin 87 et Lapin 101
+Lapin 134 est né de Lapin 102 et Lapin 24
+Lapin 135 est né de Lapin 29 et Lapin 40
+Lapin 136 est né de Lapin 58 et Lapin 60
+Lapin 137 est né de Lapin 61 et Lapin 74
+Lapin 138 est né de Lapin 80 et Lapin 81
+Lapin 139 est né de Lapin 92 et Lapin 106
+Lapin 140 est né de Lapin 88 et Lapin 104
+Lapin 141 est né de Lapin 46 et Lapin 75
+Lapin 142 est né de Lapin 97 et Lapin 98
+
+
+GENERATION : 12
+AJOUT : 28
+CAROTTES : 518
+POPULATION : 102
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 13
+Lapin 33 :	Vitesse = 9	Vision = 8	Taille = 4	Reserve = 27
+Lapin 56 :	Vitesse = 9	Vision = 9	Taille = 0	Reserve = 27
+Lapin 64 :	Vitesse = 9	Vision = 1	Taille = 4	Reserve = 15
+Lapin 65 :	Vitesse = 9	Vision = 0	Taille = 0	Reserve = 8
+Lapin 84 :	Vitesse = 9	Vision = 8	Taille = 1	Reserve = 5
+Lapin 85 :	Vitesse = 9	Vision = 9	Taille = 4	Reserve = 6
+Lapin 95 :	Vitesse = 9	Vision = 4	Taille = 0	Reserve = 6
+Lapin 53 :	Vitesse = 8	Vision = 9	Taille = 0	Reserve = 6
+Lapin 62 :	Vitesse = 8	Vision = 6	Taille = 0	Reserve = 3
+Lapin 90 :	Vitesse = 8	Vision = 8	Taille = 0	Reserve = 10
+Lapin 57 :	Vitesse = 6	Vision = 5	Taille = 0	Reserve = 4
+Lapin 66 :	Vitesse = 6	Vision = 1	Taille = 0	Reserve = 5
+Lapin 69 :	Vitesse = 5	Vision = 9	Taille = 1	Reserve = 9
+Lapin 100 :	Vitesse = 5	Vision = 8	Taille = 0	Reserve = 8
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 13
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 5
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 11
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 4
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 3
+Lapin 34 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 8
+Lapin 35 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 4
+Lapin 36 :	Vitesse = 4	Vision = 2	Taille = 3	Reserve = 1
+Lapin 41 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 3
+Lapin 42 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 5
+Lapin 43 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 3
+Lapin 44 :	Vitesse = 4	Vision = 5	Taille = 1	Reserve = 3
+Lapin 50 :	Vitesse = 4	Vision = 8	Taille = 0	Reserve = 5
+Lapin 51 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 4
+Lapin 52 :	Vitesse = 4	Vision = 8	Taille = 5	Reserve = 5
+Lapin 55 :	Vitesse = 4	Vision = 5	Taille = 3	Reserve = 1
+Lapin 67 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 4
+Lapin 68 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 4
+Lapin 70 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 4
+Lapin 72 :	Vitesse = 4	Vision = 9	Taille = 2	Reserve = 6
+Lapin 77 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 0
+Lapin 89 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 0
+Lapin 91 :	Vitesse = 4	Vision = 9	Taille = 1	Reserve = 5
+Lapin 93 :	Vitesse = 4	Vision = 4	Taille = 2	Reserve = 2
+Lapin 94 :	Vitesse = 4	Vision = 9	Taille = 4	Reserve = 4
+Lapin 96 :	Vitesse = 4	Vision = 7	Taille = 3	Reserve = 2
+Lapin 103 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 3
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 4
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 1
+Lapin 37 :	Vitesse = 3	Vision = 8	Taille = 0	Reserve = 4
+Lapin 59 :	Vitesse = 3	Vision = 2	Taille = 0	Reserve = 1
+Lapin 73 :	Vitesse = 3	Vision = 9	Taille = 8	Reserve = 6
+Lapin 86 :	Vitesse = 3	Vision = 0	Taille = 0	Reserve = 2
+Lapin 87 :	Vitesse = 3	Vision = 5	Taille = 0	Reserve = 1
+Lapin 101 :	Vitesse = 3	Vision = 8	Taille = 4	Reserve = 3
+Lapin 102 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 2
+Lapin 24 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 0
+Lapin 29 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 1
+Lapin 40 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 5
+Lapin 58 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 5
+Lapin 60 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 4
+Lapin 61 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 3
+Lapin 74 :	Vitesse = 2	Vision = 4	Taille = 5	Reserve = 1
+Lapin 80 :	Vitesse = 2	Vision = 7	Taille = 7	Reserve = 1
+Lapin 81 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 3
+Lapin 92 :	Vitesse = 2	Vision = 5	Taille = 3	Reserve = 1
+Lapin 106 :	Vitesse = 2	Vision = 9	Taille = 3	Reserve = 2
+Lapin 88 :	Vitesse = 1	Vision = 9	Taille = 6	Reserve = 4
+Lapin 104 :	Vitesse = 1	Vision = 8	Taille = 0	Reserve = 4
+Lapin 46 :	Vitesse = 0	Vision = 8	Taille = 0	Reserve = 4
+Lapin 75 :	Vitesse = 0	Vision = 5	Taille = 0	Reserve = 3
+Lapin 97 :	Vitesse = 0	Vision = 6	Taille = 1	Reserve = 1
+Lapin 98 :	Vitesse = 0	Vision = 9	Taille = 0	Reserve = 2
+Lapin 109 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 0
+Lapin 110 :	Vitesse = 9	Vision = 4	Taille = 0	Reserve = 0
+Lapin 111 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 0
+Lapin 112 :	Vitesse = 9	Vision = 4	Taille = 4	Reserve = 0
+Lapin 113 :	Vitesse = 9	Vision = 6	Taille = 0	Reserve = 0
+Lapin 114 :	Vitesse = 8	Vision = 5	Taille = 1	Reserve = 0
+Lapin 115 :	Vitesse = 6	Vision = 9	Taille = 1	Reserve = 0
+Lapin 116 :	Vitesse = 5	Vision = 8	Taille = 2	Reserve = 0
+Lapin 117 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 0
+Lapin 118 :	Vitesse = 7	Vision = 9	Taille = 0	Reserve = 0
+Lapin 119 :	Vitesse = 7	Vision = 5	Taille = 1	Reserve = 0
+Lapin 120 :	Vitesse = 3	Vision = 2	Taille = 1	Reserve = 0
+Lapin 121 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 0
+Lapin 122 :	Vitesse = 1	Vision = 5	Taille = 6	Reserve = 0
+Lapin 123 :	Vitesse = 0	Vision = 4	Taille = 5	Reserve = 0
+Lapin 124 :	Vitesse = 4	Vision = 7	Taille = 3	Reserve = 0
+Lapin 125 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 0
+Lapin 126 :	Vitesse = 4	Vision = 3	Taille = 2	Reserve = 0
+Lapin 127 :	Vitesse = 8	Vision = 0	Taille = 1	Reserve = 0
+Lapin 128 :	Vitesse = 5	Vision = 4	Taille = 4	Reserve = 0
+Lapin 129 :	Vitesse = 4	Vision = 4	Taille = 3	Reserve = 0
+Lapin 130 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 0
+Lapin 131 :	Vitesse = 3	Vision = 2	Taille = 2	Reserve = 0
+Lapin 132 :	Vitesse = 3	Vision = 2	Taille = 0	Reserve = 0
+Lapin 133 :	Vitesse = 3	Vision = 5	Taille = 0	Reserve = 0
+Lapin 134 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 0
+Lapin 135 :	Vitesse = 9	Vision = 6	Taille = 0	Reserve = 0
+Lapin 136 :	Vitesse = 8	Vision = 8	Taille = 0	Reserve = 0
+Lapin 137 :	Vitesse = 2	Vision = 4	Taille = 7	Reserve = 0
+Lapin 138 :	Vitesse = 2	Vision = 7	Taille = 7	Reserve = 0
+Lapin 139 :	Vitesse = 2	Vision = 7	Taille = 3	Reserve = 0
+Lapin 140 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 0
+Lapin 141 :	Vitesse = 0	Vision = 1	Taille = 0	Reserve = 0
+Lapin 142 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 0
+
+Lapin 20 a pris 4 carottes
+Lapin 33 a pris 5 carottes
+Lapin 56 a pris 6 carottes
+Lapin 64 a pris 3 carottes
+Lapin 65 a pris 2 carottes
+Lapin 84 a pris 4 carottes
+Lapin 85 a pris 6 carottes
+Lapin 95 a pris 4 carottes
+Lapin 109 a pris 5 carottes
+Lapin 110 a pris 4 carottes
+Lapin 112 a pris 2 carottes
+Lapin 113 a pris 4 carottes
+Lapin 135 a pris 3 carottes
+Lapin 53 a pris 4 carottes
+Lapin 62 a pris 3 carottes
+Lapin 90 a pris 7 carottes
+Lapin 114 a pris 5 carottes
+Lapin 127 a pris 3 carottes
+Lapin 136 a pris 4 carottes
+Lapin 118 a pris 6 carottes
+Lapin 119 a pris 2 carottes
+Lapin 57 a pris 3 carottes
+Lapin 66 a pris 2 carottes
+Lapin 115 a pris 5 carottes
+Lapin 69 a pris 7 carottes
+Lapin 100 a pris 5 carottes
+Lapin 116 a pris 7 carottes
+Lapin 128 a pris 3 carottes
+Lapin 7 a pris 5 carottes
+Lapin 11 a pris 3 carottes
+Lapin 13 a pris 4 carottes
+Lapin 21 a pris 4 carottes
+Lapin 30 a pris 5 carottes
+Lapin 34 a pris 6 carottes
+Lapin 35 a pris 5 carottes
+Lapin 36 a pris 4 carottes
+Lapin 41 a pris 2 carottes
+Lapin 42 a pris 2 carottes
+Lapin 43 a pris 3 carottes
+Lapin 44 a pris 3 carottes
+Lapin 50 a pris 4 carottes
+Lapin 51 a pris 3 carottes
+Lapin 52 a pris 6 carottes
+Lapin 55 a pris 4 carottes
+Lapin 67 a pris 4 carottes
+Lapin 68 a pris 3 carottes
+Lapin 70 a pris 2 carottes
+Lapin 72 a pris 4 carottes
+Lapin 77 a pris 2 carottes
+Lapin 89 a pris 2 carottes
+Lapin 91 a pris 4 carottes
+Lapin 93 a pris 2 carottes
+Lapin 94 a pris 5 carottes
+Lapin 96 a pris 3 carottes
+Lapin 103 a pris 2 carottes
+Lapin 117 a pris 4 carottes
+Lapin 121 a pris 3 carottes
+Lapin 124 a pris 4 carottes
+Lapin 125 a pris 4 carottes
+Lapin 126 a pris 4 carottes
+Lapin 129 a pris 2 carottes
+Lapin 130 a pris 3 carottes
+Lapin 2 a pris 4 carottes
+Lapin 25 a pris 7 carottes
+Lapin 37 a pris 7 carottes
+Lapin 59 a pris 4 carottes
+Lapin 73 a pris 6 carottes
+Lapin 86 a pris 3 carottes
+Lapin 87 a pris 4 carottes
+Lapin 101 a pris 6 carottes
+Lapin 102 a pris 7 carottes
+Lapin 120 a pris 3 carottes
+Lapin 131 a pris 2 carottes
+Lapin 132 a pris 2 carottes
+Lapin 133 a pris 3 carottes
+Lapin 134 a pris 3 carottes
+Lapin 24 a pris 5 carottes
+Lapin 29 a pris 4 carottes
+Lapin 40 a pris 6 carottes
+Lapin 58 a pris 5 carottes
+Lapin 60 a pris 8 carottes
+Lapin 61 a pris 5 carottes
+Lapin 74 a pris 3 carottes
+Lapin 80 a pris 2 carottes
+Lapin 81 a pris 7 carottes
+Lapin 92 a pris 4 carottes
+Lapin 106 a pris 4 carottes
+Lapin 111 a pris 4 carottes
+Lapin 137 a pris 3 carottes
+Lapin 138 a pris 5 carottes
+Lapin 139 a pris 4 carottes
+Lapin 140 a pris 4 carottes
+Lapin 142 a pris 5 carottes
+Lapin 88 a pris 7 carottes
+Lapin 104 a pris 7 carottes
+Lapin 122 a pris 4 carottes
+Lapin 46 a pris 7 carottes
+Lapin 75 a pris 6 carottes
+Lapin 97 a pris 4 carottes
+Lapin 98 a pris 6 carottes
+Lapin 123 a pris 4 carottes
+Lapin 141 a pris 1 carottes
+
+
+APRES MANGE : 
+CAROTTES : 95
+POPULATION : 102
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 17
+Lapin 33 :	Vitesse = 9	Vision = 8	Taille = 4	Reserve = 32
+Lapin 56 :	Vitesse = 9	Vision = 9	Taille = 0	Reserve = 33
+Lapin 64 :	Vitesse = 9	Vision = 1	Taille = 4	Reserve = 18
+Lapin 65 :	Vitesse = 9	Vision = 0	Taille = 0	Reserve = 10
+Lapin 84 :	Vitesse = 9	Vision = 8	Taille = 1	Reserve = 9
+Lapin 85 :	Vitesse = 9	Vision = 9	Taille = 4	Reserve = 12
+Lapin 95 :	Vitesse = 9	Vision = 4	Taille = 0	Reserve = 10
+Lapin 109 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 11
+Lapin 110 :	Vitesse = 9	Vision = 4	Taille = 0	Reserve = 7
+Lapin 112 :	Vitesse = 9	Vision = 4	Taille = 4	Reserve = 12
+Lapin 113 :	Vitesse = 9	Vision = 6	Taille = 0	Reserve = 8
+Lapin 135 :	Vitesse = 9	Vision = 6	Taille = 0	Reserve = 8
+Lapin 53 :	Vitesse = 8	Vision = 9	Taille = 0	Reserve = 13
+Lapin 62 :	Vitesse = 8	Vision = 6	Taille = 0	Reserve = 11
+Lapin 90 :	Vitesse = 8	Vision = 8	Taille = 0	Reserve = 20
+Lapin 114 :	Vitesse = 8	Vision = 5	Taille = 1	Reserve = 10
+Lapin 127 :	Vitesse = 8	Vision = 0	Taille = 1	Reserve = 14
+Lapin 136 :	Vitesse = 8	Vision = 8	Taille = 0	Reserve = 8
+Lapin 118 :	Vitesse = 7	Vision = 9	Taille = 0	Reserve = 9
+Lapin 119 :	Vitesse = 7	Vision = 5	Taille = 1	Reserve = 10
+Lapin 57 :	Vitesse = 6	Vision = 5	Taille = 0	Reserve = 7
+Lapin 66 :	Vitesse = 6	Vision = 1	Taille = 0	Reserve = 3
+Lapin 115 :	Vitesse = 6	Vision = 9	Taille = 1	Reserve = 8
+Lapin 69 :	Vitesse = 5	Vision = 9	Taille = 1	Reserve = 12
+Lapin 100 :	Vitesse = 5	Vision = 8	Taille = 0	Reserve = 8
+Lapin 116 :	Vitesse = 5	Vision = 8	Taille = 2	Reserve = 10
+Lapin 128 :	Vitesse = 5	Vision = 4	Taille = 4	Reserve = 8
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 9
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 8
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 5
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 8
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 9
+Lapin 34 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 10
+Lapin 35 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 11
+Lapin 36 :	Vitesse = 4	Vision = 2	Taille = 3	Reserve = 4
+Lapin 41 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 2
+Lapin 42 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 7
+Lapin 43 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 5
+Lapin 44 :	Vitesse = 4	Vision = 5	Taille = 1	Reserve = 7
+Lapin 50 :	Vitesse = 4	Vision = 8	Taille = 0	Reserve = 6
+Lapin 51 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 6
+Lapin 52 :	Vitesse = 4	Vision = 8	Taille = 5	Reserve = 10
+Lapin 55 :	Vitesse = 4	Vision = 5	Taille = 3	Reserve = 5
+Lapin 67 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 8
+Lapin 68 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 4
+Lapin 70 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 8
+Lapin 72 :	Vitesse = 4	Vision = 9	Taille = 2	Reserve = 6
+Lapin 77 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 3
+Lapin 89 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 5
+Lapin 91 :	Vitesse = 4	Vision = 9	Taille = 1	Reserve = 6
+Lapin 93 :	Vitesse = 4	Vision = 4	Taille = 2	Reserve = 2
+Lapin 94 :	Vitesse = 4	Vision = 9	Taille = 4	Reserve = 6
+Lapin 96 :	Vitesse = 4	Vision = 7	Taille = 3	Reserve = 8
+Lapin 103 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 7
+Lapin 117 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 8
+Lapin 121 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 6
+Lapin 124 :	Vitesse = 4	Vision = 7	Taille = 3	Reserve = 5
+Lapin 125 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 5
+Lapin 126 :	Vitesse = 4	Vision = 3	Taille = 2	Reserve = 7
+Lapin 129 :	Vitesse = 4	Vision = 4	Taille = 3	Reserve = 3
+Lapin 130 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 5
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 8
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 11
+Lapin 37 :	Vitesse = 3	Vision = 8	Taille = 0	Reserve = 11
+Lapin 59 :	Vitesse = 3	Vision = 2	Taille = 0	Reserve = 7
+Lapin 73 :	Vitesse = 3	Vision = 9	Taille = 8	Reserve = 7
+Lapin 86 :	Vitesse = 3	Vision = 0	Taille = 0	Reserve = 5
+Lapin 87 :	Vitesse = 3	Vision = 5	Taille = 0	Reserve = 4
+Lapin 101 :	Vitesse = 3	Vision = 8	Taille = 4	Reserve = 6
+Lapin 102 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 7
+Lapin 120 :	Vitesse = 3	Vision = 2	Taille = 1	Reserve = 3
+Lapin 131 :	Vitesse = 3	Vision = 2	Taille = 2	Reserve = 2
+Lapin 132 :	Vitesse = 3	Vision = 2	Taille = 0	Reserve = 2
+Lapin 133 :	Vitesse = 3	Vision = 5	Taille = 0	Reserve = 3
+Lapin 134 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 3
+Lapin 24 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 5
+Lapin 29 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 4
+Lapin 40 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 6
+Lapin 58 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 5
+Lapin 60 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 8
+Lapin 61 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 5
+Lapin 74 :	Vitesse = 2	Vision = 4	Taille = 5	Reserve = 3
+Lapin 80 :	Vitesse = 2	Vision = 7	Taille = 7	Reserve = 2
+Lapin 81 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 7
+Lapin 92 :	Vitesse = 2	Vision = 5	Taille = 3	Reserve = 4
+Lapin 106 :	Vitesse = 2	Vision = 9	Taille = 3	Reserve = 4
+Lapin 111 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 4
+Lapin 137 :	Vitesse = 2	Vision = 4	Taille = 7	Reserve = 3
+Lapin 138 :	Vitesse = 2	Vision = 7	Taille = 7	Reserve = 5
+Lapin 139 :	Vitesse = 2	Vision = 7	Taille = 3	Reserve = 4
+Lapin 140 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 4
+Lapin 142 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 5
+Lapin 88 :	Vitesse = 1	Vision = 9	Taille = 6	Reserve = 7
+Lapin 104 :	Vitesse = 1	Vision = 8	Taille = 0	Reserve = 7
+Lapin 122 :	Vitesse = 1	Vision = 5	Taille = 6	Reserve = 4
+Lapin 46 :	Vitesse = 0	Vision = 8	Taille = 0	Reserve = 7
+Lapin 75 :	Vitesse = 0	Vision = 5	Taille = 0	Reserve = 6
+Lapin 97 :	Vitesse = 0	Vision = 6	Taille = 1	Reserve = 4
+Lapin 98 :	Vitesse = 0	Vision = 9	Taille = 0	Reserve = 6
+Lapin 123 :	Vitesse = 0	Vision = 4	Taille = 5	Reserve = 4
+Lapin 141 :	Vitesse = 0	Vision = 1	Taille = 0	Reserve = 1
+
+
+Lapin 41 est mort de faim
+Lapin 93 est mort de faim
+Lapin 131 est mort de faim
+Lapin 132 est mort de faim
+Lapin 80 est mort de faim
+Lapin 141 est mort de faim
+
+Lapin 144 est né de Lapin 33 et Lapin 20
+Lapin 145 est né de Lapin 56 et Lapin 64
+Lapin 146 est né de Lapin 65 et Lapin 84
+Lapin 147 est né de Lapin 85 et Lapin 95
+Lapin 148 est né de Lapin 109 et Lapin 110
+Lapin 149 est né de Lapin 112 et Lapin 113
+Lapin 150 est né de Lapin 135 et Lapin 53
+Lapin 151 est né de Lapin 62 et Lapin 90
+Lapin 152 est né de Lapin 114 et Lapin 127
+Lapin 153 est né de Lapin 136 et Lapin 118
+Lapin 154 est né de Lapin 119 et Lapin 57
+Lapin 155 est né de Lapin 66 et Lapin 115
+Lapin 156 est né de Lapin 69 et Lapin 100
+Lapin 157 est né de Lapin 116 et Lapin 128
+Lapin 158 est né de Lapin 7 et Lapin 11
+Lapin 159 est né de Lapin 13 et Lapin 21
+Lapin 160 est né de Lapin 30 et Lapin 34
+Lapin 161 est né de Lapin 35 et Lapin 36
+Lapin 162 est né de Lapin 42 et Lapin 43
+Lapin 163 est né de Lapin 44 et Lapin 50
+Lapin 164 est né de Lapin 51 et Lapin 52
+Lapin 165 est né de Lapin 55 et Lapin 67
+Lapin 166 est né de Lapin 68 et Lapin 70
+Lapin 167 est né de Lapin 72 et Lapin 77
+Lapin 168 est né de Lapin 89 et Lapin 91
+Lapin 169 est né de Lapin 94 et Lapin 96
+Lapin 170 est né de Lapin 103 et Lapin 117
+Lapin 171 est né de Lapin 121 et Lapin 124
+Lapin 172 est né de Lapin 125 et Lapin 126
+Lapin 173 est né de Lapin 129 et Lapin 130
+Lapin 174 est né de Lapin 2 et Lapin 25
+Lapin 175 est né de Lapin 37 et Lapin 59
+Lapin 176 est né de Lapin 73 et Lapin 86
+Lapin 177 est né de Lapin 87 et Lapin 101
+Lapin 178 est né de Lapin 102 et Lapin 120
+Lapin 179 est né de Lapin 133 et Lapin 134
+Lapin 180 est né de Lapin 24 et Lapin 29
+Lapin 181 est né de Lapin 40 et Lapin 58
+Lapin 182 est né de Lapin 60 et Lapin 61
+Lapin 183 est né de Lapin 74 et Lapin 81
+Lapin 184 est né de Lapin 92 et Lapin 106
+Lapin 185 est né de Lapin 111 et Lapin 137
+Lapin 186 est né de Lapin 138 et Lapin 139
+Lapin 187 est né de Lapin 140 et Lapin 142
+Lapin 188 est né de Lapin 88 et Lapin 104
+Lapin 189 est né de Lapin 122 et Lapin 46
+Lapin 190 est né de Lapin 75 et Lapin 97
+Lapin 191 est né de Lapin 98 et Lapin 123
+
+
+GENERATION : 13
+AJOUT : 43
+CAROTTES : 138
+POPULATION : 144
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 14
+Lapin 33 :	Vitesse = 9	Vision = 8	Taille = 4	Reserve = 29
+Lapin 56 :	Vitesse = 9	Vision = 9	Taille = 0	Reserve = 30
+Lapin 64 :	Vitesse = 9	Vision = 1	Taille = 4	Reserve = 15
+Lapin 65 :	Vitesse = 9	Vision = 0	Taille = 0	Reserve = 7
+Lapin 84 :	Vitesse = 9	Vision = 8	Taille = 1	Reserve = 6
+Lapin 85 :	Vitesse = 9	Vision = 9	Taille = 4	Reserve = 9
+Lapin 95 :	Vitesse = 9	Vision = 4	Taille = 0	Reserve = 7
+Lapin 109 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 8
+Lapin 110 :	Vitesse = 9	Vision = 4	Taille = 0	Reserve = 4
+Lapin 112 :	Vitesse = 9	Vision = 4	Taille = 4	Reserve = 9
+Lapin 113 :	Vitesse = 9	Vision = 6	Taille = 0	Reserve = 5
+Lapin 135 :	Vitesse = 9	Vision = 6	Taille = 0	Reserve = 5
+Lapin 53 :	Vitesse = 8	Vision = 9	Taille = 0	Reserve = 10
+Lapin 62 :	Vitesse = 8	Vision = 6	Taille = 0	Reserve = 8
+Lapin 90 :	Vitesse = 8	Vision = 8	Taille = 0	Reserve = 17
+Lapin 114 :	Vitesse = 8	Vision = 5	Taille = 1	Reserve = 7
+Lapin 127 :	Vitesse = 8	Vision = 0	Taille = 1	Reserve = 11
+Lapin 136 :	Vitesse = 8	Vision = 8	Taille = 0	Reserve = 5
+Lapin 118 :	Vitesse = 7	Vision = 9	Taille = 0	Reserve = 6
+Lapin 119 :	Vitesse = 7	Vision = 5	Taille = 1	Reserve = 7
+Lapin 57 :	Vitesse = 6	Vision = 5	Taille = 0	Reserve = 4
+Lapin 66 :	Vitesse = 6	Vision = 1	Taille = 0	Reserve = 0
+Lapin 115 :	Vitesse = 6	Vision = 9	Taille = 1	Reserve = 5
+Lapin 69 :	Vitesse = 5	Vision = 9	Taille = 1	Reserve = 9
+Lapin 100 :	Vitesse = 5	Vision = 8	Taille = 0	Reserve = 5
+Lapin 116 :	Vitesse = 5	Vision = 8	Taille = 2	Reserve = 7
+Lapin 128 :	Vitesse = 5	Vision = 4	Taille = 4	Reserve = 5
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 6
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 5
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 2
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 5
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 6
+Lapin 34 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 7
+Lapin 35 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 8
+Lapin 36 :	Vitesse = 4	Vision = 2	Taille = 3	Reserve = 1
+Lapin 42 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 4
+Lapin 43 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 2
+Lapin 44 :	Vitesse = 4	Vision = 5	Taille = 1	Reserve = 4
+Lapin 50 :	Vitesse = 4	Vision = 8	Taille = 0	Reserve = 3
+Lapin 51 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 3
+Lapin 52 :	Vitesse = 4	Vision = 8	Taille = 5	Reserve = 7
+Lapin 55 :	Vitesse = 4	Vision = 5	Taille = 3	Reserve = 2
+Lapin 67 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 5
+Lapin 68 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 1
+Lapin 70 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 5
+Lapin 72 :	Vitesse = 4	Vision = 9	Taille = 2	Reserve = 3
+Lapin 77 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 0
+Lapin 89 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 2
+Lapin 91 :	Vitesse = 4	Vision = 9	Taille = 1	Reserve = 3
+Lapin 94 :	Vitesse = 4	Vision = 9	Taille = 4	Reserve = 3
+Lapin 96 :	Vitesse = 4	Vision = 7	Taille = 3	Reserve = 5
+Lapin 103 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 4
+Lapin 117 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 5
+Lapin 121 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 3
+Lapin 124 :	Vitesse = 4	Vision = 7	Taille = 3	Reserve = 2
+Lapin 125 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 2
+Lapin 126 :	Vitesse = 4	Vision = 3	Taille = 2	Reserve = 4
+Lapin 129 :	Vitesse = 4	Vision = 4	Taille = 3	Reserve = 0
+Lapin 130 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 2
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 5
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 8
+Lapin 37 :	Vitesse = 3	Vision = 8	Taille = 0	Reserve = 8
+Lapin 59 :	Vitesse = 3	Vision = 2	Taille = 0	Reserve = 4
+Lapin 73 :	Vitesse = 3	Vision = 9	Taille = 8	Reserve = 4
+Lapin 86 :	Vitesse = 3	Vision = 0	Taille = 0	Reserve = 2
+Lapin 87 :	Vitesse = 3	Vision = 5	Taille = 0	Reserve = 1
+Lapin 101 :	Vitesse = 3	Vision = 8	Taille = 4	Reserve = 3
+Lapin 102 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 4
+Lapin 120 :	Vitesse = 3	Vision = 2	Taille = 1	Reserve = 0
+Lapin 133 :	Vitesse = 3	Vision = 5	Taille = 0	Reserve = 0
+Lapin 134 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 0
+Lapin 24 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 2
+Lapin 29 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 1
+Lapin 40 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 3
+Lapin 58 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 2
+Lapin 60 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 5
+Lapin 61 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 2
+Lapin 74 :	Vitesse = 2	Vision = 4	Taille = 5	Reserve = 0
+Lapin 81 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 4
+Lapin 92 :	Vitesse = 2	Vision = 5	Taille = 3	Reserve = 1
+Lapin 106 :	Vitesse = 2	Vision = 9	Taille = 3	Reserve = 1
+Lapin 111 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 1
+Lapin 137 :	Vitesse = 2	Vision = 4	Taille = 7	Reserve = 0
+Lapin 138 :	Vitesse = 2	Vision = 7	Taille = 7	Reserve = 2
+Lapin 139 :	Vitesse = 2	Vision = 7	Taille = 3	Reserve = 1
+Lapin 140 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 1
+Lapin 142 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 2
+Lapin 88 :	Vitesse = 1	Vision = 9	Taille = 6	Reserve = 4
+Lapin 104 :	Vitesse = 1	Vision = 8	Taille = 0	Reserve = 4
+Lapin 122 :	Vitesse = 1	Vision = 5	Taille = 6	Reserve = 1
+Lapin 46 :	Vitesse = 0	Vision = 8	Taille = 0	Reserve = 4
+Lapin 75 :	Vitesse = 0	Vision = 5	Taille = 0	Reserve = 3
+Lapin 97 :	Vitesse = 0	Vision = 6	Taille = 1	Reserve = 1
+Lapin 98 :	Vitesse = 0	Vision = 9	Taille = 0	Reserve = 3
+Lapin 123 :	Vitesse = 0	Vision = 4	Taille = 5	Reserve = 1
+Lapin 144 :	Vitesse = 3	Vision = 8	Taille = 0	Reserve = 0
+Lapin 145 :	Vitesse = 9	Vision = 9	Taille = 4	Reserve = 0
+Lapin 146 :	Vitesse = 4	Vision = 0	Taille = 9	Reserve = 0
+Lapin 147 :	Vitesse = 4	Vision = 4	Taille = 9	Reserve = 0
+Lapin 148 :	Vitesse = 2	Vision = 4	Taille = 7	Reserve = 0
+Lapin 149 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 0
+Lapin 150 :	Vitesse = 9	Vision = 9	Taille = 3	Reserve = 0
+Lapin 151 :	Vitesse = 9	Vision = 6	Taille = 0	Reserve = 0
+Lapin 152 :	Vitesse = 3	Vision = 0	Taille = 1	Reserve = 0
+Lapin 153 :	Vitesse = 1	Vision = 8	Taille = 0	Reserve = 0
+Lapin 154 :	Vitesse = 6	Vision = 5	Taille = 1	Reserve = 0
+Lapin 155 :	Vitesse = 6	Vision = 1	Taille = 0	Reserve = 0
+Lapin 156 :	Vitesse = 5	Vision = 4	Taille = 0	Reserve = 0
+Lapin 157 :	Vitesse = 5	Vision = 8	Taille = 4	Reserve = 0
+Lapin 158 :	Vitesse = 4	Vision = 6	Taille = 5	Reserve = 0
+Lapin 159 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 0
+Lapin 160 :	Vitesse = 4	Vision = 9	Taille = 9	Reserve = 0
+Lapin 161 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 0
+Lapin 162 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 0
+Lapin 163 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 0
+Lapin 164 :	Vitesse = 4	Vision = 2	Taille = 1	Reserve = 0
+Lapin 165 :	Vitesse = 8	Vision = 4	Taille = 3	Reserve = 0
+Lapin 166 :	Vitesse = 4	Vision = 4	Taille = 9	Reserve = 0
+Lapin 167 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 0
+Lapin 168 :	Vitesse = 1	Vision = 9	Taille = 0	Reserve = 0
+Lapin 169 :	Vitesse = 1	Vision = 9	Taille = 3	Reserve = 0
+Lapin 170 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 0
+Lapin 171 :	Vitesse = 5	Vision = 7	Taille = 0	Reserve = 0
+Lapin 172 :	Vitesse = 2	Vision = 3	Taille = 0	Reserve = 0
+Lapin 173 :	Vitesse = 4	Vision = 6	Taille = 4	Reserve = 0
+Lapin 174 :	Vitesse = 3	Vision = 6	Taille = 8	Reserve = 0
+Lapin 175 :	Vitesse = 3	Vision = 9	Taille = 0	Reserve = 0
+Lapin 176 :	Vitesse = 2	Vision = 9	Taille = 0	Reserve = 0
+Lapin 177 :	Vitesse = 3	Vision = 9	Taille = 0	Reserve = 0
+Lapin 178 :	Vitesse = 3	Vision = 2	Taille = 5	Reserve = 0
+Lapin 179 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 0
+Lapin 180 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 0
+Lapin 181 :	Vitesse = 0	Vision = 8	Taille = 0	Reserve = 0
+Lapin 182 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 0
+Lapin 183 :	Vitesse = 2	Vision = 4	Taille = 5	Reserve = 0
+Lapin 184 :	Vitesse = 2	Vision = 4	Taille = 3	Reserve = 0
+Lapin 185 :	Vitesse = 2	Vision = 1	Taille = 7	Reserve = 0
+Lapin 186 :	Vitesse = 3	Vision = 7	Taille = 8	Reserve = 0
+Lapin 187 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 0
+Lapin 188 :	Vitesse = 1	Vision = 0	Taille = 0	Reserve = 0
+Lapin 189 :	Vitesse = 1	Vision = 3	Taille = 0	Reserve = 0
+Lapin 190 :	Vitesse = 0	Vision = 0	Taille = 1	Reserve = 0
+Lapin 191 :	Vitesse = 0	Vision = 9	Taille = 5	Reserve = 0
+
+Lapin 20 a pris 3 carottes
+Lapin 33 a pris 6 carottes
+Lapin 56 a pris 8 carottes
+Lapin 64 a pris 4 carottes
+Lapin 65 a pris 2 carottes
+Lapin 84 a pris 4 carottes
+Lapin 85 a pris 6 carottes
+Lapin 95 a pris 4 carottes
+Lapin 109 a pris 4 carottes
+Lapin 110 a pris 4 carottes
+Lapin 112 a pris 4 carottes
+Lapin 113 a pris 3 carottes
+Lapin 135 a pris 3 carottes
+Lapin 145 a pris 6 carottes
+Lapin 150 a pris 7 carottes
+Lapin 151 a pris 3 carottes
+Lapin 179 a pris 6 carottes
+Lapin 53 a pris 5 carottes
+Lapin 62 a pris 3 carottes
+Lapin 90 a pris 5 carottes
+Lapin 114 a pris 4 carottes
+Lapin 127 a pris 2 carottes
+Lapin 136 a pris 6 carottes
+Lapin 165 a pris 3 carottes
+Lapin 118 a pris 6 carottes
+Lapin 119 a pris 4 carottes
+Lapin 57 a pris 3 carottes
+Lapin 66 a pris 2 carottes
+Lapin 115 a pris 5 carottes
+Lapin 154 a pris 4 carottes
+Lapin 155 a pris 2 carottes
+Lapin 69 a pris 5 carottes
+Lapin 100 a pris 2 carottes
+Lapin 116 a pris 0 carottes
+Lapin 128 a pris 0 carottes
+Lapin 156 vole 2 carottes a Lapin 20
+Lapin 157 a pris 0 carottes
+Lapin 171 vole 26 carottes a Lapin 33
+Lapin 7 a pris 0 carottes
+Lapin 11 a pris 0 carottes
+Lapin 13 a pris 0 carottes
+Lapin 21 a pris 0 carottes
+Lapin 30 vole 4 carottes a Lapin 20
+Lapin 34 a pris 0 carottes
+Lapin 35 vole 1 carottes a Lapin 65
+Lapin 36 a pris 0 carottes
+Lapin 42 a pris 0 carottes
+Lapin 43 vole 3 carottes a Lapin 20
+Lapin 44 vole 8 carottes a Lapin 85
+Lapin 50 a pris 0 carottes
+Lapin 51 a pris 0 carottes
+Lapin 52 a pris 0 carottes
+Lapin 55 a pris 0 carottes
+Lapin 67 a pris 0 carottes
+Lapin 68 a pris 0 carottes
+Lapin 70 vole 3 carottes a Lapin 20
+Lapin 72 vole 0 carottes a Lapin 85
+Lapin 77 a pris 0 carottes
+Lapin 89 vole 4 carottes a Lapin 20
+Lapin 91 vole 4 carottes a Lapin 33
+Lapin 94 a pris 0 carottes
+Lapin 96 a pris 0 carottes
+Lapin 103 a pris 0 carottes
+Lapin 117 a pris 0 carottes
+Lapin 121 a pris 0 carottes
+Lapin 124 vole 0 carottes a Lapin 20
+Lapin 125 vole 1 carottes a Lapin 20
+Lapin 126 a pris 0 carottes
+Lapin 129 a pris 0 carottes
+Lapin 130 vole 4 carottes a Lapin 33
+Lapin 146 vole 1 carottes a Lapin 33
+Lapin 147 vole 1 carottes a Lapin 56
+Lapin 158 vole 30 carottes a Lapin 56
+Lapin 160 vole 3 carottes a Lapin 56
+Lapin 161 a pris 0 carottes
+Lapin 162 vole 6 carottes a Lapin 65
+Lapin 163 a pris 0 carottes
+Lapin 164 vole 12 carottes a Lapin 64
+Lapin 166 vole 3 carottes a Lapin 56
+Lapin 167 a pris 0 carottes
+Lapin 170 vole 0 carottes a Lapin 56
+Lapin 173 vole 1 carottes a Lapin 56
+Lapin 180 vole 0 carottes a Lapin 64
+Lapin 2 vole 6 carottes a Lapin 95
+Lapin 25 vole 4 carottes a Lapin 64
+Lapin 37 vole 1 carottes a Lapin 65
+Lapin 59 vole 0 carottes a Lapin 65
+Lapin 73 vole 2 carottes a Lapin 64
+Lapin 86 a pris 0 carottes
+Lapin 87 a pris 0 carottes
+Lapin 101 vole 1 carottes a Lapin 65
+Lapin 102 a pris 0 carottes
+Lapin 120 a pris 0 carottes
+Lapin 133 vole 10 carottes a Lapin 84
+Lapin 134 a pris 0 carottes
+Lapin 144 vole 0 carottes a Lapin 64
+Lapin 152 vole 2 carottes a Lapin 85
+Lapin 174 vole 1 carottes a Lapin 64
+Lapin 175 vole 1 carottes a Lapin 109
+Lapin 177 vole 4 carottes a Lapin 85
+Lapin 178 vole 4 carottes a Lapin 109
+Lapin 186 vole 3 carottes a Lapin 95
+Lapin 24 vole 0 carottes a Lapin 85
+Lapin 29 vole 1 carottes a Lapin 85
+Lapin 40 vole 1 carottes a Lapin 95
+Lapin 58 vole 0 carottes a Lapin 95
+Lapin 60 vole 1 carottes a Lapin 95
+Lapin 61 vole 4 carottes a Lapin 109
+Lapin 74 vole 3 carottes a Lapin 109
+Lapin 81 vole 2 carottes a Lapin 110
+Lapin 92 vole 0 carottes a Lapin 110
+Lapin 106 vole 0 carottes a Lapin 110
+Lapin 111 vole 5 carottes a Lapin 110
+Lapin 137 vole 7 carottes a Lapin 112
+Lapin 138 vole 0 carottes a Lapin 110
+Lapin 139 vole 1 carottes a Lapin 110
+Lapin 140 vole 2 carottes a Lapin 112
+Lapin 142 vole 3 carottes a Lapin 112
+Lapin 148 vole 0 carottes a Lapin 112
+Lapin 149 vole 0 carottes a Lapin 112
+Lapin 159 vole 1 carottes a Lapin 112
+Lapin 172 vole 1 carottes a Lapin 113
+Lapin 176 vole 5 carottes a Lapin 113
+Lapin 182 vole 2 carottes a Lapin 113
+Lapin 183 vole 1 carottes a Lapin 135
+Lapin 184 vole 2 carottes a Lapin 135
+Lapin 185 vole 0 carottes a Lapin 135
+Lapin 187 vole 8 carottes a Lapin 145
+Lapin 88 vole 0 carottes a Lapin 135
+Lapin 104 vole 3 carottes a Lapin 135
+Lapin 122 vole 1 carottes a Lapin 145
+Lapin 153 vole 2 carottes a Lapin 135
+Lapin 168 vole 4 carottes a Lapin 145
+Lapin 169 vole 8 carottes a Lapin 150
+Lapin 188 vole 0 carottes a Lapin 150
+Lapin 189 vole 1 carottes a Lapin 151
+Lapin 46 vole 0 carottes a Lapin 145
+Lapin 75 vole 6 carottes a Lapin 150
+Lapin 97 vole 0 carottes a Lapin 179
+Lapin 98 vole 1 carottes a Lapin 150
+Lapin 123 vole 17 carottes a Lapin 151
+Lapin 181 vole 13 carottes a Lapin 53
+Lapin 190 vole 2 carottes a Lapin 151
+Lapin 191 vole 0 carottes a Lapin 145
+
+
+APRES MANGE : 
+CAROTTES : 0
+POPULATION : 144
+Lapin 20 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 0
+Lapin 33 :	Vitesse = 9	Vision = 8	Taille = 4	Reserve = 0
+Lapin 56 :	Vitesse = 9	Vision = 9	Taille = 0	Reserve = 0
+Lapin 64 :	Vitesse = 9	Vision = 1	Taille = 4	Reserve = 0
+Lapin 65 :	Vitesse = 9	Vision = 0	Taille = 0	Reserve = 0
+Lapin 84 :	Vitesse = 9	Vision = 8	Taille = 1	Reserve = 0
+Lapin 85 :	Vitesse = 9	Vision = 9	Taille = 4	Reserve = 0
+Lapin 95 :	Vitesse = 9	Vision = 4	Taille = 0	Reserve = 0
+Lapin 109 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 0
+Lapin 110 :	Vitesse = 9	Vision = 4	Taille = 0	Reserve = 0
+Lapin 112 :	Vitesse = 9	Vision = 4	Taille = 4	Reserve = 0
+Lapin 113 :	Vitesse = 9	Vision = 6	Taille = 0	Reserve = 0
+Lapin 135 :	Vitesse = 9	Vision = 6	Taille = 0	Reserve = 0
+Lapin 145 :	Vitesse = 9	Vision = 9	Taille = 4	Reserve = 3
+Lapin 150 :	Vitesse = 9	Vision = 9	Taille = 3	Reserve = 0
+Lapin 151 :	Vitesse = 9	Vision = 6	Taille = 0	Reserve = 0
+Lapin 179 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 13
+Lapin 53 :	Vitesse = 8	Vision = 9	Taille = 0	Reserve = 3
+Lapin 62 :	Vitesse = 8	Vision = 6	Taille = 0	Reserve = 8
+Lapin 90 :	Vitesse = 8	Vision = 8	Taille = 0	Reserve = 11
+Lapin 114 :	Vitesse = 8	Vision = 5	Taille = 1	Reserve = 11
+Lapin 127 :	Vitesse = 8	Vision = 0	Taille = 1	Reserve = 6
+Lapin 136 :	Vitesse = 8	Vision = 8	Taille = 0	Reserve = 6
+Lapin 165 :	Vitesse = 8	Vision = 4	Taille = 3	Reserve = 8
+Lapin 118 :	Vitesse = 7	Vision = 9	Taille = 0	Reserve = 15
+Lapin 119 :	Vitesse = 7	Vision = 5	Taille = 1	Reserve = 9
+Lapin 57 :	Vitesse = 6	Vision = 5	Taille = 0	Reserve = 10
+Lapin 66 :	Vitesse = 6	Vision = 1	Taille = 0	Reserve = 7
+Lapin 115 :	Vitesse = 6	Vision = 9	Taille = 1	Reserve = 11
+Lapin 154 :	Vitesse = 6	Vision = 5	Taille = 1	Reserve = 9
+Lapin 155 :	Vitesse = 6	Vision = 1	Taille = 0	Reserve = 4
+Lapin 69 :	Vitesse = 5	Vision = 9	Taille = 1	Reserve = 10
+Lapin 100 :	Vitesse = 5	Vision = 8	Taille = 0	Reserve = 8
+Lapin 116 :	Vitesse = 5	Vision = 8	Taille = 2	Reserve = 7
+Lapin 128 :	Vitesse = 5	Vision = 4	Taille = 4	Reserve = 8
+Lapin 156 :	Vitesse = 5	Vision = 4	Taille = 0	Reserve = 3
+Lapin 157 :	Vitesse = 5	Vision = 8	Taille = 4	Reserve = 4
+Lapin 171 :	Vitesse = 5	Vision = 7	Taille = 0	Reserve = 28
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 4
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 3
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 3
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 7
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 6
+Lapin 34 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 5
+Lapin 35 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 2
+Lapin 36 :	Vitesse = 4	Vision = 2	Taille = 3	Reserve = 5
+Lapin 42 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 3
+Lapin 43 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 3
+Lapin 44 :	Vitesse = 4	Vision = 5	Taille = 1	Reserve = 10
+Lapin 50 :	Vitesse = 4	Vision = 8	Taille = 0	Reserve = 3
+Lapin 51 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 3
+Lapin 52 :	Vitesse = 4	Vision = 8	Taille = 5	Reserve = 5
+Lapin 55 :	Vitesse = 4	Vision = 5	Taille = 3	Reserve = 4
+Lapin 67 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 5
+Lapin 68 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 3
+Lapin 70 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 5
+Lapin 72 :	Vitesse = 4	Vision = 9	Taille = 2	Reserve = 2
+Lapin 77 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 4
+Lapin 89 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 4
+Lapin 91 :	Vitesse = 4	Vision = 9	Taille = 1	Reserve = 6
+Lapin 94 :	Vitesse = 4	Vision = 9	Taille = 4	Reserve = 5
+Lapin 96 :	Vitesse = 4	Vision = 7	Taille = 3	Reserve = 8
+Lapin 103 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 8
+Lapin 117 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 4
+Lapin 121 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 4
+Lapin 124 :	Vitesse = 4	Vision = 7	Taille = 3	Reserve = 2
+Lapin 125 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 2
+Lapin 126 :	Vitesse = 4	Vision = 3	Taille = 2	Reserve = 3
+Lapin 129 :	Vitesse = 4	Vision = 4	Taille = 3	Reserve = 4
+Lapin 130 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 4
+Lapin 146 :	Vitesse = 4	Vision = 0	Taille = 9	Reserve = 1
+Lapin 147 :	Vitesse = 4	Vision = 4	Taille = 9	Reserve = 1
+Lapin 158 :	Vitesse = 4	Vision = 6	Taille = 5	Reserve = 32
+Lapin 160 :	Vitesse = 4	Vision = 9	Taille = 9	Reserve = 4
+Lapin 161 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 3
+Lapin 162 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 8
+Lapin 163 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 5
+Lapin 164 :	Vitesse = 4	Vision = 2	Taille = 1	Reserve = 14
+Lapin 166 :	Vitesse = 4	Vision = 4	Taille = 9	Reserve = 3
+Lapin 167 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 4
+Lapin 170 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 1
+Lapin 173 :	Vitesse = 4	Vision = 6	Taille = 4	Reserve = 2
+Lapin 180 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 1
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 6
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 6
+Lapin 37 :	Vitesse = 3	Vision = 8	Taille = 0	Reserve = 2
+Lapin 59 :	Vitesse = 3	Vision = 2	Taille = 0	Reserve = 1
+Lapin 73 :	Vitesse = 3	Vision = 9	Taille = 8	Reserve = 4
+Lapin 86 :	Vitesse = 3	Vision = 0	Taille = 0	Reserve = 4
+Lapin 87 :	Vitesse = 3	Vision = 5	Taille = 0	Reserve = 4
+Lapin 101 :	Vitesse = 3	Vision = 8	Taille = 4	Reserve = 2
+Lapin 102 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 4
+Lapin 120 :	Vitesse = 3	Vision = 2	Taille = 1	Reserve = 3
+Lapin 133 :	Vitesse = 3	Vision = 5	Taille = 0	Reserve = 11
+Lapin 134 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 3
+Lapin 144 :	Vitesse = 3	Vision = 8	Taille = 0	Reserve = 1
+Lapin 152 :	Vitesse = 3	Vision = 0	Taille = 1	Reserve = 2
+Lapin 174 :	Vitesse = 3	Vision = 6	Taille = 8	Reserve = 1
+Lapin 175 :	Vitesse = 3	Vision = 9	Taille = 0	Reserve = 1
+Lapin 177 :	Vitesse = 3	Vision = 9	Taille = 0	Reserve = 4
+Lapin 178 :	Vitesse = 3	Vision = 2	Taille = 5	Reserve = 4
+Lapin 186 :	Vitesse = 3	Vision = 7	Taille = 8	Reserve = 3
+Lapin 24 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 0
+Lapin 29 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 1
+Lapin 40 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 1
+Lapin 58 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 0
+Lapin 60 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 1
+Lapin 61 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 4
+Lapin 74 :	Vitesse = 2	Vision = 4	Taille = 5	Reserve = 3
+Lapin 81 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 2
+Lapin 92 :	Vitesse = 2	Vision = 5	Taille = 3	Reserve = 0
+Lapin 106 :	Vitesse = 2	Vision = 9	Taille = 3	Reserve = 0
+Lapin 111 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 5
+Lapin 137 :	Vitesse = 2	Vision = 4	Taille = 7	Reserve = 7
+Lapin 138 :	Vitesse = 2	Vision = 7	Taille = 7	Reserve = 0
+Lapin 139 :	Vitesse = 2	Vision = 7	Taille = 3	Reserve = 1
+Lapin 140 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 2
+Lapin 142 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 3
+Lapin 148 :	Vitesse = 2	Vision = 4	Taille = 7	Reserve = 0
+Lapin 149 :	Vitesse = 2	Vision = 6	Taille = 7	Reserve = 0
+Lapin 159 :	Vitesse = 2	Vision = 8	Taille = 0	Reserve = 1
+Lapin 172 :	Vitesse = 2	Vision = 3	Taille = 0	Reserve = 1
+Lapin 176 :	Vitesse = 2	Vision = 9	Taille = 0	Reserve = 5
+Lapin 182 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 2
+Lapin 183 :	Vitesse = 2	Vision = 4	Taille = 5	Reserve = 1
+Lapin 184 :	Vitesse = 2	Vision = 4	Taille = 3	Reserve = 2
+Lapin 185 :	Vitesse = 2	Vision = 1	Taille = 7	Reserve = 0
+Lapin 187 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 8
+Lapin 88 :	Vitesse = 1	Vision = 9	Taille = 6	Reserve = 0
+Lapin 104 :	Vitesse = 1	Vision = 8	Taille = 0	Reserve = 3
+Lapin 122 :	Vitesse = 1	Vision = 5	Taille = 6	Reserve = 1
+Lapin 153 :	Vitesse = 1	Vision = 8	Taille = 0	Reserve = 2
+Lapin 168 :	Vitesse = 1	Vision = 9	Taille = 0	Reserve = 4
+Lapin 169 :	Vitesse = 1	Vision = 9	Taille = 3	Reserve = 8
+Lapin 188 :	Vitesse = 1	Vision = 0	Taille = 0	Reserve = 0
+Lapin 189 :	Vitesse = 1	Vision = 3	Taille = 0	Reserve = 1
+Lapin 46 :	Vitesse = 0	Vision = 8	Taille = 0	Reserve = 0
+Lapin 75 :	Vitesse = 0	Vision = 5	Taille = 0	Reserve = 6
+Lapin 97 :	Vitesse = 0	Vision = 6	Taille = 1	Reserve = 0
+Lapin 98 :	Vitesse = 0	Vision = 9	Taille = 0	Reserve = 1
+Lapin 123 :	Vitesse = 0	Vision = 4	Taille = 5	Reserve = 17
+Lapin 181 :	Vitesse = 0	Vision = 8	Taille = 0	Reserve = 13
+Lapin 190 :	Vitesse = 0	Vision = 0	Taille = 1	Reserve = 2
+Lapin 191 :	Vitesse = 0	Vision = 9	Taille = 5	Reserve = 0
+
+
+Lapin 20 est mort de faim
+Lapin 33 est mort de faim
+Lapin 56 est mort de faim
+Lapin 64 est mort de faim
+Lapin 65 est mort de faim
+Lapin 84 est mort de faim
+Lapin 85 est mort de faim
+Lapin 95 est mort de faim
+Lapin 109 est mort de faim
+Lapin 110 est mort de faim
+Lapin 112 est mort de faim
+Lapin 113 est mort de faim
+Lapin 135 est mort de faim
+Lapin 150 est mort de faim
+Lapin 151 est mort de faim
+Lapin 35 est mort de faim
+Lapin 72 est mort de faim
+Lapin 124 est mort de faim
+Lapin 125 est mort de faim
+Lapin 146 est mort de faim
+Lapin 147 est mort de faim
+Lapin 170 est mort de faim
+Lapin 173 est mort de faim
+Lapin 180 est mort de faim
+Lapin 37 est mort de faim
+Lapin 59 est mort de faim
+Lapin 101 est mort de faim
+Lapin 144 est mort de faim
+Lapin 152 est mort de faim
+Lapin 174 est mort de faim
+Lapin 175 est mort de faim
+Lapin 24 est mort de faim
+Lapin 29 est mort de faim
+Lapin 40 est mort de faim
+Lapin 58 est mort de faim
+Lapin 60 est mort de faim
+Lapin 81 est mort de faim
+Lapin 92 est mort de faim
+Lapin 106 est mort de faim
+Lapin 138 est mort de faim
+Lapin 139 est mort de faim
+Lapin 140 est mort de faim
+Lapin 148 est mort de faim
+Lapin 149 est mort de faim
+Lapin 159 est mort de faim
+Lapin 172 est mort de faim
+Lapin 182 est mort de faim
+Lapin 183 est mort de faim
+Lapin 184 est mort de faim
+Lapin 185 est mort de faim
+Lapin 88 est mort de faim
+Lapin 122 est mort de faim
+Lapin 153 est mort de faim
+Lapin 188 est mort de faim
+Lapin 189 est mort de faim
+Lapin 46 est mort de faim
+Lapin 97 est mort de faim
+Lapin 98 est mort de faim
+Lapin 190 est mort de faim
+Lapin 191 est mort de faim
+
+Lapin 193 est né de Lapin 179 et Lapin 145
+Lapin 194 est né de Lapin 53 et Lapin 62
+Lapin 195 est né de Lapin 90 et Lapin 114
+Lapin 196 est né de Lapin 127 et Lapin 136
+Lapin 197 est né de Lapin 165 et Lapin 118
+Lapin 198 est né de Lapin 119 et Lapin 57
+Lapin 199 est né de Lapin 66 et Lapin 115
+Lapin 200 est né de Lapin 154 et Lapin 155
+Lapin 201 est né de Lapin 69 et Lapin 100
+Lapin 202 est né de Lapin 116 et Lapin 128
+Lapin 203 est né de Lapin 156 et Lapin 157
+Lapin 204 est né de Lapin 171 et Lapin 7
+Lapin 205 est né de Lapin 11 et Lapin 13
+Lapin 206 est né de Lapin 21 et Lapin 30
+Lapin 207 est né de Lapin 34 et Lapin 36
+Lapin 208 est né de Lapin 42 et Lapin 43
+Lapin 209 est né de Lapin 44 et Lapin 50
+Lapin 210 est né de Lapin 51 et Lapin 52
+Lapin 211 est né de Lapin 55 et Lapin 67
+Lapin 212 est né de Lapin 68 et Lapin 70
+Lapin 213 est né de Lapin 77 et Lapin 89
+Lapin 214 est né de Lapin 91 et Lapin 94
+Lapin 215 est né de Lapin 96 et Lapin 103
+Lapin 216 est né de Lapin 117 et Lapin 121
+Lapin 217 est né de Lapin 126 et Lapin 129
+Lapin 218 est né de Lapin 130 et Lapin 158
+Lapin 219 est né de Lapin 160 et Lapin 161
+Lapin 220 est né de Lapin 162 et Lapin 163
+Lapin 221 est né de Lapin 164 et Lapin 166
+Lapin 222 est né de Lapin 167 et Lapin 2
+Lapin 223 est né de Lapin 25 et Lapin 73
+Lapin 224 est né de Lapin 86 et Lapin 87
+Lapin 225 est né de Lapin 102 et Lapin 120
+Lapin 226 est né de Lapin 133 et Lapin 134
+Lapin 227 est né de Lapin 177 et Lapin 178
+Lapin 228 est né de Lapin 186 et Lapin 61
+Lapin 229 est né de Lapin 74 et Lapin 111
+Lapin 230 est né de Lapin 137 et Lapin 142
+Lapin 231 est né de Lapin 176 et Lapin 187
+Lapin 232 est né de Lapin 104 et Lapin 168
+Lapin 233 est né de Lapin 169 et Lapin 75
+Lapin 234 est né de Lapin 123 et Lapin 181
+
+
+GENERATION : 14
+AJOUT : 37
+CAROTTES : 37
+POPULATION : 126
+Lapin 145 :	Vitesse = 9	Vision = 9	Taille = 4	Reserve = 0
+Lapin 179 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 10
+Lapin 53 :	Vitesse = 8	Vision = 9	Taille = 0	Reserve = 0
+Lapin 62 :	Vitesse = 8	Vision = 6	Taille = 0	Reserve = 5
+Lapin 90 :	Vitesse = 8	Vision = 8	Taille = 0	Reserve = 8
+Lapin 114 :	Vitesse = 8	Vision = 5	Taille = 1	Reserve = 8
+Lapin 127 :	Vitesse = 8	Vision = 0	Taille = 1	Reserve = 3
+Lapin 136 :	Vitesse = 8	Vision = 8	Taille = 0	Reserve = 3
+Lapin 165 :	Vitesse = 8	Vision = 4	Taille = 3	Reserve = 5
+Lapin 118 :	Vitesse = 7	Vision = 9	Taille = 0	Reserve = 12
+Lapin 119 :	Vitesse = 7	Vision = 5	Taille = 1	Reserve = 6
+Lapin 57 :	Vitesse = 6	Vision = 5	Taille = 0	Reserve = 7
+Lapin 66 :	Vitesse = 6	Vision = 1	Taille = 0	Reserve = 4
+Lapin 115 :	Vitesse = 6	Vision = 9	Taille = 1	Reserve = 8
+Lapin 154 :	Vitesse = 6	Vision = 5	Taille = 1	Reserve = 6
+Lapin 155 :	Vitesse = 6	Vision = 1	Taille = 0	Reserve = 1
+Lapin 69 :	Vitesse = 5	Vision = 9	Taille = 1	Reserve = 7
+Lapin 100 :	Vitesse = 5	Vision = 8	Taille = 0	Reserve = 5
+Lapin 116 :	Vitesse = 5	Vision = 8	Taille = 2	Reserve = 4
+Lapin 128 :	Vitesse = 5	Vision = 4	Taille = 4	Reserve = 5
+Lapin 156 :	Vitesse = 5	Vision = 4	Taille = 0	Reserve = 0
+Lapin 157 :	Vitesse = 5	Vision = 8	Taille = 4	Reserve = 1
+Lapin 171 :	Vitesse = 5	Vision = 7	Taille = 0	Reserve = 25
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 1
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 0
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 0
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 4
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 3
+Lapin 34 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 2
+Lapin 36 :	Vitesse = 4	Vision = 2	Taille = 3	Reserve = 2
+Lapin 42 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 0
+Lapin 43 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 0
+Lapin 44 :	Vitesse = 4	Vision = 5	Taille = 1	Reserve = 7
+Lapin 50 :	Vitesse = 4	Vision = 8	Taille = 0	Reserve = 0
+Lapin 51 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 0
+Lapin 52 :	Vitesse = 4	Vision = 8	Taille = 5	Reserve = 2
+Lapin 55 :	Vitesse = 4	Vision = 5	Taille = 3	Reserve = 1
+Lapin 67 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 2
+Lapin 68 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 0
+Lapin 70 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 2
+Lapin 77 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 1
+Lapin 89 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 1
+Lapin 91 :	Vitesse = 4	Vision = 9	Taille = 1	Reserve = 3
+Lapin 94 :	Vitesse = 4	Vision = 9	Taille = 4	Reserve = 2
+Lapin 96 :	Vitesse = 4	Vision = 7	Taille = 3	Reserve = 5
+Lapin 103 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 5
+Lapin 117 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 1
+Lapin 121 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 1
+Lapin 126 :	Vitesse = 4	Vision = 3	Taille = 2	Reserve = 0
+Lapin 129 :	Vitesse = 4	Vision = 4	Taille = 3	Reserve = 1
+Lapin 130 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 1
+Lapin 158 :	Vitesse = 4	Vision = 6	Taille = 5	Reserve = 29
+Lapin 160 :	Vitesse = 4	Vision = 9	Taille = 9	Reserve = 1
+Lapin 161 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 0
+Lapin 162 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 5
+Lapin 163 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 2
+Lapin 164 :	Vitesse = 4	Vision = 2	Taille = 1	Reserve = 11
+Lapin 166 :	Vitesse = 4	Vision = 4	Taille = 9	Reserve = 0
+Lapin 167 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 1
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 3
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 3
+Lapin 73 :	Vitesse = 3	Vision = 9	Taille = 8	Reserve = 1
+Lapin 86 :	Vitesse = 3	Vision = 0	Taille = 0	Reserve = 1
+Lapin 87 :	Vitesse = 3	Vision = 5	Taille = 0	Reserve = 1
+Lapin 102 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 1
+Lapin 120 :	Vitesse = 3	Vision = 2	Taille = 1	Reserve = 0
+Lapin 133 :	Vitesse = 3	Vision = 5	Taille = 0	Reserve = 8
+Lapin 134 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 0
+Lapin 177 :	Vitesse = 3	Vision = 9	Taille = 0	Reserve = 1
+Lapin 178 :	Vitesse = 3	Vision = 2	Taille = 5	Reserve = 1
+Lapin 186 :	Vitesse = 3	Vision = 7	Taille = 8	Reserve = 0
+Lapin 61 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 1
+Lapin 74 :	Vitesse = 2	Vision = 4	Taille = 5	Reserve = 0
+Lapin 111 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 2
+Lapin 137 :	Vitesse = 2	Vision = 4	Taille = 7	Reserve = 4
+Lapin 142 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 0
+Lapin 176 :	Vitesse = 2	Vision = 9	Taille = 0	Reserve = 2
+Lapin 187 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 5
+Lapin 104 :	Vitesse = 1	Vision = 8	Taille = 0	Reserve = 0
+Lapin 168 :	Vitesse = 1	Vision = 9	Taille = 0	Reserve = 1
+Lapin 169 :	Vitesse = 1	Vision = 9	Taille = 3	Reserve = 5
+Lapin 75 :	Vitesse = 0	Vision = 5	Taille = 0	Reserve = 3
+Lapin 123 :	Vitesse = 0	Vision = 4	Taille = 5	Reserve = 14
+Lapin 181 :	Vitesse = 0	Vision = 8	Taille = 0	Reserve = 10
+Lapin 193 :	Vitesse = 9	Vision = 8	Taille = 1	Reserve = 0
+Lapin 194 :	Vitesse = 8	Vision = 5	Taille = 0	Reserve = 0
+Lapin 195 :	Vitesse = 8	Vision = 6	Taille = 1	Reserve = 0
+Lapin 196 :	Vitesse = 9	Vision = 0	Taille = 0	Reserve = 0
+Lapin 197 :	Vitesse = 9	Vision = 4	Taille = 0	Reserve = 0
+Lapin 198 :	Vitesse = 6	Vision = 3	Taille = 1	Reserve = 0
+Lapin 199 :	Vitesse = 1	Vision = 1	Taille = 1	Reserve = 0
+Lapin 200 :	Vitesse = 6	Vision = 5	Taille = 4	Reserve = 0
+Lapin 201 :	Vitesse = 5	Vision = 7	Taille = 0	Reserve = 0
+Lapin 202 :	Vitesse = 5	Vision = 8	Taille = 0	Reserve = 0
+Lapin 203 :	Vitesse = 5	Vision = 4	Taille = 4	Reserve = 0
+Lapin 204 :	Vitesse = 9	Vision = 7	Taille = 1	Reserve = 0
+Lapin 205 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 0
+Lapin 206 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 0
+Lapin 207 :	Vitesse = 4	Vision = 3	Taille = 3	Reserve = 0
+Lapin 208 :	Vitesse = 3	Vision = 9	Taille = 8	Reserve = 0
+Lapin 209 :	Vitesse = 4	Vision = 8	Taille = 0	Reserve = 0
+Lapin 210 :	Vitesse = 4	Vision = 7	Taille = 1	Reserve = 0
+Lapin 211 :	Vitesse = 2	Vision = 4	Taille = 3	Reserve = 0
+Lapin 212 :	Vitesse = 4	Vision = 5	Taille = 2	Reserve = 0
+Lapin 213 :	Vitesse = 4	Vision = 2	Taille = 0	Reserve = 0
+Lapin 214 :	Vitesse = 4	Vision = 6	Taille = 4	Reserve = 0
+Lapin 215 :	Vitesse = 4	Vision = 7	Taille = 2	Reserve = 0
+Lapin 216 :	Vitesse = 4	Vision = 0	Taille = 9	Reserve = 0
+Lapin 217 :	Vitesse = 1	Vision = 3	Taille = 3	Reserve = 0
+Lapin 218 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 0
+Lapin 219 :	Vitesse = 6	Vision = 9	Taille = 0	Reserve = 0
+Lapin 220 :	Vitesse = 4	Vision = 3	Taille = 4	Reserve = 0
+Lapin 221 :	Vitesse = 4	Vision = 4	Taille = 4	Reserve = 0
+Lapin 222 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 0
+Lapin 223 :	Vitesse = 3	Vision = 9	Taille = 2	Reserve = 0
+Lapin 224 :	Vitesse = 3	Vision = 5	Taille = 1	Reserve = 0
+Lapin 225 :	Vitesse = 3	Vision = 7	Taille = 1	Reserve = 0
+Lapin 226 :	Vitesse = 3	Vision = 5	Taille = 8	Reserve = 0
+Lapin 227 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 0
+Lapin 228 :	Vitesse = 2	Vision = 7	Taille = 7	Reserve = 0
+Lapin 229 :	Vitesse = 7	Vision = 8	Taille = 5	Reserve = 0
+Lapin 230 :	Vitesse = 2	Vision = 0	Taille = 7	Reserve = 0
+Lapin 231 :	Vitesse = 2	Vision = 4	Taille = 7	Reserve = 0
+Lapin 232 :	Vitesse = 1	Vision = 0	Taille = 0	Reserve = 0
+Lapin 233 :	Vitesse = 1	Vision = 5	Taille = 6	Reserve = 0
+Lapin 234 :	Vitesse = 0	Vision = 8	Taille = 3	Reserve = 0
+
+Lapin 145 a pris 5 carottes
+Lapin 179 a pris 5 carottes
+Lapin 193 a pris 8 carottes
+Lapin 196 a pris 4 carottes
+Lapin 197 a pris 3 carottes
+Lapin 204 a pris 3 carottes
+Lapin 53 a pris 5 carottes
+Lapin 62 a pris 4 carottes
+Lapin 90 a pris 0 carottes
+Lapin 114 a pris 0 carottes
+Lapin 127 a pris 0 carottes
+Lapin 136 a pris 0 carottes
+Lapin 165 a pris 0 carottes
+Lapin 194 a pris 0 carottes
+Lapin 195 a pris 0 carottes
+Lapin 118 vole 2 carottes a Lapin 145
+Lapin 119 a pris 0 carottes
+Lapin 229 a pris 0 carottes
+Lapin 57 a pris 0 carottes
+Lapin 66 a pris 0 carottes
+Lapin 115 vole 2 carottes a Lapin 193
+Lapin 154 vole 8 carottes a Lapin 196
+Lapin 155 a pris 0 carottes
+Lapin 198 vole 3 carottes a Lapin 193
+Lapin 200 vole 9 carottes a Lapin 179
+Lapin 219 vole 0 carottes a Lapin 179
+Lapin 69 a pris 0 carottes
+Lapin 100 a pris 0 carottes
+Lapin 116 vole 0 carottes a Lapin 145
+Lapin 128 vole 3 carottes a Lapin 193
+Lapin 156 vole 2 carottes a Lapin 179
+Lapin 157 vole 4 carottes a Lapin 197
+Lapin 171 a pris 0 carottes
+Lapin 201 vole 1 carottes a Lapin 145
+Lapin 202 vole 0 carottes a Lapin 179
+Lapin 203 vole 3 carottes a Lapin 179
+Lapin 7 vole 2 carottes a Lapin 145
+Lapin 11 vole 4 carottes a Lapin 197
+Lapin 13 vole 0 carottes a Lapin 179
+Lapin 21 vole 1 carottes a Lapin 179
+Lapin 30 vole 3 carottes a Lapin 197
+Lapin 34 vole 1 carottes a Lapin 196
+Lapin 36 a pris 0 carottes
+Lapin 42 vole 2 carottes a Lapin 62
+Lapin 43 a pris 0 carottes
+Lapin 44 a pris 0 carottes
+Lapin 50 vole 1 carottes a Lapin 204
+Lapin 51 vole 8 carottes a Lapin 53
+Lapin 52 vole 3 carottes a Lapin 62
+Lapin 55 vole 1 carottes a Lapin 62
+Lapin 67 vole 1 carottes a Lapin 62
+Lapin 68 a pris 0 carottes
+Lapin 70 vole 5 carottes a Lapin 90
+Lapin 77 vole 9 carottes a Lapin 204
+Lapin 89 a pris 0 carottes
+Lapin 91 vole 0 carottes a Lapin 204
+Lapin 94 a pris 0 carottes
+Lapin 96 vole 0 carottes a Lapin 204
+Lapin 103 vole 0 carottes a Lapin 204
+Lapin 117 a pris 0 carottes
+Lapin 121 a pris 0 carottes
+Lapin 126 vole 0 carottes a Lapin 204
+Lapin 129 vole 1 carottes a Lapin 127
+Lapin 130 vole 0 carottes a Lapin 204
+Lapin 158 vole 1 carottes a Lapin 204
+Lapin 160 vole 8 carottes a Lapin 114
+Lapin 161 a pris 0 carottes
+Lapin 162 vole 4 carottes a Lapin 194
+Lapin 163 vole 2 carottes a Lapin 114
+Lapin 164 vole 0 carottes a Lapin 114
+Lapin 166 vole 2 carottes a Lapin 114
+Lapin 167 vole 4 carottes a Lapin 165
+Lapin 205 vole 2 carottes a Lapin 127
+Lapin 206 vole 2 carottes a Lapin 136
+Lapin 207 a pris 0 carottes
+Lapin 209 vole 9 carottes a Lapin 200
+Lapin 210 vole 2 carottes a Lapin 127
+Lapin 212 a pris 0 carottes
+Lapin 213 vole 6 carottes a Lapin 119
+Lapin 214 vole 1 carottes a Lapin 195
+Lapin 215 a pris 0 carottes
+Lapin 216 a pris 0 carottes
+Lapin 218 a pris 0 carottes
+Lapin 220 a pris 0 carottes
+Lapin 221 vole 1 carottes a Lapin 127
+Lapin 2 vole 1 carottes a Lapin 136
+Lapin 25 vole 1 carottes a Lapin 136
+Lapin 73 vole 0 carottes a Lapin 136
+Lapin 86 vole 0 carottes a Lapin 136
+Lapin 87 vole 3 carottes a Lapin 118
+Lapin 102 vole 1 carottes a Lapin 136
+Lapin 120 vole 1 carottes a Lapin 136
+Lapin 133 vole 0 carottes a Lapin 136
+Lapin 134 vole 1 carottes a Lapin 136
+Lapin 177 vole 3 carottes a Lapin 195
+Lapin 178 vole 1 carottes a Lapin 194
+Lapin 186 vole 3 carottes a Lapin 194
+Lapin 208 vole 0 carottes a Lapin 195
+Lapin 222 vole 2 carottes a Lapin 195
+Lapin 223 vole 1 carottes a Lapin 119
+Lapin 224 vole 0 carottes a Lapin 57
+Lapin 225 vole 4 carottes a Lapin 229
+Lapin 226 vole 3 carottes a Lapin 57
+Lapin 227 vole 1 carottes a Lapin 57
+Lapin 61 vole 1 carottes a Lapin 229
+Lapin 74 vole 2 carottes a Lapin 154
+Lapin 111 vole 3 carottes a Lapin 66
+Lapin 137 vole 2 carottes a Lapin 66
+Lapin 142 vole 5 carottes a Lapin 154
+Lapin 176 vole 0 carottes a Lapin 115
+Lapin 187 vole 2 carottes a Lapin 115
+Lapin 211 vole 1 carottes a Lapin 154
+Lapin 228 vole 0 carottes a Lapin 154
+Lapin 230 vole 0 carottes a Lapin 154
+Lapin 231 vole 1 carottes a Lapin 154
+Lapin 104 vole 20 carottes a Lapin 155
+Lapin 168 vole 1 carottes a Lapin 155
+Lapin 169 vole 1 carottes a Lapin 198
+Lapin 199 vole 2 carottes a Lapin 69
+Lapin 217 vole 1 carottes a Lapin 155
+Lapin 232 vole 0 carottes a Lapin 198
+Lapin 233 vole 2 carottes a Lapin 155
+Lapin 75 vole 3 carottes a Lapin 198
+Lapin 123 vole 0 carottes a Lapin 155
+Lapin 181 vole 1 carottes a Lapin 69
+Lapin 234 vole 1 carottes a Lapin 69
+
+
+APRES MANGE : 
+CAROTTES : 0
+POPULATION : 126
+Lapin 145 :	Vitesse = 9	Vision = 9	Taille = 4	Reserve = 0
+Lapin 179 :	Vitesse = 9	Vision = 8	Taille = 0	Reserve = 0
+Lapin 193 :	Vitesse = 9	Vision = 8	Taille = 1	Reserve = 0
+Lapin 196 :	Vitesse = 9	Vision = 0	Taille = 0	Reserve = 0
+Lapin 197 :	Vitesse = 9	Vision = 4	Taille = 0	Reserve = 0
+Lapin 204 :	Vitesse = 9	Vision = 7	Taille = 1	Reserve = 0
+Lapin 53 :	Vitesse = 8	Vision = 9	Taille = 0	Reserve = 0
+Lapin 62 :	Vitesse = 8	Vision = 6	Taille = 0	Reserve = 0
+Lapin 90 :	Vitesse = 8	Vision = 8	Taille = 0	Reserve = 0
+Lapin 114 :	Vitesse = 8	Vision = 5	Taille = 1	Reserve = 0
+Lapin 127 :	Vitesse = 8	Vision = 0	Taille = 1	Reserve = 0
+Lapin 136 :	Vitesse = 8	Vision = 8	Taille = 0	Reserve = 0
+Lapin 165 :	Vitesse = 8	Vision = 4	Taille = 3	Reserve = 0
+Lapin 194 :	Vitesse = 8	Vision = 5	Taille = 0	Reserve = 0
+Lapin 195 :	Vitesse = 8	Vision = 6	Taille = 1	Reserve = 0
+Lapin 118 :	Vitesse = 7	Vision = 9	Taille = 0	Reserve = 0
+Lapin 119 :	Vitesse = 7	Vision = 5	Taille = 1	Reserve = 0
+Lapin 229 :	Vitesse = 7	Vision = 8	Taille = 5	Reserve = 0
+Lapin 57 :	Vitesse = 6	Vision = 5	Taille = 0	Reserve = 0
+Lapin 66 :	Vitesse = 6	Vision = 1	Taille = 0	Reserve = 0
+Lapin 115 :	Vitesse = 6	Vision = 9	Taille = 1	Reserve = 0
+Lapin 154 :	Vitesse = 6	Vision = 5	Taille = 1	Reserve = 0
+Lapin 155 :	Vitesse = 6	Vision = 1	Taille = 0	Reserve = 1
+Lapin 198 :	Vitesse = 6	Vision = 3	Taille = 1	Reserve = 0
+Lapin 200 :	Vitesse = 6	Vision = 5	Taille = 4	Reserve = 0
+Lapin 219 :	Vitesse = 6	Vision = 9	Taille = 0	Reserve = 0
+Lapin 69 :	Vitesse = 5	Vision = 9	Taille = 1	Reserve = 0
+Lapin 100 :	Vitesse = 5	Vision = 8	Taille = 0	Reserve = 3
+Lapin 116 :	Vitesse = 5	Vision = 8	Taille = 2	Reserve = 2
+Lapin 128 :	Vitesse = 5	Vision = 4	Taille = 4	Reserve = 5
+Lapin 156 :	Vitesse = 5	Vision = 4	Taille = 0	Reserve = 2
+Lapin 157 :	Vitesse = 5	Vision = 8	Taille = 4	Reserve = 4
+Lapin 171 :	Vitesse = 5	Vision = 7	Taille = 0	Reserve = 7
+Lapin 201 :	Vitesse = 5	Vision = 7	Taille = 0	Reserve = 1
+Lapin 202 :	Vitesse = 5	Vision = 8	Taille = 0	Reserve = 0
+Lapin 203 :	Vitesse = 5	Vision = 4	Taille = 4	Reserve = 5
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 3
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 6
+Lapin 13 :	Vitesse = 4	Vision = 8	Taille = 9	Reserve = 0
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 3
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 4
+Lapin 34 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 2
+Lapin 36 :	Vitesse = 4	Vision = 2	Taille = 3	Reserve = 3
+Lapin 42 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 4
+Lapin 43 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 5
+Lapin 44 :	Vitesse = 4	Vision = 5	Taille = 1	Reserve = 5
+Lapin 50 :	Vitesse = 4	Vision = 8	Taille = 0	Reserve = 2
+Lapin 51 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 9
+Lapin 52 :	Vitesse = 4	Vision = 8	Taille = 5	Reserve = 3
+Lapin 55 :	Vitesse = 4	Vision = 5	Taille = 3	Reserve = 2
+Lapin 67 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 2
+Lapin 68 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 29
+Lapin 70 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 6
+Lapin 77 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 9
+Lapin 89 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 5
+Lapin 91 :	Vitesse = 4	Vision = 9	Taille = 1	Reserve = 2
+Lapin 94 :	Vitesse = 4	Vision = 9	Taille = 4	Reserve = 11
+Lapin 96 :	Vitesse = 4	Vision = 7	Taille = 3	Reserve = 0
+Lapin 103 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 1
+Lapin 117 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 3
+Lapin 121 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 3
+Lapin 126 :	Vitesse = 4	Vision = 3	Taille = 2	Reserve = 1
+Lapin 129 :	Vitesse = 4	Vision = 4	Taille = 3	Reserve = 2
+Lapin 130 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 1
+Lapin 158 :	Vitesse = 4	Vision = 6	Taille = 5	Reserve = 2
+Lapin 160 :	Vitesse = 4	Vision = 9	Taille = 9	Reserve = 8
+Lapin 161 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 8
+Lapin 162 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 4
+Lapin 163 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 3
+Lapin 164 :	Vitesse = 4	Vision = 2	Taille = 1	Reserve = 1
+Lapin 166 :	Vitesse = 4	Vision = 4	Taille = 9	Reserve = 2
+Lapin 167 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 5
+Lapin 205 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 2
+Lapin 206 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 4
+Lapin 207 :	Vitesse = 4	Vision = 3	Taille = 3	Reserve = 4
+Lapin 209 :	Vitesse = 4	Vision = 8	Taille = 0	Reserve = 9
+Lapin 210 :	Vitesse = 4	Vision = 7	Taille = 1	Reserve = 4
+Lapin 212 :	Vitesse = 4	Vision = 5	Taille = 2	Reserve = 5
+Lapin 213 :	Vitesse = 4	Vision = 2	Taille = 0	Reserve = 6
+Lapin 214 :	Vitesse = 4	Vision = 6	Taille = 4	Reserve = 2
+Lapin 215 :	Vitesse = 4	Vision = 7	Taille = 2	Reserve = 5
+Lapin 216 :	Vitesse = 4	Vision = 0	Taille = 9	Reserve = 3
+Lapin 218 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 14
+Lapin 220 :	Vitesse = 4	Vision = 3	Taille = 4	Reserve = 10
+Lapin 221 :	Vitesse = 4	Vision = 4	Taille = 4	Reserve = 1
+Lapin 2 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 1
+Lapin 25 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 1
+Lapin 73 :	Vitesse = 3	Vision = 9	Taille = 8	Reserve = 0
+Lapin 86 :	Vitesse = 3	Vision = 0	Taille = 0	Reserve = 0
+Lapin 87 :	Vitesse = 3	Vision = 5	Taille = 0	Reserve = 3
+Lapin 102 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 1
+Lapin 120 :	Vitesse = 3	Vision = 2	Taille = 1	Reserve = 1
+Lapin 133 :	Vitesse = 3	Vision = 5	Taille = 0	Reserve = 0
+Lapin 134 :	Vitesse = 3	Vision = 8	Taille = 8	Reserve = 1
+Lapin 177 :	Vitesse = 3	Vision = 9	Taille = 0	Reserve = 3
+Lapin 178 :	Vitesse = 3	Vision = 2	Taille = 5	Reserve = 1
+Lapin 186 :	Vitesse = 3	Vision = 7	Taille = 8	Reserve = 3
+Lapin 208 :	Vitesse = 3	Vision = 9	Taille = 8	Reserve = 0
+Lapin 222 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 2
+Lapin 223 :	Vitesse = 3	Vision = 9	Taille = 2	Reserve = 1
+Lapin 224 :	Vitesse = 3	Vision = 5	Taille = 1	Reserve = 0
+Lapin 225 :	Vitesse = 3	Vision = 7	Taille = 1	Reserve = 4
+Lapin 226 :	Vitesse = 3	Vision = 5	Taille = 8	Reserve = 3
+Lapin 227 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 1
+Lapin 61 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 1
+Lapin 74 :	Vitesse = 2	Vision = 4	Taille = 5	Reserve = 2
+Lapin 111 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 3
+Lapin 137 :	Vitesse = 2	Vision = 4	Taille = 7	Reserve = 2
+Lapin 142 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 5
+Lapin 176 :	Vitesse = 2	Vision = 9	Taille = 0	Reserve = 0
+Lapin 187 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 2
+Lapin 211 :	Vitesse = 2	Vision = 4	Taille = 3	Reserve = 1
+Lapin 228 :	Vitesse = 2	Vision = 7	Taille = 7	Reserve = 0
+Lapin 230 :	Vitesse = 2	Vision = 0	Taille = 7	Reserve = 0
+Lapin 231 :	Vitesse = 2	Vision = 4	Taille = 7	Reserve = 1
+Lapin 104 :	Vitesse = 1	Vision = 8	Taille = 0	Reserve = 20
+Lapin 168 :	Vitesse = 1	Vision = 9	Taille = 0	Reserve = 1
+Lapin 169 :	Vitesse = 1	Vision = 9	Taille = 3	Reserve = 1
+Lapin 199 :	Vitesse = 1	Vision = 1	Taille = 1	Reserve = 2
+Lapin 217 :	Vitesse = 1	Vision = 3	Taille = 3	Reserve = 1
+Lapin 232 :	Vitesse = 1	Vision = 0	Taille = 0	Reserve = 0
+Lapin 233 :	Vitesse = 1	Vision = 5	Taille = 6	Reserve = 2
+Lapin 75 :	Vitesse = 0	Vision = 5	Taille = 0	Reserve = 3
+Lapin 123 :	Vitesse = 0	Vision = 4	Taille = 5	Reserve = 0
+Lapin 181 :	Vitesse = 0	Vision = 8	Taille = 0	Reserve = 1
+Lapin 234 :	Vitesse = 0	Vision = 8	Taille = 3	Reserve = 1
+
+
+Lapin 145 est mort de faim
+Lapin 179 est mort de faim
+Lapin 193 est mort de faim
+Lapin 196 est mort de faim
+Lapin 197 est mort de faim
+Lapin 204 est mort de faim
+Lapin 53 est mort de faim
+Lapin 62 est mort de faim
+Lapin 90 est mort de faim
+Lapin 114 est mort de faim
+Lapin 127 est mort de faim
+Lapin 136 est mort de faim
+Lapin 165 est mort de faim
+Lapin 194 est mort de faim
+Lapin 195 est mort de faim
+Lapin 118 est mort de faim
+Lapin 119 est mort de faim
+Lapin 229 est mort de faim
+Lapin 57 est mort de faim
+Lapin 66 est mort de faim
+Lapin 115 est mort de faim
+Lapin 154 est mort de faim
+Lapin 155 est mort de faim
+Lapin 198 est mort de faim
+Lapin 200 est mort de faim
+Lapin 219 est mort de faim
+Lapin 69 est mort de faim
+Lapin 116 est mort de faim
+Lapin 156 est mort de faim
+Lapin 201 est mort de faim
+Lapin 202 est mort de faim
+Lapin 13 est mort de faim
+Lapin 34 est mort de faim
+Lapin 50 est mort de faim
+Lapin 55 est mort de faim
+Lapin 67 est mort de faim
+Lapin 91 est mort de faim
+Lapin 96 est mort de faim
+Lapin 103 est mort de faim
+Lapin 126 est mort de faim
+Lapin 129 est mort de faim
+Lapin 130 est mort de faim
+Lapin 158 est mort de faim
+Lapin 164 est mort de faim
+Lapin 166 est mort de faim
+Lapin 205 est mort de faim
+Lapin 214 est mort de faim
+Lapin 221 est mort de faim
+Lapin 2 est mort de faim
+Lapin 25 est mort de faim
+Lapin 73 est mort de faim
+Lapin 86 est mort de faim
+Lapin 102 est mort de faim
+Lapin 120 est mort de faim
+Lapin 133 est mort de faim
+Lapin 134 est mort de faim
+Lapin 178 est mort de faim
+Lapin 208 est mort de faim
+Lapin 222 est mort de faim
+Lapin 223 est mort de faim
+Lapin 224 est mort de faim
+Lapin 227 est mort de faim
+Lapin 61 est mort de faim
+Lapin 74 est mort de faim
+Lapin 137 est mort de faim
+Lapin 176 est mort de faim
+Lapin 187 est mort de faim
+Lapin 211 est mort de faim
+Lapin 228 est mort de faim
+Lapin 230 est mort de faim
+Lapin 231 est mort de faim
+Lapin 168 est mort de faim
+Lapin 169 est mort de faim
+Lapin 199 est mort de faim
+Lapin 217 est mort de faim
+Lapin 232 est mort de faim
+Lapin 233 est mort de faim
+Lapin 123 est mort de faim
+Lapin 181 est mort de faim
+Lapin 234 est mort de faim
+
+Lapin 236 est né de Lapin 128 et Lapin 100
+Lapin 237 est né de Lapin 157 et Lapin 171
+Lapin 238 est né de Lapin 203 et Lapin 7
+Lapin 239 est né de Lapin 11 et Lapin 21
+Lapin 240 est né de Lapin 30 et Lapin 36
+Lapin 241 est né de Lapin 42 et Lapin 43
+Lapin 242 est né de Lapin 44 et Lapin 51
+Lapin 243 est né de Lapin 52 et Lapin 68
+Lapin 244 est né de Lapin 70 et Lapin 77
+Lapin 245 est né de Lapin 89 et Lapin 94
+Lapin 246 est né de Lapin 117 et Lapin 121
+Lapin 247 est né de Lapin 160 et Lapin 161
+Lapin 248 est né de Lapin 162 et Lapin 163
+Lapin 249 est né de Lapin 167 et Lapin 206
+Lapin 250 est né de Lapin 207 et Lapin 209
+Lapin 251 est né de Lapin 210 et Lapin 212
+Lapin 252 est né de Lapin 213 et Lapin 215
+Lapin 253 est né de Lapin 216 et Lapin 218
+Lapin 254 est né de Lapin 220 et Lapin 87
+Lapin 255 est né de Lapin 177 et Lapin 186
+Lapin 256 est né de Lapin 225 et Lapin 226
+Lapin 257 est né de Lapin 111 et Lapin 142
+Lapin 258 est né de Lapin 104 et Lapin 75
+
+
+GENERATION : 15
+AJOUT : 11
+CAROTTES : 11
+POPULATION : 69
+Lapin 100 :	Vitesse = 5	Vision = 8	Taille = 0	Reserve = 0
+Lapin 128 :	Vitesse = 5	Vision = 4	Taille = 4	Reserve = 2
+Lapin 157 :	Vitesse = 5	Vision = 8	Taille = 4	Reserve = 1
+Lapin 171 :	Vitesse = 5	Vision = 7	Taille = 0	Reserve = 4
+Lapin 203 :	Vitesse = 5	Vision = 4	Taille = 4	Reserve = 2
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 0
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 3
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 0
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 1
+Lapin 36 :	Vitesse = 4	Vision = 2	Taille = 3	Reserve = 0
+Lapin 42 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 1
+Lapin 43 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 2
+Lapin 44 :	Vitesse = 4	Vision = 5	Taille = 1	Reserve = 2
+Lapin 51 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 6
+Lapin 52 :	Vitesse = 4	Vision = 8	Taille = 5	Reserve = 0
+Lapin 68 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 26
+Lapin 70 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 3
+Lapin 77 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 6
+Lapin 89 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 2
+Lapin 94 :	Vitesse = 4	Vision = 9	Taille = 4	Reserve = 8
+Lapin 117 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 0
+Lapin 121 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 0
+Lapin 160 :	Vitesse = 4	Vision = 9	Taille = 9	Reserve = 5
+Lapin 161 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 5
+Lapin 162 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 1
+Lapin 163 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 0
+Lapin 167 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 2
+Lapin 206 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 1
+Lapin 207 :	Vitesse = 4	Vision = 3	Taille = 3	Reserve = 1
+Lapin 209 :	Vitesse = 4	Vision = 8	Taille = 0	Reserve = 6
+Lapin 210 :	Vitesse = 4	Vision = 7	Taille = 1	Reserve = 1
+Lapin 212 :	Vitesse = 4	Vision = 5	Taille = 2	Reserve = 2
+Lapin 213 :	Vitesse = 4	Vision = 2	Taille = 0	Reserve = 3
+Lapin 215 :	Vitesse = 4	Vision = 7	Taille = 2	Reserve = 2
+Lapin 216 :	Vitesse = 4	Vision = 0	Taille = 9	Reserve = 0
+Lapin 218 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 11
+Lapin 220 :	Vitesse = 4	Vision = 3	Taille = 4	Reserve = 7
+Lapin 87 :	Vitesse = 3	Vision = 5	Taille = 0	Reserve = 0
+Lapin 177 :	Vitesse = 3	Vision = 9	Taille = 0	Reserve = 0
+Lapin 186 :	Vitesse = 3	Vision = 7	Taille = 8	Reserve = 0
+Lapin 225 :	Vitesse = 3	Vision = 7	Taille = 1	Reserve = 1
+Lapin 226 :	Vitesse = 3	Vision = 5	Taille = 8	Reserve = 0
+Lapin 111 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 0
+Lapin 142 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 2
+Lapin 104 :	Vitesse = 1	Vision = 8	Taille = 0	Reserve = 17
+Lapin 75 :	Vitesse = 0	Vision = 5	Taille = 0	Reserve = 0
+Lapin 236 :	Vitesse = 1	Vision = 8	Taille = 4	Reserve = 0
+Lapin 237 :	Vitesse = 5	Vision = 0	Taille = 0	Reserve = 0
+Lapin 238 :	Vitesse = 5	Vision = 4	Taille = 1	Reserve = 0
+Lapin 239 :	Vitesse = 0	Vision = 6	Taille = 0	Reserve = 0
+Lapin 240 :	Vitesse = 2	Vision = 2	Taille = 0	Reserve = 0
+Lapin 241 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 0
+Lapin 242 :	Vitesse = 0	Vision = 4	Taille = 1	Reserve = 0
+Lapin 243 :	Vitesse = 4	Vision = 6	Taille = 5	Reserve = 0
+Lapin 244 :	Vitesse = 4	Vision = 5	Taille = 9	Reserve = 0
+Lapin 245 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 0
+Lapin 246 :	Vitesse = 4	Vision = 0	Taille = 9	Reserve = 0
+Lapin 247 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 0
+Lapin 248 :	Vitesse = 1	Vision = 3	Taille = 6	Reserve = 0
+Lapin 249 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 0
+Lapin 250 :	Vitesse = 4	Vision = 7	Taille = 0	Reserve = 0
+Lapin 251 :	Vitesse = 4	Vision = 0	Taille = 1	Reserve = 0
+Lapin 252 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 0
+Lapin 253 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 0
+Lapin 254 :	Vitesse = 3	Vision = 4	Taille = 4	Reserve = 0
+Lapin 255 :	Vitesse = 3	Vision = 7	Taille = 0	Reserve = 0
+Lapin 256 :	Vitesse = 3	Vision = 5	Taille = 5	Reserve = 0
+Lapin 257 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 0
+Lapin 258 :	Vitesse = 1	Vision = 0	Taille = 0	Reserve = 0
+
+Lapin 100 a pris 5 carottes
+Lapin 128 a pris 4 carottes
+Lapin 157 a pris 2 carottes
+Lapin 171 a pris 0 carottes
+Lapin 203 vole 1 carottes a Lapin 30
+Lapin 237 vole 0 carottes a Lapin 238
+Lapin 238 a pris 0 carottes
+Lapin 7 vole 2 carottes a Lapin 100
+Lapin 11 vole 2 carottes a Lapin 100
+Lapin 21 vole 1 carottes a Lapin 100
+Lapin 30 vole 1 carottes a Lapin 128
+Lapin 36 vole 1 carottes a Lapin 157
+Lapin 42 vole 1 carottes a Lapin 171
+Lapin 43 a pris 0 carottes
+Lapin 44 vole 4 carottes a Lapin 128
+Lapin 51 a pris 0 carottes
+Lapin 52 a pris 0 carottes
+Lapin 68 a pris 0 carottes
+Lapin 70 vole 3 carottes a Lapin 171
+Lapin 77 a pris 0 carottes
+Lapin 89 vole 2 carottes a Lapin 157
+Lapin 94 vole 2 carottes a Lapin 238
+Lapin 117 a pris 0 carottes
+Lapin 121 a pris 0 carottes
+Lapin 160 vole 1 carottes a Lapin 128
+Lapin 161 vole 1 carottes a Lapin 238
+Lapin 162 vole 0 carottes a Lapin 7
+Lapin 163 vole 2 carottes a Lapin 11
+Lapin 167 vole 1 carottes a Lapin 11
+Lapin 206 a pris 0 carottes
+Lapin 207 vole 0 carottes a Lapin 203
+Lapin 209 vole 0 carottes a Lapin 203
+Lapin 210 a pris 0 carottes
+Lapin 212 vole 0 carottes a Lapin 7
+Lapin 213 vole 1 carottes a Lapin 7
+Lapin 215 a pris 0 carottes
+Lapin 216 a pris 0 carottes
+Lapin 218 vole 0 carottes a Lapin 203
+Lapin 220 vole 0 carottes a Lapin 7
+Lapin 243 vole 0 carottes a Lapin 7
+Lapin 244 vole 0 carottes a Lapin 7
+Lapin 245 vole 1 carottes a Lapin 7
+Lapin 246 vole 1 carottes a Lapin 203
+Lapin 247 vole 1 carottes a Lapin 203
+Lapin 249 a pris 0 carottes
+Lapin 250 vole 1 carottes a Lapin 21
+Lapin 251 vole 0 carottes a Lapin 30
+Lapin 252 vole 0 carottes a Lapin 203
+Lapin 253 vole 0 carottes a Lapin 203
+Lapin 87 vole 1 carottes a Lapin 42
+Lapin 177 vole 0 carottes a Lapin 30
+Lapin 186 vole 1 carottes a Lapin 203
+Lapin 225 vole 1 carottes a Lapin 30
+Lapin 226 vole 3 carottes a Lapin 36
+Lapin 254 vole 2 carottes a Lapin 42
+Lapin 255 vole 4 carottes a Lapin 43
+Lapin 256 vole 1 carottes a Lapin 44
+Lapin 111 vole 3 carottes a Lapin 44
+Lapin 142 vole 0 carottes a Lapin 43
+Lapin 240 vole 17 carottes a Lapin 51
+Lapin 241 vole 0 carottes a Lapin 43
+Lapin 257 vole 2 carottes a Lapin 43
+Lapin 104 vole 4 carottes a Lapin 70
+Lapin 236 vole 3 carottes a Lapin 52
+Lapin 248 vole 1 carottes a Lapin 70
+Lapin 258 vole 2 carottes a Lapin 89
+Lapin 75 vole 2 carottes a Lapin 51
+Lapin 239 vole 0 carottes a Lapin 121
+Lapin 242 vole 5 carottes a Lapin 121
+
+
+APRES MANGE : 
+CAROTTES : 0
+POPULATION : 69
+Lapin 100 :	Vitesse = 5	Vision = 8	Taille = 0	Reserve = 0
+Lapin 128 :	Vitesse = 5	Vision = 4	Taille = 4	Reserve = 0
+Lapin 157 :	Vitesse = 5	Vision = 8	Taille = 4	Reserve = 0
+Lapin 171 :	Vitesse = 5	Vision = 7	Taille = 0	Reserve = 0
+Lapin 203 :	Vitesse = 5	Vision = 4	Taille = 4	Reserve = 0
+Lapin 237 :	Vitesse = 5	Vision = 0	Taille = 0	Reserve = 0
+Lapin 238 :	Vitesse = 5	Vision = 4	Taille = 1	Reserve = 0
+Lapin 7 :	Vitesse = 4	Vision = 8	Taille = 1	Reserve = 0
+Lapin 11 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 0
+Lapin 21 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 0
+Lapin 30 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 0
+Lapin 36 :	Vitesse = 4	Vision = 2	Taille = 3	Reserve = 0
+Lapin 42 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 0
+Lapin 43 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 0
+Lapin 44 :	Vitesse = 4	Vision = 5	Taille = 1	Reserve = 0
+Lapin 51 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 7
+Lapin 52 :	Vitesse = 4	Vision = 8	Taille = 5	Reserve = 0
+Lapin 68 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 6
+Lapin 70 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 0
+Lapin 77 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 8
+Lapin 89 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 0
+Lapin 94 :	Vitesse = 4	Vision = 9	Taille = 4	Reserve = 2
+Lapin 117 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 5
+Lapin 121 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 0
+Lapin 160 :	Vitesse = 4	Vision = 9	Taille = 9	Reserve = 2
+Lapin 161 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 1
+Lapin 162 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 2
+Lapin 163 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 3
+Lapin 167 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 2
+Lapin 206 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 6
+Lapin 207 :	Vitesse = 4	Vision = 3	Taille = 3	Reserve = 1
+Lapin 209 :	Vitesse = 4	Vision = 8	Taille = 0	Reserve = 2
+Lapin 210 :	Vitesse = 4	Vision = 7	Taille = 1	Reserve = 3
+Lapin 212 :	Vitesse = 4	Vision = 5	Taille = 2	Reserve = 2
+Lapin 213 :	Vitesse = 4	Vision = 2	Taille = 0	Reserve = 1
+Lapin 215 :	Vitesse = 4	Vision = 7	Taille = 2	Reserve = 11
+Lapin 216 :	Vitesse = 4	Vision = 0	Taille = 9	Reserve = 7
+Lapin 218 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 0
+Lapin 220 :	Vitesse = 4	Vision = 3	Taille = 4	Reserve = 0
+Lapin 243 :	Vitesse = 4	Vision = 6	Taille = 5	Reserve = 0
+Lapin 244 :	Vitesse = 4	Vision = 5	Taille = 9	Reserve = 1
+Lapin 245 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 1
+Lapin 246 :	Vitesse = 4	Vision = 0	Taille = 9	Reserve = 1
+Lapin 247 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 3
+Lapin 249 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 17
+Lapin 250 :	Vitesse = 4	Vision = 7	Taille = 0	Reserve = 1
+Lapin 251 :	Vitesse = 4	Vision = 0	Taille = 1	Reserve = 0
+Lapin 252 :	Vitesse = 4	Vision = 5	Taille = 0	Reserve = 0
+Lapin 253 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 0
+Lapin 87 :	Vitesse = 3	Vision = 5	Taille = 0	Reserve = 1
+Lapin 177 :	Vitesse = 3	Vision = 9	Taille = 0	Reserve = 0
+Lapin 186 :	Vitesse = 3	Vision = 7	Taille = 8	Reserve = 1
+Lapin 225 :	Vitesse = 3	Vision = 7	Taille = 1	Reserve = 1
+Lapin 226 :	Vitesse = 3	Vision = 5	Taille = 8	Reserve = 3
+Lapin 254 :	Vitesse = 3	Vision = 4	Taille = 4	Reserve = 2
+Lapin 255 :	Vitesse = 3	Vision = 7	Taille = 0	Reserve = 4
+Lapin 256 :	Vitesse = 3	Vision = 5	Taille = 5	Reserve = 1
+Lapin 111 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 3
+Lapin 142 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 0
+Lapin 240 :	Vitesse = 2	Vision = 2	Taille = 0	Reserve = 17
+Lapin 241 :	Vitesse = 2	Vision = 9	Taille = 7	Reserve = 0
+Lapin 257 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 2
+Lapin 104 :	Vitesse = 1	Vision = 8	Taille = 0	Reserve = 4
+Lapin 236 :	Vitesse = 1	Vision = 8	Taille = 4	Reserve = 3
+Lapin 248 :	Vitesse = 1	Vision = 3	Taille = 6	Reserve = 1
+Lapin 258 :	Vitesse = 1	Vision = 0	Taille = 0	Reserve = 2
+Lapin 75 :	Vitesse = 0	Vision = 5	Taille = 0	Reserve = 2
+Lapin 239 :	Vitesse = 0	Vision = 6	Taille = 0	Reserve = 0
+Lapin 242 :	Vitesse = 0	Vision = 4	Taille = 1	Reserve = 5
+
+
+Lapin 100 est mort de faim
+Lapin 128 est mort de faim
+Lapin 157 est mort de faim
+Lapin 171 est mort de faim
+Lapin 203 est mort de faim
+Lapin 237 est mort de faim
+Lapin 238 est mort de faim
+Lapin 7 est mort de faim
+Lapin 11 est mort de faim
+Lapin 21 est mort de faim
+Lapin 30 est mort de faim
+Lapin 36 est mort de faim
+Lapin 42 est mort de faim
+Lapin 43 est mort de faim
+Lapin 44 est mort de faim
+Lapin 52 est mort de faim
+Lapin 70 est mort de faim
+Lapin 89 est mort de faim
+Lapin 94 est mort de faim
+Lapin 121 est mort de faim
+Lapin 160 est mort de faim
+Lapin 161 est mort de faim
+Lapin 162 est mort de faim
+Lapin 167 est mort de faim
+Lapin 207 est mort de faim
+Lapin 209 est mort de faim
+Lapin 212 est mort de faim
+Lapin 213 est mort de faim
+Lapin 218 est mort de faim
+Lapin 220 est mort de faim
+Lapin 243 est mort de faim
+Lapin 244 est mort de faim
+Lapin 245 est mort de faim
+Lapin 246 est mort de faim
+Lapin 250 est mort de faim
+Lapin 251 est mort de faim
+Lapin 252 est mort de faim
+Lapin 253 est mort de faim
+Lapin 87 est mort de faim
+Lapin 177 est mort de faim
+Lapin 186 est mort de faim
+Lapin 225 est mort de faim
+Lapin 254 est mort de faim
+Lapin 256 est mort de faim
+Lapin 142 est mort de faim
+Lapin 241 est mort de faim
+Lapin 257 est mort de faim
+Lapin 248 est mort de faim
+Lapin 258 est mort de faim
+Lapin 75 est mort de faim
+Lapin 239 est mort de faim
+
+Lapin 260 est né de Lapin 68 et Lapin 51
+Lapin 261 est né de Lapin 77 et Lapin 117
+Lapin 262 est né de Lapin 163 et Lapin 206
+Lapin 263 est né de Lapin 210 et Lapin 215
+Lapin 264 est né de Lapin 216 et Lapin 247
+Lapin 265 est né de Lapin 249 et Lapin 226
+Lapin 266 est né de Lapin 255 et Lapin 111
+Lapin 267 est né de Lapin 240 et Lapin 104
+Lapin 268 est né de Lapin 236 et Lapin 242
+
+
+GENERATION : 16
+AJOUT : 82
+CAROTTES : 82
+POPULATION : 27
+Lapin 51 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 4
+Lapin 68 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 3
+Lapin 77 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 5
+Lapin 117 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 2
+Lapin 163 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 0
+Lapin 206 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 3
+Lapin 210 :	Vitesse = 4	Vision = 7	Taille = 1	Reserve = 0
+Lapin 215 :	Vitesse = 4	Vision = 7	Taille = 2	Reserve = 8
+Lapin 216 :	Vitesse = 4	Vision = 0	Taille = 9	Reserve = 4
+Lapin 247 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 0
+Lapin 249 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 14
+Lapin 226 :	Vitesse = 3	Vision = 5	Taille = 8	Reserve = 0
+Lapin 255 :	Vitesse = 3	Vision = 7	Taille = 0	Reserve = 1
+Lapin 111 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 0
+Lapin 240 :	Vitesse = 2	Vision = 2	Taille = 0	Reserve = 14
+Lapin 104 :	Vitesse = 1	Vision = 8	Taille = 0	Reserve = 1
+Lapin 236 :	Vitesse = 1	Vision = 8	Taille = 4	Reserve = 0
+Lapin 242 :	Vitesse = 0	Vision = 4	Taille = 1	Reserve = 2
+Lapin 260 :	Vitesse = 4	Vision = 5	Taille = 9	Reserve = 0
+Lapin 261 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 0
+Lapin 262 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 0
+Lapin 263 :	Vitesse = 4	Vision = 0	Taille = 1	Reserve = 0
+Lapin 264 :	Vitesse = 4	Vision = 4	Taille = 9	Reserve = 0
+Lapin 265 :	Vitesse = 3	Vision = 0	Taille = 0	Reserve = 0
+Lapin 266 :	Vitesse = 1	Vision = 8	Taille = 0	Reserve = 0
+Lapin 267 :	Vitesse = 2	Vision = 8	Taille = 2	Reserve = 0
+Lapin 268 :	Vitesse = 1	Vision = 1	Taille = 1	Reserve = 0
+
+Lapin 51 a pris 2 carottes
+Lapin 68 a pris 3 carottes
+Lapin 77 a pris 3 carottes
+Lapin 117 a pris 5 carottes
+Lapin 163 a pris 4 carottes
+Lapin 206 a pris 7 carottes
+Lapin 210 a pris 4 carottes
+Lapin 215 a pris 4 carottes
+Lapin 216 a pris 2 carottes
+Lapin 247 a pris 4 carottes
+Lapin 249 a pris 3 carottes
+Lapin 260 a pris 2 carottes
+Lapin 261 a pris 3 carottes
+Lapin 262 a pris 5 carottes
+Lapin 263 a pris 3 carottes
+Lapin 264 a pris 2 carottes
+Lapin 226 a pris 3 carottes
+Lapin 255 a pris 4 carottes
+Lapin 265 a pris 2 carottes
+Lapin 111 a pris 6 carottes
+Lapin 240 a pris 3 carottes
+Lapin 267 a pris 6 carottes
+Lapin 104 a pris 2 carottes
+Lapin 236 vole 3 carottes a Lapin 68
+Lapin 266 vole 0 carottes a Lapin 51
+Lapin 268 vole 0 carottes a Lapin 51
+Lapin 242 vole 4 carottes a Lapin 117
+
+
+APRES MANGE : 
+CAROTTES : 0
+POPULATION : 27
+Lapin 51 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 6
+Lapin 68 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 3
+Lapin 77 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 8
+Lapin 117 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 3
+Lapin 163 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 4
+Lapin 206 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 10
+Lapin 210 :	Vitesse = 4	Vision = 7	Taille = 1	Reserve = 4
+Lapin 215 :	Vitesse = 4	Vision = 7	Taille = 2	Reserve = 12
+Lapin 216 :	Vitesse = 4	Vision = 0	Taille = 9	Reserve = 6
+Lapin 247 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 4
+Lapin 249 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 17
+Lapin 260 :	Vitesse = 4	Vision = 5	Taille = 9	Reserve = 2
+Lapin 261 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 4
+Lapin 262 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 5
+Lapin 263 :	Vitesse = 4	Vision = 0	Taille = 1	Reserve = 17
+Lapin 264 :	Vitesse = 4	Vision = 4	Taille = 9	Reserve = 3
+Lapin 226 :	Vitesse = 3	Vision = 5	Taille = 8	Reserve = 3
+Lapin 255 :	Vitesse = 3	Vision = 7	Taille = 0	Reserve = 6
+Lapin 265 :	Vitesse = 3	Vision = 0	Taille = 0	Reserve = 2
+Lapin 111 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 6
+Lapin 240 :	Vitesse = 2	Vision = 2	Taille = 0	Reserve = 3
+Lapin 267 :	Vitesse = 2	Vision = 8	Taille = 2	Reserve = 6
+Lapin 104 :	Vitesse = 1	Vision = 8	Taille = 0	Reserve = 2
+Lapin 236 :	Vitesse = 1	Vision = 8	Taille = 4	Reserve = 3
+Lapin 266 :	Vitesse = 1	Vision = 8	Taille = 0	Reserve = 0
+Lapin 268 :	Vitesse = 1	Vision = 1	Taille = 1	Reserve = 0
+Lapin 242 :	Vitesse = 0	Vision = 4	Taille = 1	Reserve = 4
+
+
+Lapin 260 est mort de faim
+Lapin 265 est mort de faim
+Lapin 104 est mort de faim
+Lapin 266 est mort de faim
+Lapin 268 est mort de faim
+
+Lapin 270 est né de Lapin 68 et Lapin 51
+Lapin 271 est né de Lapin 77 et Lapin 117
+Lapin 272 est né de Lapin 163 et Lapin 206
+Lapin 273 est né de Lapin 210 et Lapin 215
+Lapin 274 est né de Lapin 216 et Lapin 247
+Lapin 275 est né de Lapin 249 et Lapin 261
+Lapin 276 est né de Lapin 262 et Lapin 263
+Lapin 277 est né de Lapin 264 et Lapin 226
+Lapin 278 est né de Lapin 255 et Lapin 111
+Lapin 279 est né de Lapin 240 et Lapin 267
+Lapin 280 est né de Lapin 236 et Lapin 242
+
+
+GENERATION : 17
+AJOUT : 40
+CAROTTES : 40
+POPULATION : 33
+Lapin 51 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 3
+Lapin 68 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 0
+Lapin 77 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 5
+Lapin 117 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 0
+Lapin 163 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 1
+Lapin 206 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 7
+Lapin 210 :	Vitesse = 4	Vision = 7	Taille = 1	Reserve = 1
+Lapin 215 :	Vitesse = 4	Vision = 7	Taille = 2	Reserve = 9
+Lapin 216 :	Vitesse = 4	Vision = 0	Taille = 9	Reserve = 3
+Lapin 247 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 1
+Lapin 249 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 14
+Lapin 261 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 1
+Lapin 262 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 2
+Lapin 263 :	Vitesse = 4	Vision = 0	Taille = 1	Reserve = 14
+Lapin 264 :	Vitesse = 4	Vision = 4	Taille = 9	Reserve = 0
+Lapin 226 :	Vitesse = 3	Vision = 5	Taille = 8	Reserve = 0
+Lapin 255 :	Vitesse = 3	Vision = 7	Taille = 0	Reserve = 3
+Lapin 111 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 3
+Lapin 240 :	Vitesse = 2	Vision = 2	Taille = 0	Reserve = 0
+Lapin 267 :	Vitesse = 2	Vision = 8	Taille = 2	Reserve = 3
+Lapin 236 :	Vitesse = 1	Vision = 8	Taille = 4	Reserve = 0
+Lapin 242 :	Vitesse = 0	Vision = 4	Taille = 1	Reserve = 1
+Lapin 270 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 0
+Lapin 271 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 0
+Lapin 272 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 0
+Lapin 273 :	Vitesse = 3	Vision = 7	Taille = 2	Reserve = 0
+Lapin 274 :	Vitesse = 4	Vision = 7	Taille = 5	Reserve = 0
+Lapin 275 :	Vitesse = 4	Vision = 0	Taille = 9	Reserve = 0
+Lapin 276 :	Vitesse = 4	Vision = 6	Taille = 5	Reserve = 0
+Lapin 277 :	Vitesse = 4	Vision = 5	Taille = 4	Reserve = 0
+Lapin 278 :	Vitesse = 8	Vision = 8	Taille = 0	Reserve = 0
+Lapin 279 :	Vitesse = 2	Vision = 9	Taille = 0	Reserve = 0
+Lapin 280 :	Vitesse = 0	Vision = 1	Taille = 4	Reserve = 0
+
+Lapin 278 a pris 7 carottes
+Lapin 51 a pris 3 carottes
+Lapin 68 a pris 5 carottes
+Lapin 77 a pris 2 carottes
+Lapin 117 a pris 2 carottes
+Lapin 163 a pris 3 carottes
+Lapin 206 a pris 5 carottes
+Lapin 210 a pris 3 carottes
+Lapin 215 a pris 3 carottes
+Lapin 216 a pris 1 carottes
+Lapin 247 a pris 4 carottes
+Lapin 249 a pris 2 carottes
+Lapin 261 vole 3 carottes a Lapin 278
+Lapin 262 a pris 0 carottes
+Lapin 263 vole 6 carottes a Lapin 278
+Lapin 264 vole 0 carottes a Lapin 278
+Lapin 270 a pris 0 carottes
+Lapin 271 a pris 0 carottes
+Lapin 272 vole 9 carottes a Lapin 68
+Lapin 274 a pris 0 carottes
+Lapin 275 vole 1 carottes a Lapin 278
+Lapin 276 vole 0 carottes a Lapin 51
+Lapin 277 vole 1 carottes a Lapin 117
+Lapin 226 vole 1 carottes a Lapin 51
+Lapin 255 vole 2 carottes a Lapin 206
+Lapin 273 vole 0 carottes a Lapin 51
+Lapin 111 vole 1 carottes a Lapin 51
+Lapin 240 vole 0 carottes a Lapin 51
+Lapin 267 vole 1 carottes a Lapin 51
+Lapin 279 vole 0 carottes a Lapin 163
+Lapin 236 vole 1 carottes a Lapin 206
+Lapin 242 vole 2 carottes a Lapin 117
+Lapin 280 vole 1 carottes a Lapin 163
+
+
+APRES MANGE : 
+CAROTTES : 0
+POPULATION : 33
+Lapin 278 :	Vitesse = 8	Vision = 8	Taille = 0	Reserve = 0
+Lapin 51 :	Vitesse = 4	Vision = 4	Taille = 1	Reserve = 0
+Lapin 68 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 1
+Lapin 77 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 2
+Lapin 117 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 0
+Lapin 163 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 9
+Lapin 206 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 3
+Lapin 210 :	Vitesse = 4	Vision = 7	Taille = 1	Reserve = 12
+Lapin 215 :	Vitesse = 4	Vision = 7	Taille = 2	Reserve = 6
+Lapin 216 :	Vitesse = 4	Vision = 0	Taille = 9	Reserve = 2
+Lapin 247 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 18
+Lapin 249 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 3
+Lapin 261 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 5
+Lapin 262 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 14
+Lapin 263 :	Vitesse = 4	Vision = 0	Taille = 1	Reserve = 6
+Lapin 264 :	Vitesse = 4	Vision = 4	Taille = 9	Reserve = 0
+Lapin 270 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 3
+Lapin 271 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 3
+Lapin 272 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 9
+Lapin 274 :	Vitesse = 4	Vision = 7	Taille = 5	Reserve = 3
+Lapin 275 :	Vitesse = 4	Vision = 0	Taille = 9	Reserve = 1
+Lapin 276 :	Vitesse = 4	Vision = 6	Taille = 5	Reserve = 1
+Lapin 277 :	Vitesse = 4	Vision = 5	Taille = 4	Reserve = 1
+Lapin 226 :	Vitesse = 3	Vision = 5	Taille = 8	Reserve = 1
+Lapin 255 :	Vitesse = 3	Vision = 7	Taille = 0	Reserve = 2
+Lapin 273 :	Vitesse = 3	Vision = 7	Taille = 2	Reserve = 0
+Lapin 111 :	Vitesse = 2	Vision = 8	Taille = 7	Reserve = 1
+Lapin 240 :	Vitesse = 2	Vision = 2	Taille = 0	Reserve = 0
+Lapin 267 :	Vitesse = 2	Vision = 8	Taille = 2	Reserve = 1
+Lapin 279 :	Vitesse = 2	Vision = 9	Taille = 0	Reserve = 0
+Lapin 236 :	Vitesse = 1	Vision = 8	Taille = 4	Reserve = 1
+Lapin 242 :	Vitesse = 0	Vision = 4	Taille = 1	Reserve = 2
+Lapin 280 :	Vitesse = 0	Vision = 1	Taille = 4	Reserve = 1
+
+
+Lapin 278 est mort de faim
+Lapin 51 est mort de faim
+Lapin 68 est mort de faim
+Lapin 77 est mort de faim
+Lapin 117 est mort de faim
+Lapin 216 est mort de faim
+Lapin 264 est mort de faim
+Lapin 275 est mort de faim
+Lapin 276 est mort de faim
+Lapin 277 est mort de faim
+Lapin 226 est mort de faim
+Lapin 255 est mort de faim
+Lapin 273 est mort de faim
+Lapin 111 est mort de faim
+Lapin 240 est mort de faim
+Lapin 267 est mort de faim
+Lapin 279 est mort de faim
+Lapin 236 est mort de faim
+Lapin 242 est mort de faim
+Lapin 280 est mort de faim
+
+Lapin 282 est né de Lapin 206 et Lapin 163
+Lapin 283 est né de Lapin 210 et Lapin 215
+Lapin 284 est né de Lapin 247 et Lapin 249
+Lapin 285 est né de Lapin 261 et Lapin 262
+Lapin 286 est né de Lapin 263 et Lapin 270
+Lapin 287 est né de Lapin 271 et Lapin 272
+
+
+GENERATION : 18
+AJOUT : 25
+CAROTTES : 25
+POPULATION : 19
+Lapin 163 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 6
+Lapin 206 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 0
+Lapin 210 :	Vitesse = 4	Vision = 7	Taille = 1	Reserve = 9
+Lapin 215 :	Vitesse = 4	Vision = 7	Taille = 2	Reserve = 3
+Lapin 247 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 15
+Lapin 249 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 0
+Lapin 261 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 2
+Lapin 262 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 11
+Lapin 263 :	Vitesse = 4	Vision = 0	Taille = 1	Reserve = 3
+Lapin 270 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 0
+Lapin 271 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 0
+Lapin 272 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 6
+Lapin 274 :	Vitesse = 4	Vision = 7	Taille = 5	Reserve = 0
+Lapin 282 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 0
+Lapin 283 :	Vitesse = 4	Vision = 2	Taille = 1	Reserve = 0
+Lapin 284 :	Vitesse = 4	Vision = 0	Taille = 9	Reserve = 0
+Lapin 285 :	Vitesse = 4	Vision = 6	Taille = 4	Reserve = 0
+Lapin 286 :	Vitesse = 4	Vision = 7	Taille = 1	Reserve = 0
+Lapin 287 :	Vitesse = 1	Vision = 2	Taille = 6	Reserve = 0
+
+Lapin 163 a pris 1 carottes
+Lapin 206 a pris 4 carottes
+Lapin 210 a pris 4 carottes
+Lapin 215 a pris 4 carottes
+Lapin 247 a pris 4 carottes
+Lapin 249 a pris 2 carottes
+Lapin 261 a pris 4 carottes
+Lapin 262 a pris 2 carottes
+Lapin 263 a pris 0 carottes
+Lapin 270 vole 4 carottes a Lapin 163
+Lapin 271 vole 0 carottes a Lapin 163
+Lapin 272 a pris 0 carottes
+Lapin 274 vole 2 carottes a Lapin 206
+Lapin 282 vole 11 carottes a Lapin 210
+Lapin 283 vole 2 carottes a Lapin 206
+Lapin 284 vole 0 carottes a Lapin 163
+Lapin 285 vole 3 carottes a Lapin 163
+Lapin 286 vole 1 carottes a Lapin 210
+Lapin 287 vole 1 carottes a Lapin 210
+
+
+APRES MANGE : 
+CAROTTES : 0
+POPULATION : 19
+Lapin 163 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 0
+Lapin 206 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 0
+Lapin 210 :	Vitesse = 4	Vision = 7	Taille = 1	Reserve = 0
+Lapin 215 :	Vitesse = 4	Vision = 7	Taille = 2	Reserve = 7
+Lapin 247 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 19
+Lapin 249 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 2
+Lapin 261 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 6
+Lapin 262 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 13
+Lapin 263 :	Vitesse = 4	Vision = 0	Taille = 1	Reserve = 3
+Lapin 270 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 4
+Lapin 271 :	Vitesse = 4	Vision = 2	Taille = 9	Reserve = 0
+Lapin 272 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 6
+Lapin 274 :	Vitesse = 4	Vision = 7	Taille = 5	Reserve = 2
+Lapin 282 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 11
+Lapin 283 :	Vitesse = 4	Vision = 2	Taille = 1	Reserve = 2
+Lapin 284 :	Vitesse = 4	Vision = 0	Taille = 9	Reserve = 0
+Lapin 285 :	Vitesse = 4	Vision = 6	Taille = 4	Reserve = 3
+Lapin 286 :	Vitesse = 4	Vision = 7	Taille = 1	Reserve = 1
+Lapin 287 :	Vitesse = 1	Vision = 2	Taille = 6	Reserve = 1
+
+
+Lapin 163 est mort de faim
+Lapin 206 est mort de faim
+Lapin 210 est mort de faim
+Lapin 249 est mort de faim
+Lapin 271 est mort de faim
+Lapin 274 est mort de faim
+Lapin 283 est mort de faim
+Lapin 284 est mort de faim
+Lapin 286 est mort de faim
+Lapin 287 est mort de faim
+
+Lapin 289 est né de Lapin 247 et Lapin 215
+Lapin 290 est né de Lapin 261 et Lapin 262
+Lapin 291 est né de Lapin 263 et Lapin 270
+Lapin 292 est né de Lapin 272 et Lapin 282
+
+
+GENERATION : 19
+AJOUT : 87
+CAROTTES : 87
+POPULATION : 13
+Lapin 215 :	Vitesse = 4	Vision = 7	Taille = 2	Reserve = 4
+Lapin 247 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 16
+Lapin 261 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 3
+Lapin 262 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 10
+Lapin 263 :	Vitesse = 4	Vision = 0	Taille = 1	Reserve = 0
+Lapin 270 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 1
+Lapin 272 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 3
+Lapin 282 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 8
+Lapin 285 :	Vitesse = 4	Vision = 6	Taille = 4	Reserve = 0
+Lapin 289 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 0
+Lapin 290 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 0
+Lapin 291 :	Vitesse = 4	Vision = 0	Taille = 4	Reserve = 0
+Lapin 292 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 0
+
+Lapin 215 a pris 2 carottes
+Lapin 247 a pris 3 carottes
+Lapin 261 a pris 4 carottes
+Lapin 262 a pris 6 carottes
+Lapin 263 a pris 3 carottes
+Lapin 270 a pris 3 carottes
+Lapin 272 a pris 3 carottes
+Lapin 282 a pris 3 carottes
+Lapin 285 a pris 5 carottes
+Lapin 289 a pris 3 carottes
+Lapin 290 a pris 3 carottes
+Lapin 291 a pris 2 carottes
+Lapin 292 a pris 3 carottes
+
+
+APRES MANGE : 
+CAROTTES : 44
+POPULATION : 13
+Lapin 215 :	Vitesse = 4	Vision = 7	Taille = 2	Reserve = 6
+Lapin 247 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 19
+Lapin 261 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 7
+Lapin 262 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 16
+Lapin 263 :	Vitesse = 4	Vision = 0	Taille = 1	Reserve = 3
+Lapin 270 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 4
+Lapin 272 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 6
+Lapin 282 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 11
+Lapin 285 :	Vitesse = 4	Vision = 6	Taille = 4	Reserve = 5
+Lapin 289 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 3
+Lapin 290 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 3
+Lapin 291 :	Vitesse = 4	Vision = 0	Taille = 4	Reserve = 2
+Lapin 292 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 3
+
+
+Lapin 291 est mort de faim
+
+Lapin 294 est né de Lapin 247 et Lapin 215
+Lapin 295 est né de Lapin 261 et Lapin 262
+Lapin 296 est né de Lapin 263 et Lapin 270
+Lapin 297 est né de Lapin 272 et Lapin 282
+Lapin 298 est né de Lapin 285 et Lapin 289
+Lapin 299 est né de Lapin 290 et Lapin 292
+
+
+GENERATION : 20
+AJOUT : 9
+CAROTTES : 53
+POPULATION : 18
+Lapin 215 :	Vitesse = 4	Vision = 7	Taille = 2	Reserve = 3
+Lapin 247 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 16
+Lapin 261 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 4
+Lapin 262 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 13
+Lapin 263 :	Vitesse = 4	Vision = 0	Taille = 1	Reserve = 0
+Lapin 270 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 1
+Lapin 272 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 3
+Lapin 282 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 8
+Lapin 285 :	Vitesse = 4	Vision = 6	Taille = 4	Reserve = 2
+Lapin 289 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 0
+Lapin 290 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 0
+Lapin 292 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 0
+Lapin 294 :	Vitesse = 1	Vision = 7	Taille = 2	Reserve = 0
+Lapin 295 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 0
+Lapin 296 :	Vitesse = 4	Vision = 0	Taille = 3	Reserve = 0
+Lapin 297 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 0
+Lapin 298 :	Vitesse = 4	Vision = 9	Taille = 9	Reserve = 0
+Lapin 299 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 0
+
+Lapin 215 a pris 1 carottes
+Lapin 247 a pris 0 carottes
+Lapin 261 a pris 4 carottes
+Lapin 262 a pris 5 carottes
+Lapin 263 a pris 3 carottes
+Lapin 270 a pris 3 carottes
+Lapin 272 a pris 3 carottes
+Lapin 282 a pris 3 carottes
+Lapin 285 a pris 5 carottes
+Lapin 289 a pris 4 carottes
+Lapin 290 a pris 2 carottes
+Lapin 292 a pris 3 carottes
+Lapin 296 a pris 4 carottes
+Lapin 297 a pris 3 carottes
+Lapin 298 a pris 4 carottes
+Lapin 299 a pris 6 carottes
+Lapin 295 vole 6 carottes a Lapin 262
+Lapin 294 vole 2 carottes a Lapin 262
+
+
+APRES MANGE : 
+CAROTTES : 0
+POPULATION : 18
+Lapin 215 :	Vitesse = 4	Vision = 7	Taille = 2	Reserve = 4
+Lapin 247 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 16
+Lapin 261 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 8
+Lapin 262 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 10
+Lapin 263 :	Vitesse = 4	Vision = 0	Taille = 1	Reserve = 3
+Lapin 270 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 4
+Lapin 272 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 6
+Lapin 282 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 11
+Lapin 285 :	Vitesse = 4	Vision = 6	Taille = 4	Reserve = 7
+Lapin 289 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 4
+Lapin 290 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 2
+Lapin 292 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 3
+Lapin 296 :	Vitesse = 4	Vision = 0	Taille = 3	Reserve = 4
+Lapin 297 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 3
+Lapin 298 :	Vitesse = 4	Vision = 9	Taille = 9	Reserve = 4
+Lapin 299 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 6
+Lapin 295 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 6
+Lapin 294 :	Vitesse = 1	Vision = 7	Taille = 2	Reserve = 2
+
+
+Lapin 290 est mort de faim
+Lapin 294 est mort de faim
+
+Lapin 301 est né de Lapin 247 et Lapin 215
+Lapin 302 est né de Lapin 261 et Lapin 262
+Lapin 303 est né de Lapin 263 et Lapin 270
+Lapin 304 est né de Lapin 272 et Lapin 282
+Lapin 305 est né de Lapin 285 et Lapin 289
+Lapin 306 est né de Lapin 292 et Lapin 296
+Lapin 307 est né de Lapin 297 et Lapin 298
+Lapin 308 est né de Lapin 299 et Lapin 295
+
+
+GENERATION : 21
+AJOUT : 11
+CAROTTES : 11
+POPULATION : 24
+Lapin 215 :	Vitesse = 4	Vision = 7	Taille = 2	Reserve = 1
+Lapin 247 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 13
+Lapin 261 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 5
+Lapin 262 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 7
+Lapin 263 :	Vitesse = 4	Vision = 0	Taille = 1	Reserve = 0
+Lapin 270 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 1
+Lapin 272 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 3
+Lapin 282 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 8
+Lapin 285 :	Vitesse = 4	Vision = 6	Taille = 4	Reserve = 4
+Lapin 289 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 1
+Lapin 292 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 0
+Lapin 296 :	Vitesse = 4	Vision = 0	Taille = 3	Reserve = 1
+Lapin 297 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 0
+Lapin 298 :	Vitesse = 4	Vision = 9	Taille = 9	Reserve = 1
+Lapin 299 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 3
+Lapin 295 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 3
+Lapin 301 :	Vitesse = 4	Vision = 1	Taille = 2	Reserve = 0
+Lapin 302 :	Vitesse = 8	Vision = 6	Taille = 0	Reserve = 0
+Lapin 303 :	Vitesse = 2	Vision = 0	Taille = 7	Reserve = 0
+Lapin 304 :	Vitesse = 4	Vision = 3	Taille = 9	Reserve = 0
+Lapin 305 :	Vitesse = 4	Vision = 7	Taille = 4	Reserve = 0
+Lapin 306 :	Vitesse = 6	Vision = 0	Taille = 0	Reserve = 0
+Lapin 307 :	Vitesse = 4	Vision = 9	Taille = 4	Reserve = 0
+Lapin 308 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 0
+
+Lapin 302 a pris 2 carottes
+Lapin 306 a pris 2 carottes
+Lapin 215 a pris 4 carottes
+Lapin 247 a pris 3 carottes
+Lapin 261 vole 10 carottes a Lapin 306
+Lapin 262 vole 0 carottes a Lapin 247
+Lapin 263 a pris 0 carottes
+Lapin 270 a pris 0 carottes
+Lapin 272 a pris 0 carottes
+Lapin 282 vole 0 carottes a Lapin 302
+Lapin 285 vole 3 carottes a Lapin 302
+Lapin 289 vole 4 carottes a Lapin 306
+Lapin 292 vole 1 carottes a Lapin 306
+Lapin 296 vole 9 carottes a Lapin 247
+Lapin 297 a pris 0 carottes
+Lapin 298 a pris 0 carottes
+Lapin 299 vole 1 carottes a Lapin 270
+Lapin 301 vole 1 carottes a Lapin 262
+Lapin 304 vole 8 carottes a Lapin 215
+Lapin 305 vole 1 carottes a Lapin 215
+Lapin 307 vole 2 carottes a Lapin 263
+Lapin 308 vole 4 carottes a Lapin 261
+Lapin 295 vole 0 carottes a Lapin 263
+Lapin 303 vole 1 carottes a Lapin 263
+
+
+APRES MANGE : 
+CAROTTES : 0
+POPULATION : 24
+Lapin 302 :	Vitesse = 8	Vision = 6	Taille = 0	Reserve = 0
+Lapin 306 :	Vitesse = 6	Vision = 0	Taille = 0	Reserve = 0
+Lapin 215 :	Vitesse = 4	Vision = 7	Taille = 2	Reserve = 0
+Lapin 247 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 1
+Lapin 261 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 6
+Lapin 262 :	Vitesse = 4	Vision = 6	Taille = 0	Reserve = 0
+Lapin 263 :	Vitesse = 4	Vision = 0	Taille = 1	Reserve = 0
+Lapin 270 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 7
+Lapin 272 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 4
+Lapin 282 :	Vitesse = 4	Vision = 3	Taille = 0	Reserve = 1
+Lapin 285 :	Vitesse = 4	Vision = 6	Taille = 4	Reserve = 3
+Lapin 289 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 5
+Lapin 292 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 1
+Lapin 296 :	Vitesse = 4	Vision = 0	Taille = 3	Reserve = 10
+Lapin 297 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 3
+Lapin 298 :	Vitesse = 4	Vision = 9	Taille = 9	Reserve = 3
+Lapin 299 :	Vitesse = 4	Vision = 9	Taille = 0	Reserve = 1
+Lapin 301 :	Vitesse = 4	Vision = 1	Taille = 2	Reserve = 1
+Lapin 304 :	Vitesse = 4	Vision = 3	Taille = 9	Reserve = 8
+Lapin 305 :	Vitesse = 4	Vision = 7	Taille = 4	Reserve = 1
+Lapin 307 :	Vitesse = 4	Vision = 9	Taille = 4	Reserve = 2
+Lapin 308 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 4
+Lapin 295 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 0
+Lapin 303 :	Vitesse = 2	Vision = 0	Taille = 7	Reserve = 1
+
+
+Lapin 302 est mort de faim
+Lapin 306 est mort de faim
+Lapin 215 est mort de faim
+Lapin 247 est mort de faim
+Lapin 262 est mort de faim
+Lapin 263 est mort de faim
+Lapin 282 est mort de faim
+Lapin 292 est mort de faim
+Lapin 299 est mort de faim
+Lapin 301 est mort de faim
+Lapin 305 est mort de faim
+Lapin 307 est mort de faim
+Lapin 295 est mort de faim
+Lapin 303 est mort de faim
+
+Lapin 310 est né de Lapin 270 et Lapin 261
+Lapin 311 est né de Lapin 272 et Lapin 285
+Lapin 312 est né de Lapin 289 et Lapin 296
+Lapin 313 est né de Lapin 297 et Lapin 298
+Lapin 314 est né de Lapin 304 et Lapin 308
+
+
+GENERATION : 22
+AJOUT : 6
+CAROTTES : 6
+POPULATION : 15
+Lapin 261 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 3
+Lapin 270 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 4
+Lapin 272 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 1
+Lapin 285 :	Vitesse = 4	Vision = 6	Taille = 4	Reserve = 0
+Lapin 289 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 2
+Lapin 296 :	Vitesse = 4	Vision = 0	Taille = 3	Reserve = 7
+Lapin 297 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 0
+Lapin 298 :	Vitesse = 4	Vision = 9	Taille = 9	Reserve = 0
+Lapin 304 :	Vitesse = 4	Vision = 3	Taille = 9	Reserve = 5
+Lapin 308 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 1
+Lapin 310 :	Vitesse = 4	Vision = 9	Taille = 9	Reserve = 0
+Lapin 311 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 0
+Lapin 312 :	Vitesse = 4	Vision = 3	Taille = 3	Reserve = 0
+Lapin 313 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 0
+Lapin 314 :	Vitesse = 4	Vision = 0	Taille = 3	Reserve = 0
+
+Lapin 261 a pris 1 carottes
+Lapin 270 a pris 2 carottes
+Lapin 272 a pris 1 carottes
+Lapin 285 a pris 2 carottes
+Lapin 289 vole 0 carottes a Lapin 261
+Lapin 296 a pris 0 carottes
+Lapin 297 vole 3 carottes a Lapin 270
+Lapin 298 vole 1 carottes a Lapin 261
+Lapin 304 a pris 0 carottes
+Lapin 308 vole 2 carottes a Lapin 272
+Lapin 310 vole 1 carottes a Lapin 270
+Lapin 312 vole 0 carottes a Lapin 261
+Lapin 313 vole 2 carottes a Lapin 285
+Lapin 314 vole 2 carottes a Lapin 270
+Lapin 311 vole 5 carottes a Lapin 296
+
+
+APRES MANGE : 
+CAROTTES : 0
+POPULATION : 15
+Lapin 261 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 3
+Lapin 270 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 0
+Lapin 272 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 0
+Lapin 285 :	Vitesse = 4	Vision = 6	Taille = 4	Reserve = 0
+Lapin 289 :	Vitesse = 4	Vision = 7	Taille = 9	Reserve = 2
+Lapin 296 :	Vitesse = 4	Vision = 0	Taille = 3	Reserve = 2
+Lapin 297 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 3
+Lapin 298 :	Vitesse = 4	Vision = 9	Taille = 9	Reserve = 1
+Lapin 304 :	Vitesse = 4	Vision = 3	Taille = 9	Reserve = 5
+Lapin 308 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 3
+Lapin 310 :	Vitesse = 4	Vision = 9	Taille = 9	Reserve = 1
+Lapin 312 :	Vitesse = 4	Vision = 3	Taille = 3	Reserve = 0
+Lapin 313 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 2
+Lapin 314 :	Vitesse = 4	Vision = 0	Taille = 3	Reserve = 2
+Lapin 311 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 5
+
+
+Lapin 270 est mort de faim
+Lapin 272 est mort de faim
+Lapin 285 est mort de faim
+Lapin 289 est mort de faim
+Lapin 296 est mort de faim
+Lapin 298 est mort de faim
+Lapin 310 est mort de faim
+Lapin 312 est mort de faim
+Lapin 313 est mort de faim
+Lapin 314 est mort de faim
+
+Lapin 316 est né de Lapin 297 et Lapin 261
+Lapin 317 est né de Lapin 304 et Lapin 308
+
+
+GENERATION : 23
+AJOUT : 12
+CAROTTES : 12
+POPULATION : 7
+Lapin 261 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 0
+Lapin 297 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 0
+Lapin 304 :	Vitesse = 4	Vision = 3	Taille = 9	Reserve = 2
+Lapin 308 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 0
+Lapin 311 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 2
+Lapin 316 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 0
+Lapin 317 :	Vitesse = 6	Vision = 3	Taille = 0	Reserve = 0
+
+Lapin 317 a pris 2 carottes
+Lapin 261 a pris 2 carottes
+Lapin 297 a pris 1 carottes
+Lapin 304 a pris 3 carottes
+Lapin 308 a pris 3 carottes
+Lapin 316 a pris 1 carottes
+Lapin 311 vole 0 carottes a Lapin 297
+
+
+APRES MANGE : 
+CAROTTES : 0
+POPULATION : 7
+Lapin 317 :	Vitesse = 6	Vision = 3	Taille = 0	Reserve = 2
+Lapin 261 :	Vitesse = 4	Vision = 6	Taille = 9	Reserve = 2
+Lapin 297 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 3
+Lapin 304 :	Vitesse = 4	Vision = 3	Taille = 9	Reserve = 3
+Lapin 308 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 5
+Lapin 316 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 1
+Lapin 311 :	Vitesse = 3	Vision = 6	Taille = 0	Reserve = 0
+
+
+Lapin 317 est mort de faim
+Lapin 261 est mort de faim
+Lapin 316 est mort de faim
+Lapin 311 est mort de faim
+
+Lapin 319 est né de Lapin 304 et Lapin 297
+
+
+GENERATION : 24
+AJOUT : 35
+CAROTTES : 35
+POPULATION : 4
+Lapin 297 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 0
+Lapin 304 :	Vitesse = 4	Vision = 3	Taille = 9	Reserve = 0
+Lapin 308 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 2
+Lapin 319 :	Vitesse = 4	Vision = 4	Taille = 9	Reserve = 0
+
+Lapin 297 a pris 3 carottes
+Lapin 304 a pris 2 carottes
+Lapin 308 a pris 2 carottes
+Lapin 319 a pris 2 carottes
+
+
+APRES MANGE : 
+CAROTTES : 26
+POPULATION : 4
+Lapin 297 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 3
+Lapin 304 :	Vitesse = 4	Vision = 3	Taille = 9	Reserve = 2
+Lapin 308 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 4
+Lapin 319 :	Vitesse = 4	Vision = 4	Taille = 9	Reserve = 2
+
+
+Lapin 304 est mort de faim
+Lapin 319 est mort de faim
+
+Lapin 321 est né de Lapin 308 et Lapin 297
+
+
+GENERATION : 25
+AJOUT : 81
+CAROTTES : 107
+POPULATION : 3
+Lapin 297 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 0
+Lapin 308 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 1
+Lapin 321 :	Vitesse = 4	Vision = 0	Taille = 1	Reserve = 0
+
+Lapin 297 a pris 2 carottes
+Lapin 308 a pris 2 carottes
+Lapin 321 a pris 1 carottes
+
+
+APRES MANGE : 
+CAROTTES : 102
+POPULATION : 3
+Lapin 297 :	Vitesse = 4	Vision = 4	Taille = 0	Reserve = 2
+Lapin 308 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 3
+Lapin 321 :	Vitesse = 4	Vision = 0	Taille = 1	Reserve = 1
+
+
+Lapin 297 est mort de faim
+Lapin 321 est mort de faim
+
+
+
+GENERATION : 26
+AJOUT : 68
+CAROTTES : 170
+POPULATION : 1
+Lapin 308 :	Vitesse = 4	Vision = 0	Taille = 0	Reserve = 0
+
+		Lapin 308 est mort de solitude
+

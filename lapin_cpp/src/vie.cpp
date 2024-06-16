@@ -33,37 +33,39 @@ static void	order(std::list<Lapin>& lapins)
 	}
 }
 
-static int	vol(Lapin &voleur, std::list<Lapin>& lapins)
+static int	vol(Lapin& voleur, std::list<Lapin>& lapins)
 {
-	int vol = std::rand() % 4;
 	std::list<Lapin>::iterator it = lapins.begin();
 	while (it != lapins.end())
 	{
-		if (voleur.get_taille() - it->get_taille() > 2 && it->get_reserve())
+		if (it->get_reserve())
 		{
-			if (vol > it->get_reserve())
-				vol = it->get_reserve();
-			if (COLOR)
-				printf("%sLapin %d vole %d carottes à Lapin %d%s\n", HMAG, voleur.get_index(), vol, it->get_index(), RESET);
-			else
-				printf("Lapin %d vole %d carottes à Lapin %d\n", voleur.get_index(), vol, it->get_index());
-			it->set_reserve(it->get_reserve() - vol);
-			return (vol);
+			int chance = std::rand() % 100;
+			if (chance < 50 + (voleur.get_taille() - it->get_taille()) * 5)
+			{
+				int vol = std::rand() % (it->get_reserve() + 1);
+				if (COLOR)
+					printf("%sLapin %d vole %d carottes a Lapin %d%s\n", HMAG, voleur.get_index(), vol, it->get_index(), RESET);
+				else
+					printf("Lapin %d vole %d carottes a Lapin %d\n", voleur.get_index(), vol, it->get_index());
+				it->set_reserve(it->get_reserve() - vol);
+				return (vol);
+			}
 		}
 		it++;
 	}
 	return (0);
 }
 
-static void	manger(std::list<Lapin>& lapins, int& ressources)
+static void	manger(std::list<Lapin>& lapins, int& ressources, int survivre)
 {
 	std::list<Lapin>::iterator it = lapins.begin();
 	int	carottes = 0;
 	while (it != lapins.end())
 	{
-		if (ressources < 1)
+		if (it->get_reserve() < survivre && !ressources)
 		{
-			it->set_reserve(vol(*it, lapins));
+			it->set_reserve(it->get_reserve() + vol(*it, lapins));
 		}
 		else
 		{
@@ -90,23 +92,32 @@ static void	manger(std::list<Lapin>& lapins, int& ressources)
 			carottes /= 3;
 			if (carottes > ressources)
 			{
-				it->set_reserve(ressources);
+				it->set_reserve(it->get_reserve() + ressources);
+				if (COLOR)
+					printf("%sLapin %d a pris %d carottes%s\n", HBLUE, it->get_index(), ressources, RESET);
+				else
+					printf("Lapin %d a pris %d carottes\n", it->get_index(), ressources);
 				ressources = 0;
 			}
 			else
 			{
 				ressources -= carottes;
+				if (COLOR)
+					printf("%sLapin %d a pris %d carottes%s\n", HBLUE, it->get_index(), carottes, RESET);
+				else
+					printf("Lapin %d a pris %d carottes\n", it->get_index(), carottes);
 				it->set_reserve(it->get_reserve() + carottes);
 			}
 		}
 		it++;
 	}
+	printf("\n");
 }
 
 void	vie(std::list<Lapin>& lapins, int& ressources, int survivre, int reproduction)
 {
 	order(lapins);
-	manger(lapins, ressources);
+	manger(lapins, ressources, survivre);
 	printf("\n");
 	aff_lapins(lapins, ressources, 0, 0);
 	destin(lapins, survivre, reproduction);
