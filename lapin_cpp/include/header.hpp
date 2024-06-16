@@ -12,9 +12,11 @@
 
 class Lapin;
 
-void	vie(std::list<Lapin>& lapins, int ressources, int survivre, int reproduction);
-void	aff_lapins(std::list<Lapin> lapins);
+void	vie(std::list<Lapin>& lapins, int& ressources, int survivre, int reproduction);
+void	aff_lapins(std::list<Lapin> lapins, int ressources, int flag);
 void	help(void);
 void	destin(std::list<Lapin>& lapins, int survivre, int reproduction);
+void	sterelisation(std::list<Lapin>& lapins);
+void	famine(std::list<Lapin>& lapins);
 
 #endif

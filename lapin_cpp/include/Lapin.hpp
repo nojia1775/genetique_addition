@@ -18,7 +18,6 @@ class	Lapin
 		int	carottes_manges;
 
 		Lapin(void);
-		Lapin(int vitesse, int vue, int taille);
 		~Lapin(void);
 		int	get_vitesse(void);
 		int	get_vue(void);

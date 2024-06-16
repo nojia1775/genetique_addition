@@ -41,9 +41,9 @@ static int	vol(Lapin &voleur, std::list<Lapin>& lapins)
 	{
 		if (voleur.get_taille() - it->get_taille() > 2 && it->carottes_manges)
 		{
-			printf("%d vol %d a %d\n", voleur.get_index(), vol, it->get_index());
 			if (vol > it->carottes_manges)
 				vol = it->carottes_manges;
+			printf("Lapin %d vole %d carottes à Lapin %d\n", voleur.get_index(), vol, it->get_index());
 			it->carottes_manges -= vol;
 			return (vol);
 		}
@@ -52,20 +52,13 @@ static int	vol(Lapin &voleur, std::list<Lapin>& lapins)
 	return (0);
 }
 
-static void	manger(std::list<Lapin>& lapins, int ressources)
+static void	manger(std::list<Lapin>& lapins, int& ressources)
 {
-	int	toaff = 1;
 	std::list<Lapin>::iterator it = lapins.begin();
 	while (it != lapins.end())
 	{
 		if (ressources < 1)
 		{
-			if (toaff)
-			{
-				printf("APRES MANGE :\n");
-				aff_lapins(lapins);
-			}
-			toaff = 0;
 			it->carottes_manges = vol(*it, lapins);
 		}
 		else
@@ -103,9 +96,11 @@ static void	manger(std::list<Lapin>& lapins, int ressources)
 	}
 }
 
-void	vie(std::list<Lapin>& lapins, int ressources, int survivre, int reproduction)
+void	vie(std::list<Lapin>& lapins, int& ressources, int survivre, int reproduction)
 {
 	order(lapins);
 	manger(lapins, ressources);
+	aff_lapins(lapins, ressources, 0);
 	destin(lapins, survivre, reproduction);
+	famine(lapins);
 }
