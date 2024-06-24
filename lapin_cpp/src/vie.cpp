@@ -80,25 +80,25 @@ static void	manger(std::list<Lapin>& lapins, int& ressources, int survivre)
 		{
 			if (it->get_vue() < 3)
 			{
-				for (int i = 0; i < 3; i++)
-					carottes += std::rand() % 4;
+				for (int i = 0; i < survivre / 2; i++)
+					carottes += std::rand() % survivre;
 			}
 			else if (it->get_vue() < 5)
 			{
-				for (int i = 0; i < 4; i++)
-					carottes += std::rand() % 4;
+				for (int i = 0; i < (survivre / 2) + survivre / 4; i++)
+					carottes += std::rand() % survivre;
 			}
 			else if (it->get_vue() < 8)
 			{
-				for (int i = 0; i < 5; i++)
-					carottes += std::rand() % 4;
+				for (int i = 0; i < survivre; i++)
+					carottes += std::rand() % survivre;
 			}
-			else if (it->get_vue() < 10)
+			else if (it->get_vue() < survivre * 2)
 			{
 				for (int i = 0; i < 9; i++)
-					carottes += std::rand() % 4;
+					carottes += std::rand() % survivre;
 			}
-			carottes /= 3;
+			carottes /= survivre / 3;
 			if (carottes > ressources)
 			{
 				it->set_reserve(it->get_reserve() + ressources);
