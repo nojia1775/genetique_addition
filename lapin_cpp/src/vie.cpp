@@ -17,10 +17,12 @@ static void	order(std::list<Lapin>& lapins)
 			i->set_taille(j->get_taille());
 			i->set_vitesse(j->get_vitesse());
 			i->set_vue(j->get_vue());
+			i->set_reserve(j->get_reserve());
 			j->set_index(tmp.get_index());
 			j->set_taille(tmp.get_taille());
 			j->set_vitesse(tmp.get_vitesse());
 			j->set_vue(tmp.get_vue());
+			j->set_reserve(tmp.get_reserve());
 			i = lapins.begin();
 			j = lapins.begin();
 			j++;
@@ -33,11 +35,19 @@ static void	order(std::list<Lapin>& lapins)
 	}
 }
 
-static int	vol(Lapin& voleur, std::list<Lapin>& lapins)
+static int	vol(Lapin &voleur, std::list<Lapin>& lapins)
 {
-	std::list<Lapin>::iterator it = lapins.begin();
-	while (it != lapins.end())
+	int	i = 0;
+	int random = voleur.get_index();
+	std::list<Lapin>::iterator it;
+	while (i++ < 10)
 	{
+		it = lapins.begin();
+		while (random == voleur.get_index())
+			random = std::rand() % lapins.size();
+		int n = 0;
+		while (n++ < random)
+			it++;
 		if (it->get_reserve())
 		{
 			int chance = std::rand() % 100;
@@ -52,7 +62,6 @@ static int	vol(Lapin& voleur, std::list<Lapin>& lapins)
 				return (vol);
 			}
 		}
-		it++;
 	}
 	return (0);
 }

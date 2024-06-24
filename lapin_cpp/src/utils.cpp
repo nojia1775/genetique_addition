@@ -47,7 +47,9 @@ void	famine(std::list<Lapin>& lapins, int survivre, int reproduction)
 	std::list<Lapin>::iterator it = lapins.begin();
 	while (it != lapins.end())
 	{
-		if (it->parent)
+		if (it->get_reserve() == 0)
+			;
+		else if (it->parent)
 			it->set_reserve(it->get_reserve() - reproduction);
 		else
 			it->set_reserve(it->get_reserve() - survivre);
